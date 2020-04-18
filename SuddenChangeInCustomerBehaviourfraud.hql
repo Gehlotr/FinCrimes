@@ -1,6 +1,6 @@
 /* HQL script will detect sudden change in behaviour for an account
    where daily ATM transaction count is greater than monthly average ATM transaction 
-   count 
+   count or transaction amount
 */
 WITH temp_data
 AS (
@@ -18,16 +18,18 @@ AS (
 	SELECT a.acct_id AS AcctID
 		,a.acct_name AS AcctName
 		,CASE 
-			WHEN (td.transaction_ct > a.avg_monthly_atm_ct) -- When Daily transaction ct > than monthly avg ct
+			WHEN (td.transaction_ct > a.avg_monthly_atm_ct or td.transaction_amt > a.avg_monthly_atm_amt) -- When Daily transaction ct > than monthly avg ct
 				THEN 'Y'
 			ELSE 'N'
 			END Potential_fraud_fl -- Fraud Flag
 		,a.acct_risk
-		,a.avg_monthly_atm_ct AS Monthly_Avg_Debit_trans_ct
+		,a.avg_monthly_atm_ct AS Monthly_Avg_ATM_trans_ct
+		,td.transaction_ct AS Daily_ATM_Tran_Ct
+		,a.avg_monthly_atm_amt AS Monthly_Avg_ATM_trans_amt
+		,td.transaction_amt AS Daily_ATM_Tran_Amt
 		,td.transaction_ct AS Daily_transaction_ct
 		,a.acct_annual_income AS Annual_Income
 		,a.acct_src_of_income AS Income_Source
-		,a.avg_monthly_atm_amt
 		,a.avg_monthly_creditcard_spent
 		,a.avg_monthly_dep_amt
 		,a.avg_monthly_withdrawl_amt
