@@ -1,0 +1,1332 @@
+transaction_ct,transaction_amt,t.sender_acct,recieving_acct_id,recieving_acct_name,recieving_acct_annual_income,recieving_acct_src_income,a.acct_industry,a.acct_risk,t.transaction_date,t.send_country_risk,t.send_country_name,t.reciever_country_risk,t.reciever_country_name
+1,4999796,ACCT7805,ACCT2549,Emelia Vargas,2925403,Business,Tobacco industry,High,12/7/2019,High,Saudi Arabia,Low,France
+1,4996296,ACCT4987,ACCT7459,Noah Nelson,1055387,Business,Internet,High,7/1/2019,High,Saudi Arabia,Low,Italy
+1,4990599,ACCT4347,ACCT7354,Martha Merritt,1473722,Business,Computer industry,High,12/22/2019,High,Bangladesh,Low,Australia
+1,4989837,ACCT3209,ACCT5431,Keshawn Randall,4706441,Business,Real estate industry,High,7/7/2019,High,Pakistan,Low,Japan
+1,4986885,ACCT5516,ACCT4986,Abigail Moon,2480508,Business,Telecommunications industry,High,9/12/2019,High,South Africa,Low,Germany
+1,4982953,ACCT6867,ACCT2645,Carly Page,544724,Business,Software industry,High,2/16/2019,High,Bangladesh,Low,Germany
+1,4981561,ACCT4833,ACCT3946,Dania Moyer,1931245,Business,Semiconductor industry,High,1/5/2019,High,Iran,Low,South Korea
+1,4979003,ACCT5336,ACCT5858,Angelique Beasley,2438459,Business,Sport industry,High,2/12/2019,High,Bangladesh,Low,United States
+1,4977469,ACCT6516,ACCT6394,Oswaldo Davenport,2494226,Business,Food industry,High,8/23/2019,High,Philippines,Low,South Korea
+1,4973091,ACCT2830,ACCT7697,Naomi Payne,2542330,Business,Software industry,High,12/13/2019,High,Colombia,Low,Italy
+1,4971652,ACCT6165,ACCT6586,Franklin Braun,3414353,Business,Mining,High,5/1/2019,High,Colombia,Low,Italy
+1,4970758,ACCT7536,ACCT5157,Eileen Brown,4278563,Business,Defense industry,High,1/16/2019,High,Nigeria,Low,Italy
+1,4969512,ACCT5855,ACCT7270,Skylar French,275250,Business,Financial services industry,High,5/19/2019,High,Brazil,Low,United Kingdom
+1,4966835,ACCT2932,ACCT3826,Brisa Swanson,3044573,Business,Telecommunications industry,High,10/4/2019,High,Egypt,Low,South Korea
+1,4966735,ACCT5957,ACCT7986,Anastasia Cochran,356324,Business,Semiconductor industry,High,12/26/2019,High,Indonesia,Low,Germany
+1,4966452,ACCT7878,ACCT6487,Roger Koch,4757532,Business,Automotive industry,High,5/8/2019,High,South Africa,Low,Japan
+1,4966008,ACCT4989,ACCT6010,Demetrius Moyer,1701688,Business,Automotive industry,High,2/13/2019,High,Nigeria,Low,Italy
+1,4964764,ACCT6047,ACCT6231,James Patterson,2930466,Business,Defense industry,High,3/3/2019,High,Turkey,Low,Netherlands
+1,4963151,ACCT3560,ACCT5176,Tamia Gonzales,3885466,Business,Internet,High,7/22/2019,High,Pakistan,Low,United States
+1,4960674,ACCT7761,ACCT7506,Cruz Waller,2481376,Business,Timber industry,High,10/26/2019,High,Philippines,Low,Canada
+1,4957873,ACCT3642,ACCT2543,Magdalena Avery,4723158,Business,Petroleum industry,High,6/12/2019,High,Turkey,Low,Australia
+1,4957229,ACCT2225,ACCT6653,Philip Martinez,3867431,Business,Food industry,High,1/26/2019,High,South Africa,Low,France
+1,4955864,ACCT7473,ACCT3266,Rayna Mcbride,4308917,Business,Pulp and paper industry,High,12/15/2019,High,Turkey,Low,United States
+1,4953610,ACCT7745,ACCT2001,Kevin Shelton,1435598,Business,Telecommunications industry,High,3/22/2019,High,Philippines,Low,Canada
+1,4950792,ACCT4685,ACCT3430,Solomon Quinn,2918927,Business,Fishing industry,High,8/18/2019,High,Pakistan,Low,Mexico
+1,4950359,ACCT6159,ACCT6778,Julius Spence,2190140,Business,Timber industry,High,3/17/2019,High,Vietnam,Low,South Korea
+1,4949763,ACCT2117,ACCT5428,Demetrius Rivers,1500027,Business,Telecommunications industry,High,7/19/2019,High,Brazil,Low,Australia
+1,4947921,ACCT6375,ACCT4986,Abigail Moon,2480508,Business,Telecommunications industry,High,8/25/2019,High,Turkey,Low,United Kingdom
+1,4947697,ACCT4430,ACCT2218,August Bolton,4281197,Business,Mining,High,12/15/2019,High,Russia,Low,Italy
+1,4946580,ACCT4465,ACCT3424,Hannah Moreno,4077856,Business,Software industry,High,7/25/2019,High,Bangladesh,Low,Germany
+1,4946165,ACCT7318,ACCT3424,Hannah Moreno,4077856,Business,Software industry,High,5/15/2019,High,Bangladesh,Low,Italy
+1,4942450,ACCT6377,ACCT7599,Anabelle Wolfe,243191,Business,Petroleum industry,High,12/12/2019,High,Iran,Low,Netherlands
+1,4941205,ACCT5252,ACCT3661,Rolando Hester,1517068,Business,Mass media,High,1/24/2019,High,Vietnam,Low,United Kingdom
+1,4936568,ACCT2525,ACCT3259,Adison Mclaughlin,3695620,Business,Shipbuilding industry,High,9/11/2019,High,Indonesia,Low,Japan
+1,4936503,ACCT2928,ACCT2251,Mariam Camacho,2040453,Business,Steel industry,High,1/2/2019,High,Bangladesh,Low,Mexico
+1,4934355,ACCT4518,ACCT4215,Nikolas Alvarado,1141936,Business,Computer industry,High,10/4/2019,High,Iran,Low,Germany
+1,4933478,ACCT5277,ACCT7538,Jeffery Nguyen,3768058,Business,Steel industry,High,8/5/2019,High,Argentina,Low,Germany
+1,4933227,ACCT5962,ACCT5817,Rebecca Hunt,3618271,Business,Sport industry,High,6/5/2019,High,Bangladesh,Low,Japan
+1,4928770,ACCT5545,ACCT2743,Frida Faulkner,813954,Business,Mass media,High,12/24/2019,High,Bangladesh,Low,France
+1,4926192,ACCT7048,ACCT7530,Trinity Frost,3614862,Business,Low to medium tech industry,High,12/24/2019,High,Colombia,Low,Canada
+1,4924610,ACCT5614,ACCT4204,Luis Ali,1655116,Business,Broadcasting,High,3/28/2019,High,Vietnam,Low,Australia
+1,4922908,ACCT2364,ACCT7798,Graham Shah,1427972,Business,Textile industry,High,2/20/2019,High,Philippines,Low,Germany
+1,4918342,ACCT4547,ACCT3288,Emerson Farrell,2526859,Business,Shipbuilding industry,High,11/24/2019,High,Philippines,Low,Italy
+1,4917994,ACCT2404,ACCT4662,Marvin Mayo,4674057,Business,Transport industry,High,12/27/2019,High,Turkey,Low,Mexico
+1,4912733,ACCT4536,ACCT4090,Dustin Kerr,1446737,Business,Health care industry,High,8/4/2019,High,Saudi Arabia,Low,Germany
+1,4912306,ACCT2104,ACCT4236,Raphael Byrd,2499596,Business,Broadcasting,High,4/22/2019,High,Colombia,Low,United States
+1,4910321,ACCT2254,ACCT7647,Alayna Eaton,3164237,Business,Shipbuilding industry,High,11/27/2019,High,Vietnam,Low,France
+1,4909498,ACCT5312,ACCT3614,Eden Saunders,3568120,Business,Automotive industry,High,6/3/2019,High,Egypt,Low,Mexico
+1,4908430,ACCT5519,ACCT6005,Junior Allison,4188049,Business,Transport industry,High,12/25/2019,High,Philippines,Low,Germany
+1,4907813,ACCT6309,ACCT6010,Demetrius Moyer,1701688,Business,Automotive industry,High,5/1/2019,High,Pakistan,Low,France
+1,4904496,ACCT5475,ACCT5918,Kamora Rice,3977010,Business,Mass media,High,8/6/2019,High,Bangladesh,Low,United Kingdom
+1,4897861,ACCT7978,ACCT3298,Tyson Morrison,4096577,Business,Broadcasting,High,8/4/2019,High,Nigeria,Low,Japan
+1,4892432,ACCT2567,ACCT5713,Lexie Floyd,683623,Business,Electronics industry,High,1/29/2019,High,Turkey,Low,Australia
+1,4890770,ACCT4515,ACCT5621,Isaac Flynn,3605900,Business,Food industry,High,9/9/2019,High,Iran,Low,South Korea
+1,4890607,ACCT7976,ACCT6119,Ally Hancock,812411,Business,Telecommunications industry,High,3/17/2019,High,South Africa,Low,Australia
+1,4889644,ACCT5706,ACCT5993,Jerome Salas,326590,Business,Transport industry,High,3/8/2019,High,Indonesia,Low,Japan
+1,4887538,ACCT5579,ACCT6271,Aileen Cherry,3291825,Business,Music industry,High,1/21/2019,High,Philippines,Low,United States
+1,4887249,ACCT3693,ACCT2655,Killian Bender,3103615,Business,Sport industry,High,6/25/2019,High,South Africa,Low,United States
+1,4886193,ACCT2405,ACCT2572,Ashlee Phelps,1779194,Business,Automotive industry,High,6/29/2019,High,Vietnam,Low,Canada
+1,4884461,ACCT3742,ACCT2473,Cedric Ali,3388749,Business,Sport industry,High,7/4/2019,High,Vietnam,Low,Germany
+1,4878078,ACCT3356,ACCT5424,Orlando Lucas,3218039,Business,Industrial robot industry,High,12/10/2019,High,Nigeria,Low,Canada
+1,4876301,ACCT2974,ACCT3225,Khloe Hill,1648387,Business,Timber industry,High,1/21/2019,High,Nigeria,Low,South Korea
+1,4870080,ACCT5296,ACCT2484,Rodney Zavala,279780,Business,Health care industry,High,11/4/2019,High,Iran,Low,Canada
+1,4868297,ACCT6906,ACCT2233,Abril Mcknight,3683287,Business,Low to medium tech industry,High,9/29/2019,High,Egypt,Low,France
+1,4864336,ACCT7077,ACCT2450,Alyvia Rogers,1080569,Business,Real estate industry,High,3/20/2019,High,Turkey,Low,Mexico
+1,4864281,ACCT7143,ACCT4204,Luis Ali,1655116,Business,Broadcasting,High,10/23/2019,High,Egypt,Low,Netherlands
+1,4862603,ACCT6873,ACCT4517,Sarahi Richmond,2898357,Business,Textile industry,High,11/6/2019,High,Bangladesh,Low,Germany
+1,4862278,ACCT2380,ACCT7603,Finley Lynch,1800068,Business,Music industry,High,2/16/2019,High,South Africa,Low,Germany
+1,4862209,ACCT5271,ACCT2333,Derick Peters,3656649,Business,Software industry,High,2/17/2019,High,South Africa,Low,United States
+1,4861867,ACCT4980,ACCT6149,Noel Hardy,4858530,Business,Fishing industry,High,4/7/2019,High,Bangladesh,Low,Japan
+1,4854142,ACCT2710,ACCT6215,Chance Hardin,3873049,Business,Video game industry,High,5/1/2019,High,Brazil,Low,Australia
+1,4853909,ACCT5609,ACCT4291,Augustus Meyer,3811329,Business,Automotive industry,High,11/16/2019,High,Vietnam,Low,France
+1,4853876,ACCT2726,ACCT3670,Cheyanne Willis,529103,Business,Mining,High,12/8/2019,High,Saudi Arabia,Low,Australia
+1,4853041,ACCT3588,ACCT4121,Macy Abbott,283204,Business,Film industry,High,1/31/2019,High,Turkey,Low,Netherlands
+1,4847980,ACCT5406,ACCT5199,Briana Singh,1624444,Business,Education industry,High,5/26/2019,High,Turkey,Low,Germany
+1,4847387,ACCT3110,ACCT6285,Aimee Baxter,2500090,Business,Mass media,High,7/9/2019,High,Turkey,Low,South Korea
+1,4846888,ACCT2993,ACCT2765,Mckenna Mcintosh,1877005,Business,Timber industry,High,5/17/2019,High,Colombia,Low,Australia
+1,4846269,ACCT2862,ACCT5858,Angelique Beasley,2438459,Business,Sport industry,High,11/22/2019,High,Philippines,Low,United States
+1,4843697,ACCT7762,ACCT5505,Kathleen Lara,1967422,Business,Sport industry,High,11/16/2019,High,Indonesia,Low,France
+1,4841235,ACCT7146,ACCT2011,Serena Santana,2326221,Business,Software industry,High,5/2/2019,High,Philippines,Low,Germany
+1,4841157,ACCT7141,ACCT6917,Johnny Hill,3669572,Business,Pulp and paper industry,High,10/25/2019,High,Iran,Low,Australia
+1,4840684,ACCT4371,ACCT3445,Ralph Hebert,853212,Business,Timber industry,High,5/31/2019,High,Turkey,Low,United Kingdom
+1,4840321,ACCT2981,ACCT5508,Alma Pena,1983051,Business,Publishing,High,10/21/2019,High,Bangladesh,Low,Japan
+1,4835895,ACCT4735,ACCT5082,Mitchell Harrell,1149639,Business,Semiconductor industry,High,10/13/2019,High,Bangladesh,Low,Australia
+1,4833577,ACCT4937,ACCT4556,Gabriela Myers,4068646,Business,Pharmaceutical industry,High,6/21/2019,High,Turkey,Low,Japan
+1,4832661,ACCT7279,ACCT6969,Santos Cantrell,1079773,Business,Tobacco industry,High,6/1/2019,High,Egypt,Low,France
+1,4826940,ACCT5087,ACCT6571,Brogan Farmer,880290,Business,Mass media,High,7/15/2019,High,Colombia,Low,France
+1,4824919,ACCT6397,ACCT7798,Graham Shah,1427972,Business,Textile industry,High,10/30/2019,High,Vietnam,Low,South Korea
+1,4823190,ACCT5441,ACCT7834,Karli Ryan,1020063,Business,Internet,High,4/29/2019,High,Egypt,Low,South Korea
+1,4817769,ACCT5042,ACCT4571,Jaycee Howell,1974903,Business,Industrial robot industry,High,12/10/2019,High,Nigeria,Low,Canada
+1,4816840,ACCT7514,ACCT7545,Trevin Pitts,4815501,Business,Mining,High,8/5/2019,High,Vietnam,Low,Canada
+1,4816354,ACCT5625,ACCT2040,Alan Hooper,1763282,Business,Hospitality industry,High,9/22/2019,High,Argentina,Low,Germany
+1,4815397,ACCT2379,ACCT3840,Grady Richards,598455,Business,Arms industry,High,5/17/2019,High,Saudi Arabia,Low,France
+1,4812317,ACCT2778,ACCT2648,Sabrina Mcmahon,2870557,Business,Fishing industry,High,9/23/2019,High,South Africa,Low,Canada
+1,4810855,ACCT2393,ACCT4503,Krish Braun,1513481,Business,Semiconductor industry,High,10/30/2019,High,Vietnam,Low,France
+1,4809992,ACCT2559,ACCT5862,Teagan Jacobs,3639861,Business,Insurance industry,High,10/12/2019,High,Colombia,Low,United States
+1,4807974,ACCT6114,ACCT7459,Noah Nelson,1055387,Business,Internet,High,8/14/2019,High,Russia,Low,Netherlands
+1,4806468,ACCT4680,ACCT7125,Skyler Key,1287205,Business,Textile industry,High,3/9/2019,High,Saudi Arabia,Low,United Kingdom
+1,4801914,ACCT2148,ACCT4891,Jaidyn Kirk,603008,Business,Tobacco industry,High,7/30/2019,High,Argentina,Low,Italy
+1,4801317,ACCT2831,ACCT3564,Caitlin Archer,2120882,Business,Pulp and paper industry,High,8/13/2019,High,Colombia,Low,Australia
+1,4795922,ACCT4195,ACCT6394,Oswaldo Davenport,2494226,Business,Food industry,High,7/1/2019,High,Brazil,Low,France
+1,4792087,ACCT5985,ACCT4662,Marvin Mayo,4674057,Business,Transport industry,High,8/31/2019,High,Bangladesh,Low,Germany
+1,4789787,ACCT4423,ACCT7202,John Booth,3429532,Business,Mass media,High,9/19/2019,High,Saudi Arabia,Low,Japan
+1,4789123,ACCT3749,ACCT5621,Isaac Flynn,3605900,Business,Food industry,High,1/10/2019,High,Philippines,Low,Canada
+1,4788541,ACCT3886,ACCT2265,Odin Wolfe,3240722,Business,Software industry,High,4/10/2019,High,Iran,Low,United Kingdom
+1,4785375,ACCT6940,ACCT3270,Andreas Vargas,1267559,Business,Music industry,High,2/11/2019,High,Egypt,Low,France
+1,4780935,ACCT4792,ACCT3946,Dania Moyer,1931245,Business,Semiconductor industry,High,3/28/2019,High,Brazil,Low,United States
+1,4780160,ACCT2421,ACCT3952,Zachery Wong,1502477,Business,Sport industry,High,7/30/2019,High,Pakistan,Low,Canada
+1,4779287,ACCT6765,ACCT7286,Rebekah Vaughn,273083,Business,Telecommunications industry,High,5/10/2019,High,Argentina,Low,France
+1,4772448,ACCT4881,ACCT5204,Isabela Douglas,3461728,Business,Mining,High,10/2/2019,High,Colombia,Low,Netherlands
+1,4771765,ACCT7521,ACCT6312,Ariella Norton,2628541,Business,Real estate industry,High,7/19/2019,High,Indonesia,Low,Canada
+1,4769819,ACCT6077,ACCT5505,Kathleen Lara,1967422,Business,Sport industry,High,3/10/2019,High,Turkey,Low,Canada
+1,4767165,ACCT3238,ACCT7415,Jon Perkins,2657395,Business,Film industry,High,4/12/2019,High,Argentina,Low,United States
+1,4765702,ACCT2213,ACCT7697,Naomi Payne,2542330,Business,Software industry,High,11/16/2019,High,Egypt,Low,Canada
+1,4765097,ACCT3166,ACCT3752,Carly Reeves,3849148,Business,Tobacco industry,High,2/21/2019,High,Pakistan,Low,Canada
+1,4764672,ACCT3792,ACCT4571,Jaycee Howell,1974903,Business,Industrial robot industry,High,8/21/2019,High,Argentina,Low,Japan
+1,4760818,ACCT7114,ACCT4117,Cecelia Bartlett,4446672,Business,Shipbuilding industry,High,9/8/2019,High,Brazil,Low,South Korea
+1,4759748,ACCT5130,ACCT4164,Abdullah Hays,795837,Business,Shipbuilding industry,High,5/30/2019,High,Iran,Low,Italy
+1,4759620,ACCT4878,ACCT3810,Maryjane Fritz,4599372,Business,Chemical industry,High,11/17/2019,High,Colombia,Low,Netherlands
+1,4744376,ACCT2347,ACCT3424,Hannah Moreno,4077856,Business,Software industry,High,3/14/2019,High,Brazil,Low,South Korea
+1,4743782,ACCT2708,ACCT7798,Graham Shah,1427972,Business,Textile industry,High,3/6/2019,High,Pakistan,Low,Netherlands
+1,4743472,ACCT5003,ACCT2929,Adelyn Holmes,918271,Business,Water industry,High,3/27/2019,High,Indonesia,Low,South Korea
+1,4742672,ACCT5723,ACCT5539,Makenzie Warner,4597258,Business,Video game industry,High,9/19/2019,High,Iran,Low,Netherlands
+1,4740165,ACCT5408,ACCT5069,Kaitlin Matthews,2254543,Business,News media,High,2/15/2019,High,Egypt,Low,France
+1,4739383,ACCT7727,ACCT6587,Destinee Shaw,4201432,Business,Health care industry,High,6/17/2019,High,Indonesia,Low,Mexico
+1,4738758,ACCT7595,ACCT2693,Zayden Webster,802647,Business,Entertainment industry,High,10/24/2019,High,Iran,Low,Italy
+1,4738012,ACCT4853,ACCT3457,Marco Melton,1074965,Business,Low to medium tech industry,High,2/4/2019,High,Egypt,Low,South Korea
+1,4737661,ACCT4301,ACCT5157,Eileen Brown,4278563,Business,Defense industry,High,9/27/2019,High,Turkey,Low,Australia
+1,4736492,ACCT7297,ACCT5294,Alani Wilson,3487721,Business,Low to medium tech industry,High,8/29/2019,High,Bangladesh,Low,France
+1,4735525,ACCT7540,ACCT4181,Tyrell Figueroa,1068160,Business,Pharmaceutical industry,High,5/31/2019,High,Iran,Low,Mexico
+1,4734064,ACCT2305,ACCT2913,Nevaeh Galvan,3493833,Business,Health care industry,High,6/20/2019,High,Philippines,Low,Netherlands
+1,4733766,ACCT3970,ACCT7490,Alexis Kelley,3111390,Business,News media,High,5/3/2019,High,Argentina,Low,Mexico
+1,4733514,ACCT7896,ACCT4899,Lizbeth Leon,2051743,Business,Textile industry,High,1/16/2019,High,Indonesia,Low,United States
+1,4731671,ACCT6176,ACCT7334,Seamus Molina,3785847,Business,Industrial robot industry,High,7/18/2019,High,Saudi Arabia,Low,Canada
+1,4730921,ACCT2232,ACCT4903,Yusuf Colon,614078,Business,Computer industry,High,2/6/2019,High,Philippines,Low,France
+1,4723030,ACCT5257,ACCT2847,Danna Contreras,3292998,Business,Timber industry,High,12/15/2019,High,Argentina,Low,United Kingdom
+1,4721073,ACCT2307,ACCT6400,Haley Hughes,3842473,Business,Film industry,High,6/3/2019,High,Pakistan,Low,France
+1,4716915,ACCT4902,ACCT4585,Jeremiah Carter,2328465,Business,Energy industry,High,6/2/2019,High,Philippines,Low,United Kingdom
+1,4714085,ACCT4858,ACCT6096,Skylar Hill,2046995,Business,Food industry,High,2/16/2019,High,Turkey,Low,France
+1,4713381,ACCT2790,ACCT3173,Judah Carson,3201502,Business,Steel industry,High,6/10/2019,High,Indonesia,Low,Canada
+1,4711694,ACCT2852,ACCT7673,Viviana Sellers,811374,Business,Video game industry,High,7/30/2019,High,Argentina,Low,France
+1,4711107,ACCT6848,ACCT4004,Keely Gross,3578022,Business,Shipbuilding industry,High,3/29/2019,High,Iran,Low,United Kingdom
+1,4706133,ACCT5131,ACCT6075,Abram Vaughn,553529,Business,Tobacco industry,High,11/21/2019,High,Nigeria,Low,Canada
+1,4701514,ACCT7494,ACCT7714,Frances Watkins,291369,Business,Fishing industry,High,8/21/2019,High,Argentina,Low,Japan
+1,4701219,ACCT7776,ACCT4121,Macy Abbott,283204,Business,Film industry,High,10/20/2019,High,Argentina,Low,France
+1,4699646,ACCT6175,ACCT6911,Alayna Lucero,3584573,Business,Automotive industry,High,6/4/2019,High,Brazil,Low,Canada
+1,4692499,ACCT6851,ACCT4965,Emiliano Moses,2499393,Business,Software industry,High,11/13/2019,High,Nigeria,Low,United States
+1,4691956,ACCT7942,ACCT4664,Kole Pruitt,900219,Business,Industrial robot industry,High,7/16/2019,High,Bangladesh,Low,United States
+1,4687056,ACCT3216,ACCT5577,Leonidas Elliott,1279084,Business,Fishing industry,High,10/4/2019,High,Nigeria,Low,Netherlands
+1,4683098,ACCT2334,ACCT5199,Briana Singh,1624444,Business,Education industry,High,12/25/2019,High,Nigeria,Low,Netherlands
+1,4682836,ACCT7835,ACCT4489,Angelo Ellison,3516683,Business,Publishing,High,11/13/2019,High,Bangladesh,Low,Germany
+1,4682486,ACCT6594,ACCT5338,Alessandro Murillo,794758,Business,Insurance industry,High,6/6/2019,High,Philippines,Low,South Korea
+1,4682282,ACCT5807,ACCT5918,Kamora Rice,3977010,Business,Mass media,High,5/25/2019,High,Pakistan,Low,Italy
+1,4681372,ACCT5470,ACCT7000,Zaiden Bender,1626801,Business,Mass media,High,9/8/2019,High,Egypt,Low,United Kingdom
+1,4680503,ACCT7607,ACCT3066,Eric Beard,984304,Business,Water industry,High,6/6/2019,High,Russia,Low,United Kingdom
+1,4677935,ACCT7040,ACCT3266,Rayna Mcbride,4308917,Business,Pulp and paper industry,High,3/1/2019,High,Pakistan,Low,Canada
+1,4675512,ACCT4501,ACCT6974,Bruce Allen,4088812,Business,Health care industry,High,12/23/2019,High,Pakistan,Low,Australia
+1,4662118,ACCT3925,ACCT4261,Londyn Barnes,217013,Business,Publishing,High,10/29/2019,High,Vietnam,Low,South Korea
+1,4661709,ACCT2602,ACCT4027,Shayla Shah,1940055,Business,Hospitality industry,High,6/18/2019,High,Bangladesh,Low,Japan
+1,4655215,ACCT5842,ACCT7834,Karli Ryan,1020063,Business,Internet,High,5/7/2019,High,Nigeria,Low,United Kingdom
+1,4645532,ACCT7916,ACCT2130,Aiden Watts,1456596,Business,Fishing industry,High,9/8/2019,High,Vietnam,Low,Japan
+1,4644228,ACCT4231,ACCT5603,Aydin Noble,210506,Business,Chemical industry,High,10/25/2019,High,Nigeria,Low,Mexico
+1,4643321,ACCT5085,ACCT7339,Delilah Miranda,1255268,Business,Food industry,High,4/6/2019,High,Russia,Low,United Kingdom
+1,4638917,ACCT7501,ACCT3670,Cheyanne Willis,529103,Business,Mining,High,1/24/2019,High,Nigeria,Low,Japan
+1,4638466,ACCT5257,ACCT3018,Camilla Randolph,3032442,Business,Textile industry,High,12/13/2019,High,Egypt,Low,United Kingdom
+1,4638341,ACCT3862,ACCT3304,Princess Rush,3982258,Business,Industrial robot industry,High,5/19/2019,High,Argentina,Low,South Korea
+1,4637421,ACCT7924,ACCT6758,Rigoberto Newman,1549567,Business,Aerospace industry,High,6/25/2019,High,Colombia,Low,United Kingdom
+1,4636295,ACCT4058,ACCT2913,Nevaeh Galvan,3493833,Business,Health care industry,High,1/2/2019,High,Vietnam,Low,South Korea
+1,4633773,ACCT2306,ACCT4897,Alisa Cameron,1767866,Business,Telecommunications industry,High,4/19/2019,High,Bangladesh,Low,Australia
+1,4632969,ACCT7855,ACCT7266,Emely Esparza,934368,Business,Video game industry,High,2/19/2019,High,Pakistan,Low,South Korea
+1,4630369,ACCT7253,ACCT5199,Briana Singh,1624444,Business,Education industry,High,8/5/2019,High,Egypt,Low,Netherlands
+1,4630349,ACCT2419,ACCT2572,Ashlee Phelps,1779194,Business,Automotive industry,High,6/16/2019,High,Indonesia,Low,Germany
+1,4627531,ACCT2877,ACCT5060,Tristan Arias,3475375,Business,Textile industry,High,11/1/2019,High,Philippines,Low,South Korea
+1,4621621,ACCT5667,ACCT7350,Peter Gibbs,737939,Business,Video game industry,High,6/11/2019,High,Russia,Low,Japan
+1,4616639,ACCT3189,ACCT3457,Marco Melton,1074965,Business,Low to medium tech industry,High,4/10/2019,High,Pakistan,Low,United Kingdom
+1,4613498,ACCT2182,ACCT5925,Nico Maddox,2741250,Business,Computer industry,High,6/29/2019,High,South Africa,Low,Netherlands
+1,4613403,ACCT2091,ACCT4681,Skylar Foster,2148596,Business,Water industry,High,3/17/2019,High,Vietnam,Low,Canada
+1,4611706,ACCT5631,ACCT3786,Uriel Fry,3022346,Business,Electronics industry,High,4/19/2019,High,Saudi Arabia,Low,Italy
+1,4611529,ACCT4878,ACCT5795,Mateo Hinton,2026516,Business,Video game industry,High,2/5/2019,High,Egypt,Low,Netherlands
+1,4610283,ACCT7240,ACCT7599,Anabelle Wolfe,243191,Business,Petroleum industry,High,11/26/2019,High,Turkey,Low,Germany
+1,4607895,ACCT6493,ACCT6056,Jaylin Villarreal,4432450,Business,Mass media,High,5/22/2019,High,Russia,Low,Japan
+1,4605519,ACCT7327,ACCT3826,Brisa Swanson,3044573,Business,Telecommunications industry,High,5/6/2019,High,Saudi Arabia,Low,Mexico
+1,4605125,ACCT7320,ACCT3826,Brisa Swanson,3044573,Business,Telecommunications industry,High,7/16/2019,High,Argentina,Low,South Korea
+1,4602018,ACCT4854,ACCT3094,Miya Aguilar,1913490,Business,Mass media,High,1/15/2019,High,Saudi Arabia,Low,Mexico
+1,4601391,ACCT6776,ACCT5424,Orlando Lucas,3218039,Business,Industrial robot industry,High,1/29/2019,High,Philippines,Low,Australia
+1,4597725,ACCT2592,ACCT4215,Nikolas Alvarado,1141936,Business,Computer industry,High,5/21/2019,High,Argentina,Low,Italy
+1,4596694,ACCT5005,ACCT2847,Danna Contreras,3292998,Business,Timber industry,High,10/29/2019,High,Iran,Low,Germany
+1,4595842,ACCT3856,ACCT6833,Jillian Parsons,3749663,Business,Sport industry,High,6/3/2019,High,Vietnam,Low,Canada
+1,4595477,ACCT7193,ACCT6812,Laney Hardin,3474966,Business,Mass media,High,1/2/2019,High,Indonesia,Low,Mexico
+1,4594642,ACCT3683,ACCT5600,Tiana Levy,1608741,Business,Steel industry,High,10/27/2019,High,Indonesia,Low,South Korea
+1,4593332,ACCT6885,ACCT4336,Jaydin Carson,2608539,Business,Mass media,High,11/3/2019,High,South Africa,Low,France
+1,4592035,ACCT2512,ACCT6174,Eduardo Bryan,828141,Business,Industrial robot industry,High,4/4/2019,High,Indonesia,Low,Netherlands
+1,4587404,ACCT3937,ACCT5428,Demetrius Rivers,1500027,Business,Telecommunications industry,High,8/24/2019,High,Russia,Low,United States
+1,4586855,ACCT2752,ACCT6631,Simon Brown,3436756,Business,Information industry,High,9/26/2019,High,Bangladesh,Low,Mexico
+1,4585999,ACCT3517,ACCT2852,Keegan Brock,2905114,Business,Pharmaceutical industry,High,6/28/2019,High,Brazil,Low,Netherlands
+1,4582598,ACCT2092,ACCT6236,Frankie Wolf,1876637,Business,Petroleum industry,High,3/10/2019,High,Colombia,Low,Australia
+1,4579673,ACCT7233,ACCT6833,Jillian Parsons,3749663,Business,Sport industry,High,1/3/2019,High,Bangladesh,Low,Netherlands
+1,4577771,ACCT6620,ACCT3578,Jovany Montoya,2270509,Business,Construction industry,High,10/21/2019,High,Brazil,Low,Mexico
+1,4573044,ACCT3508,ACCT7250,Justice Lane,4151017,Business,Real estate industry,High,7/12/2019,High,Saudi Arabia,Low,Canada
+1,4571592,ACCT6899,ACCT3380,Moshe Petty,320296,Business,Energy industry,High,4/15/2019,High,Brazil,Low,Australia
+1,4570009,ACCT3453,ACCT3727,Valentina Barrera,4257430,Business,Petroleum industry,High,9/10/2019,High,Turkey,Low,South Korea
+1,4566620,ACCT5022,ACCT7862,Clarissa Cochran,1389498,Business,Water industry,High,5/6/2019,High,Indonesia,Low,Australia
+1,4566066,ACCT4203,ACCT3974,Jadyn Stark,1540963,Business,Textile industry,High,9/1/2019,High,Philippines,Low,Canada
+1,4564468,ACCT3567,ACCT7996,Francis Mcclure,688219,Business,Computer industry,High,1/25/2019,High,Saudi Arabia,Low,United Kingdom
+1,4563448,ACCT4561,ACCT4959,Landin Torres,687069,Business,Computer industry,High,7/21/2019,High,Bangladesh,Low,United States
+1,4563403,ACCT2974,ACCT2265,Odin Wolfe,3240722,Business,Software industry,High,4/19/2019,High,Brazil,Low,Netherlands
+1,4562448,ACCT4589,ACCT4847,Averi Franco,1563269,Business,Video game industry,High,3/16/2019,High,Russia,Low,Japan
+1,4558115,ACCT3101,ACCT4897,Alisa Cameron,1767866,Business,Telecommunications industry,High,8/13/2019,High,Colombia,Low,Netherlands
+1,4558041,ACCT2261,ACCT6285,Aimee Baxter,2500090,Business,Mass media,High,10/27/2019,High,Iran,Low,Mexico
+1,4556652,ACCT2377,ACCT2579,Savion Rogers,2238586,Business,Hospitality industry,High,2/17/2019,High,Philippines,Low,Italy
+1,4555515,ACCT6955,ACCT4823,Lance Vance,129926,Business,Pulp and paper industry,High,4/18/2019,High,Brazil,Low,Australia
+1,4551094,ACCT6662,ACCT5871,Ernesto Velasquez,2808600,Business,Information industry,High,1/4/2019,High,Pakistan,Low,France
+1,4550578,ACCT3594,ACCT4832,Paula James,1353106,Business,Tobacco industry,High,3/12/2019,High,Philippines,Low,Netherlands
+1,4549347,ACCT5160,ACCT2954,Charlize Patterson,2215747,Business,Food industry,High,4/22/2019,High,South Africa,Low,Mexico
+1,4548685,ACCT7145,ACCT5819,Liliana Pugh,1854867,Business,Video game industry,High,5/24/2019,High,Egypt,Low,South Korea
+1,4547374,ACCT4177,ACCT5505,Kathleen Lara,1967422,Business,Sport industry,High,5/11/2019,High,Iran,Low,United Kingdom
+1,4542300,ACCT2885,ACCT5000,Jared Levine,1845649,Business,Real estate industry,High,6/15/2019,High,Saudi Arabia,Low,Mexico
+1,4540142,ACCT6786,ACCT4176,Deja Dunn,4314993,Business,Pulp and paper industry,High,7/5/2019,High,Colombia,Low,France
+1,4539634,ACCT6113,ACCT2615,Lisa Holt,4365098,Business,Software industry,High,9/23/2019,High,South Africa,Low,South Korea
+1,4538212,ACCT7785,ACCT6198,Anderson Pace,1096462,Business,Low to medium tech industry,High,10/25/2019,High,Bangladesh,Low,Canada
+1,4535302,ACCT3180,ACCT7270,Skylar French,275250,Business,Financial services industry,High,5/31/2019,High,Brazil,Low,South Korea
+1,4529069,ACCT7968,ACCT2693,Zayden Webster,802647,Business,Entertainment industry,High,3/31/2019,High,South Africa,Low,Australia
+1,4529058,ACCT4895,ACCT4138,Donald Case,2117277,Business,Chemical industry,High,4/28/2019,High,Brazil,Low,United States
+1,4528400,ACCT6693,ACCT5045,Frederick Owen,2984252,Business,Defense industry,High,11/26/2019,High,Argentina,Low,Netherlands
+1,4522534,ACCT5808,ACCT6114,Ally Olsen,169672,Business,Industrial robot industry,High,3/12/2019,High,Saudi Arabia,Low,Canada
+1,4522035,ACCT7736,ACCT4832,Paula James,1353106,Business,Tobacco industry,High,12/20/2019,High,Egypt,Low,Mexico
+1,4517602,ACCT5800,ACCT2087,Alexzander Osborn,123025,Business,Internet,High,6/26/2019,High,Vietnam,Low,Mexico
+1,4516620,ACCT7311,ACCT2765,Mckenna Mcintosh,1877005,Business,Timber industry,High,7/20/2019,High,Nigeria,Low,Canada
+1,4514807,ACCT6934,ACCT3614,Eden Saunders,3568120,Business,Automotive industry,High,2/10/2019,High,Argentina,Low,Germany
+1,4511365,ACCT3546,ACCT7173,Bradley Lynch,3457629,Business,Chemical industry,High,5/8/2019,High,Russia,Low,Italy
+1,4509002,ACCT5487,ACCT3257,Karlie Ingram,141800,Business,Automotive industry,High,7/28/2019,High,Russia,Low,Japan
+1,4507200,ACCT7291,ACCT7092,Guillermo Dean,307497,Business,Education industry,High,12/10/2019,High,Russia,Low,United States
+1,4506329,ACCT4785,ACCT2489,Renee Dyer,2089828,Business,Electrical power industry,High,6/15/2019,High,Indonesia,Low,Japan
+1,4503558,ACCT5827,ACCT6015,Karlie Cain,4102546,Business,Telecommunications industry,High,10/24/2019,High,Vietnam,Low,United States
+1,4503275,ACCT2423,ACCT3598,Shea Case,3365814,Business,Hospitality industry,High,4/30/2019,High,Nigeria,Low,Mexico
+1,4498973,ACCT2486,ACCT2132,Blake Costa,370230,Business,Health care industry,High,1/16/2019,High,Egypt,Low,Italy
+1,4498513,ACCT7941,ACCT3325,Isaac Santana,1349647,Business,Energy industry,High,7/24/2019,High,Philippines,Low,Mexico
+1,4495821,ACCT3408,ACCT3564,Caitlin Archer,2120882,Business,Pulp and paper industry,High,2/16/2019,High,Brazil,Low,Netherlands
+1,4493914,ACCT6919,ACCT2948,Bernard Woodard,1985588,Business,Electronics industry,High,8/9/2019,High,Indonesia,Low,Mexico
+1,4493252,ACCT5760,ACCT4121,Macy Abbott,283204,Business,Film industry,High,4/29/2019,High,Pakistan,Low,Australia
+1,4491300,ACCT6200,ACCT3840,Grady Richards,598455,Business,Arms industry,High,7/1/2019,High,South Africa,Low,Canada
+1,4487581,ACCT2446,ACCT7266,Emely Esparza,934368,Business,Video game industry,High,8/19/2019,High,Bangladesh,Low,United Kingdom
+1,4484832,ACCT7041,ACCT7142,Charlee Sanford,1376527,Business,Chemical industry,High,3/24/2019,High,Pakistan,Low,Italy
+1,4483896,ACCT7351,ACCT2835,Elise Watson,824484,Business,Education industry,High,2/19/2019,High,Nigeria,Low,United States
+1,4483126,ACCT2193,ACCT5989,Allyson Macdonald,2137568,Business,Petroleum industry,High,6/9/2019,High,Saudi Arabia,Low,Germany
+1,4482875,ACCT3277,ACCT5862,Teagan Jacobs,3639861,Business,Insurance industry,High,3/7/2019,High,Brazil,Low,United Kingdom
+1,4481426,ACCT2693,ACCT5599,Kenley Wilkerson,3720150,Business,Transport industry,High,5/26/2019,High,South Africa,Low,Canada
+1,4475466,ACCT4161,ACCT7834,Karli Ryan,1020063,Business,Internet,High,7/17/2019,High,Pakistan,Low,France
+1,4474180,ACCT3907,ACCT2732,Kyler Bryant,3403369,Business,Publishing,High,8/31/2019,High,Saudi Arabia,Low,France
+1,4472863,ACCT3547,ACCT7647,Alayna Eaton,3164237,Business,Shipbuilding industry,High,2/17/2019,High,Russia,Low,Canada
+1,4468885,ACCT6332,ACCT2764,Greyson Weeks,2304468,Business,Hospitality industry,High,9/13/2019,High,Colombia,Low,Australia
+1,4465756,ACCT3333,ACCT3840,Grady Richards,598455,Business,Arms industry,High,12/1/2019,High,Vietnam,Low,South Korea
+1,4462923,ACCT4718,ACCT5993,Jerome Salas,326590,Business,Transport industry,High,7/15/2019,High,Turkey,Low,United Kingdom
+1,4462706,ACCT2375,ACCT3691,Jamir Brennan,4426811,Business,Broadcasting,High,3/13/2019,High,Saudi Arabia,Low,United Kingdom
+1,4462519,ACCT5184,ACCT2743,Frida Faulkner,813954,Business,Mass media,High,10/30/2019,High,Brazil,Low,Australia
+1,4458821,ACCT4864,ACCT3153,Tyler Harrington,2169627,Business,Broadcasting,High,9/30/2019,High,Argentina,Low,Italy
+1,4456309,ACCT4564,ACCT4766,Remington Rose,4386631,Business,Steel industry,High,6/9/2019,High,Egypt,Low,France
+1,4455370,ACCT7816,ACCT5238,Alayna Warren,3938052,Business,Energy industry,High,4/29/2019,High,Vietnam,Low,Germany
+1,4449363,ACCT6916,ACCT6501,Ella Brock,282437,Business,Education industry,High,10/9/2019,High,Nigeria,Low,United States
+1,4448823,ACCT3723,ACCT5903,Ezequiel Durham,2089002,Business,Timber industry,High,5/5/2019,High,Saudi Arabia,Low,Germany
+1,4448801,ACCT4588,ACCT7930,Korbin Navarro,2508760,Business,Textile industry,High,6/27/2019,High,Brazil,Low,Mexico
+1,4447949,ACCT6645,ACCT4454,Ellie Morrison,1418495,Business,Aerospace industry,High,2/20/2019,High,South Africa,Low,Italy
+1,4445040,ACCT5271,ACCT2333,Derick Peters,3656649,Business,Software industry,High,4/29/2019,High,Turkey,Low,Netherlands
+1,4444510,ACCT3822,ACCT7406,Danielle Nolan,2952900,Business,Automotive industry,High,11/15/2019,High,Vietnam,Low,Japan
+1,4441970,ACCT4922,ACCT4061,Ronin Bridges,1578656,Business,Internet,High,8/12/2019,High,Vietnam,Low,Canada
+1,4439897,ACCT6328,ACCT4341,Marley Mathews,2405619,Business,Entertainment industry,High,12/2/2019,High,Nigeria,Low,Canada
+1,4437904,ACCT2542,ACCT6974,Bruce Allen,4088812,Business,Health care industry,High,8/14/2019,High,Brazil,Low,Australia
+1,4437490,ACCT4066,ACCT3919,Caden Moyer,2076870,Business,Tobacco industry,High,12/21/2019,High,Turkey,Low,Mexico
+1,4437475,ACCT5838,ACCT2929,Adelyn Holmes,918271,Business,Water industry,High,2/22/2019,High,Colombia,Low,Italy
+1,4436768,ACCT3326,ACCT6495,Karter Browning,2506537,Business,Food industry,High,10/26/2019,High,Brazil,Low,Canada
+1,4436742,ACCT2316,ACCT4556,Gabriela Myers,4068646,Business,Pharmaceutical industry,High,7/15/2019,High,Russia,Low,Japan
+1,4424284,ACCT4747,ACCT6778,Julius Spence,2190140,Business,Timber industry,High,8/10/2019,High,Russia,Low,South Korea
+1,4418112,ACCT4963,ACCT6601,Bryce Ball,1436820,Business,Industrial robot industry,High,7/5/2019,High,Philippines,Low,South Korea
+1,4415587,ACCT3215,ACCT2473,Cedric Ali,3388749,Business,Sport industry,High,9/21/2019,High,Vietnam,Low,France
+1,4415386,ACCT7217,ACCT6450,Eliezer Robbins,3999689,Business,Mining,High,1/24/2019,High,South Africa,Low,France
+1,4415334,ACCT6161,ACCT6969,Santos Cantrell,1079773,Business,Tobacco industry,High,7/8/2019,High,Brazil,Low,United States
+1,4411468,ACCT3167,ACCT3153,Tyler Harrington,2169627,Business,Broadcasting,High,6/15/2019,High,Iran,Low,Japan
+1,4411005,ACCT7787,ACCT6301,Cecilia Meyer,368008,Business,Energy industry,High,8/20/2019,High,Argentina,Low,United States
+1,4409490,ACCT4605,ACCT6266,Van Moran,2540703,Business,Food industry,High,10/9/2019,High,Brazil,Low,Canada
+1,4406388,ACCT3853,ACCT6966,Tabitha Mcpherson,2170901,Business,Industrial robot industry,High,10/16/2019,High,Nigeria,Low,South Korea
+1,4400406,ACCT2906,ACCT2518,Madalyn Huynh,1812329,Business,Energy industry,High,10/28/2019,High,Indonesia,Low,Japan
+1,4399886,ACCT7402,ACCT5989,Allyson Macdonald,2137568,Business,Petroleum industry,High,10/25/2019,High,Pakistan,Low,France
+1,4397424,ACCT5664,ACCT7996,Francis Mcclure,688219,Business,Computer industry,High,12/1/2019,High,Vietnam,Low,United States
+1,4397356,ACCT6844,ACCT7530,Trinity Frost,3614862,Business,Low to medium tech industry,High,10/25/2019,High,Iran,Low,Italy
+1,4396571,ACCT5223,ACCT2463,Kara Stanley,2176157,Business,Electrical power industry,High,7/14/2019,High,Nigeria,Low,Mexico
+1,4396066,ACCT2601,ACCT3018,Camilla Randolph,3032442,Business,Textile industry,High,11/26/2019,High,Vietnam,Low,France
+1,4395645,ACCT2489,ACCT7406,Danielle Nolan,2952900,Business,Automotive industry,High,1/15/2019,High,Turkey,Low,Australia
+1,4394511,ACCT6178,ACCT5466,Lennon Jackson,1823680,Business,Education industry,High,5/3/2019,High,Iran,Low,France
+1,4391351,ACCT4142,ACCT3672,Weston Herring,521214,Business,Petroleum industry,High,11/8/2019,High,Russia,Low,Mexico
+1,4390801,ACCT6457,ACCT4823,Lance Vance,129926,Business,Pulp and paper industry,High,2/1/2019,High,Bangladesh,Low,Japan
+1,4388171,ACCT5582,ACCT6131,Miracle Sharp,157719,Business,Automotive industry,High,8/22/2019,High,Argentina,Low,Australia
+1,4387811,ACCT7532,ACCT3210,Lilian Richard,809451,Business,Financial services industry,High,11/3/2019,High,Nigeria,Low,United Kingdom
+1,4386304,ACCT3514,ACCT3833,Emilee Nixon,1316521,Business,Construction industry,High,7/22/2019,High,Egypt,Low,Japan
+1,4383527,ACCT3801,ACCT7265,Sawyer Pruitt,3725618,Business,Steel industry,High,10/29/2019,High,Iran,Low,Netherlands
+1,4382880,ACCT7478,ACCT2693,Zayden Webster,802647,Business,Entertainment industry,High,7/4/2019,High,Egypt,Low,France
+1,4379686,ACCT5502,ACCT2586,Lindsay Mcdowell,4112892,Business,Energy industry,High,11/18/2019,High,Turkey,Low,South Korea
+1,4377649,ACCT6296,ACCT6096,Skylar Hill,2046995,Business,Food industry,High,4/27/2019,High,South Africa,Low,South Korea
+1,4368920,ACCT2234,ACCT2371,Amari Farrell,883818,Business,Aerospace industry,High,3/9/2019,High,Argentina,Low,Mexico
+1,4366190,ACCT7863,ACCT6400,Haley Hughes,3842473,Business,Film industry,High,2/24/2019,High,Argentina,Low,South Korea
+1,4364692,ACCT4017,ACCT6673,Renee Scott,523644,Business,Real estate industry,High,2/22/2019,High,Iran,Low,United States
+1,4363971,ACCT3418,ACCT4431,Ari Reese,1749771,Business,Video game industry,High,3/14/2019,High,Egypt,Low,United States
+1,4363742,ACCT2157,ACCT2261,Aydan Perez,4128977,Business,Telecommunications industry,High,1/2/2019,High,Turkey,Low,United States
+1,4362545,ACCT4691,ACCT3288,Emerson Farrell,2526859,Business,Shipbuilding industry,High,12/25/2019,High,Bangladesh,Low,Germany
+1,4361697,ACCT5774,ACCT7979,Haylie Wilkinson,3576749,Business,Arms industry,High,7/10/2019,High,Pakistan,Low,Germany
+1,4358900,ACCT3465,ACCT4959,Landin Torres,687069,Business,Computer industry,High,8/16/2019,High,Colombia,Low,Germany
+1,4358003,ACCT7882,ACCT3974,Jadyn Stark,1540963,Business,Textile industry,High,11/21/2019,High,Brazil,Low,Australia
+1,4353453,ACCT4472,ACCT3727,Valentina Barrera,4257430,Business,Petroleum industry,High,11/7/2019,High,Pakistan,Low,Japan
+1,4351683,ACCT4479,ACCT2473,Cedric Ali,3388749,Business,Sport industry,High,10/17/2019,High,Colombia,Low,Italy
+1,4348781,ACCT7665,ACCT4061,Ronin Bridges,1578656,Business,Internet,High,4/16/2019,High,Turkey,Low,United Kingdom
+1,4347987,ACCT4870,ACCT7028,Deacon Walls,789169,Business,Water industry,High,4/11/2019,High,Iran,Low,Mexico
+1,4347360,ACCT5006,ACCT3737,Adrien Sampson,3332958,Business,Automotive industry,High,12/3/2019,High,Iran,Low,Italy
+1,4345919,ACCT2352,ACCT7811,Ashtyn Reese,3755287,Business,Real estate industry,High,7/23/2019,High,Bangladesh,Low,Canada
+1,4344127,ACCT4321,ACCT6753,Enrique Robertson,2601277,Business,Industrial robot industry,High,5/5/2019,High,Pakistan,Low,Netherlands
+1,4343185,ACCT4512,ACCT2087,Alexzander Osborn,123025,Business,Internet,High,3/1/2019,High,Brazil,Low,Canada
+1,4341144,ACCT3622,ACCT2189,Carmen Rowe,1692423,Business,Real estate industry,High,1/17/2019,High,Turkey,Low,United Kingdom
+1,4339211,ACCT5681,ACCT3147,Triston Moreno,1729880,Business,Electrical power industry,High,9/8/2019,High,Nigeria,Low,Australia
+1,4335630,ACCT6562,ACCT2660,Chase Swanson,2872387,Business,Hospitality industry,High,3/19/2019,High,Turkey,Low,Germany
+1,4331510,ACCT6186,ACCT4004,Keely Gross,3578022,Business,Shipbuilding industry,High,1/2/2019,High,Philippines,Low,United Kingdom
+1,4326991,ACCT5619,ACCT4489,Angelo Ellison,3516683,Business,Publishing,High,3/21/2019,High,Russia,Low,Germany
+1,4322377,ACCT5273,ACCT4454,Ellie Morrison,1418495,Business,Aerospace industry,High,2/22/2019,High,South Africa,Low,South Korea
+1,4318763,ACCT6747,ACCT6100,Alexis Greene,1895351,Business,Insurance industry,High,11/25/2019,High,Brazil,Low,United States
+1,4318088,ACCT2110,ACCT6978,Maritza Koch,3314136,Business,Fishing industry,High,5/5/2019,High,Colombia,Low,Australia
+1,4314289,ACCT3901,ACCT5428,Demetrius Rivers,1500027,Business,Telecommunications industry,High,11/17/2019,High,South Africa,Low,South Korea
+1,4313208,ACCT6264,ACCT7697,Naomi Payne,2542330,Business,Software industry,High,5/19/2019,High,Colombia,Low,South Korea
+1,4303940,ACCT3937,ACCT7996,Francis Mcclure,688219,Business,Computer industry,High,7/7/2019,High,Pakistan,Low,Mexico
+1,4303199,ACCT7782,ACCT5817,Rebecca Hunt,3618271,Business,Sport industry,High,7/3/2019,High,Colombia,Low,France
+1,4302613,ACCT7440,ACCT4138,Donald Case,2117277,Business,Chemical industry,High,3/18/2019,High,Bangladesh,Low,Mexico
+1,4300061,ACCT7465,ACCT7647,Alayna Eaton,3164237,Business,Shipbuilding industry,High,1/29/2019,High,Saudi Arabia,Low,South Korea
+1,4297519,ACCT5330,ACCT7125,Skyler Key,1287205,Business,Textile industry,High,6/11/2019,High,Philippines,Low,United Kingdom
+1,4293724,ACCT5118,ACCT7647,Alayna Eaton,3164237,Business,Shipbuilding industry,High,6/1/2019,High,Russia,Low,United Kingdom
+1,4289549,ACCT4602,ACCT4027,Shayla Shah,1940055,Business,Hospitality industry,High,5/10/2019,High,Colombia,Low,Germany
+1,4286751,ACCT5824,ACCT2338,Jamir Gould,3425524,Business,Fishing industry,High,9/6/2019,High,Turkey,Low,France
+1,4285984,ACCT7261,ACCT6193,Noe Calhoun,2959436,Business,Film industry,High,4/11/2019,High,Argentina,Low,France
+1,4283337,ACCT5947,ACCT6007,Athena Lynn,3967951,Business,Insurance industry,High,12/31/2019,High,Bangladesh,Low,South Korea
+1,4282072,ACCT4322,ACCT4382,Angela Todd,3493372,Business,Timber industry,High,6/13/2019,High,Indonesia,Low,Canada
+1,4281259,ACCT4820,ACCT7266,Emely Esparza,934368,Business,Video game industry,High,4/23/2019,High,Iran,Low,Japan
+1,4279549,ACCT3576,ACCT7056,Peter Cowan,3439819,Business,Pulp and paper industry,High,6/27/2019,High,South Africa,Low,Japan
+1,4278141,ACCT7949,ACCT3974,Jadyn Stark,1540963,Business,Textile industry,High,9/22/2019,High,Egypt,Low,United Kingdom
+1,4276032,ACCT6700,ACCT6974,Bruce Allen,4088812,Business,Health care industry,High,7/14/2019,High,Brazil,Low,Canada
+1,4273974,ACCT2512,ACCT3792,Nyla Roth,3162220,Business,Semiconductor industry,High,5/16/2019,High,Indonesia,Low,Japan
+1,4270727,ACCT2643,ACCT4121,Macy Abbott,283204,Business,Film industry,High,3/13/2019,High,Pakistan,Low,United States
+1,4269437,ACCT2536,ACCT7270,Skylar French,275250,Business,Financial services industry,High,10/26/2019,High,Russia,Low,Japan
+1,4263765,ACCT5589,ACCT3018,Camilla Randolph,3032442,Business,Textile industry,High,9/14/2019,High,Philippines,Low,France
+1,4258721,ACCT6362,ACCT6974,Bruce Allen,4088812,Business,Health care industry,High,9/10/2019,High,Vietnam,Low,Australia
+1,4254590,ACCT4223,ACCT7059,Brooklynn Mayo,4228494,Business,Health care industry,High,5/3/2019,High,Nigeria,Low,Mexico
+1,4253988,ACCT2299,ACCT7462,Kenzie Kelly,2814762,Business,Timber industry,High,12/29/2019,High,Iran,Low,France
+1,4250572,ACCT5956,ACCT7092,Guillermo Dean,307497,Business,Education industry,High,5/31/2019,High,Argentina,Low,Canada
+1,4249519,ACCT4017,ACCT4903,Yusuf Colon,614078,Business,Computer industry,High,3/4/2019,High,Colombia,Low,Japan
+1,4249116,ACCT2721,ACCT2646,Anabelle Torres,4051477,Business,Broadcasting,High,9/19/2019,High,Russia,Low,Japan
+1,4247464,ACCT6107,ACCT2636,Jabari Frazier,2566416,Business,Steel industry,High,9/5/2019,High,Colombia,Low,Canada
+1,4241115,ACCT5049,ACCT6174,Eduardo Bryan,828141,Business,Industrial robot industry,High,11/17/2019,High,Russia,Low,Germany
+1,4223309,ACCT7086,ACCT7556,Shaun Escobar,1320895,Business,Film industry,High,7/8/2019,High,Argentina,Low,Mexico
+1,4215268,ACCT7340,ACCT6753,Enrique Robertson,2601277,Business,Industrial robot industry,High,8/18/2019,High,Pakistan,Low,United Kingdom
+1,4214543,ACCT5686,ACCT6240,Peyton Kidd,2537803,Business,Internet,High,9/4/2019,High,Colombia,Low,Italy
+1,4214227,ACCT7202,ACCT2634,Leon Maynard,427925,Business,Education industry,High,2/9/2019,High,Pakistan,Low,Italy
+1,4212967,ACCT6191,ACCT3737,Adrien Sampson,3332958,Business,Automotive industry,High,11/3/2019,High,Nigeria,Low,Netherlands
+1,4211687,ACCT7296,ACCT6627,Lilian Paul,2907766,Business,Insurance industry,High,3/13/2019,High,Turkey,Low,South Korea
+1,4209891,ACCT4565,ACCT2959,Cordell Rubio,2395251,Business,Mining,High,6/23/2019,High,Philippines,Low,Mexico
+1,4206500,ACCT2906,ACCT4366,Janiah Schroeder,3584431,Business,Mining,High,11/5/2019,High,Brazil,Low,Italy
+1,4203916,ACCT7955,ACCT4574,Sincere Carrillo,826626,Business,Computer industry,High,11/25/2019,High,Brazil,Low,Italy
+1,4203268,ACCT2332,ACCT7071,Donna Arnold,2476144,Business,Tobacco industry,High,10/3/2019,High,Iran,Low,Netherlands
+1,4200822,ACCT2960,ACCT5268,Cadence Webb,1848278,Business,Software industry,High,3/4/2019,High,Indonesia,Low,Germany
+1,4195233,ACCT3658,ACCT3301,Ace Owens,180378,Business,Tobacco industry,High,5/26/2019,High,Turkey,Low,Australia
+1,4190776,ACCT6175,ACCT3586,Patrick Grant,3884122,Business,Pulp and paper industry,High,11/29/2019,High,Brazil,Low,Italy
+1,4189583,ACCT4426,ACCT2265,Odin Wolfe,3240722,Business,Software industry,High,7/28/2019,High,Saudi Arabia,Low,Netherlands
+1,4188654,ACCT4861,ACCT4851,Maddox Mahoney,1537529,Business,Health care industry,High,1/22/2019,High,Pakistan,Low,Germany
+1,4188550,ACCT7960,ACCT4307,Deborah Holder,4033446,Business,Publishing,High,7/6/2019,High,Philippines,Low,Australia
+1,4185917,ACCT5228,ACCT6174,Eduardo Bryan,828141,Business,Industrial robot industry,High,1/23/2019,High,Pakistan,Low,Australia
+1,4185467,ACCT5551,ACCT3752,Carly Reeves,3849148,Business,Tobacco industry,High,5/24/2019,High,Vietnam,Low,Germany
+1,4185021,ACCT5985,ACCT2765,Mckenna Mcintosh,1877005,Business,Timber industry,High,4/30/2019,High,Bangladesh,Low,United States
+1,4184611,ACCT5574,ACCT2701,Kiersten Cochran,975866,Business,Transport industry,High,2/5/2019,High,Brazil,Low,United Kingdom
+1,4176618,ACCT4298,ACCT4900,Finley Flores,1388980,Business,Energy industry,High,1/12/2019,High,Egypt,Low,France
+1,4175732,ACCT7792,ACCT4090,Dustin Kerr,1446737,Business,Health care industry,High,12/7/2019,High,Vietnam,Low,United Kingdom
+1,4175677,ACCT7347,ACCT2655,Killian Bender,3103615,Business,Sport industry,High,11/6/2019,High,Bangladesh,Low,Japan
+1,4174369,ACCT5536,ACCT3671,Terrell Ware,671208,Business,Energy industry,High,3/4/2019,High,Pakistan,Low,South Korea
+1,4173022,ACCT7199,ACCT6863,Ivan Pruitt,1272519,Business,Industrial robot industry,High,9/10/2019,High,Egypt,Low,United Kingdom
+1,4169836,ACCT2431,ACCT6325,Brooke Cruz,1465687,Business,Steel industry,High,9/9/2019,High,Saudi Arabia,Low,Germany
+1,4164574,ACCT5695,ACCT3892,Rishi Mcclure,3657859,Business,News media,High,5/7/2019,High,Indonesia,Low,South Korea
+1,4162799,ACCT7881,ACCT2900,Nevaeh Stuart,2184853,Business,News media,High,6/3/2019,High,Russia,Low,Australia
+1,4161385,ACCT5731,ACCT6191,Asa Ferguson,3275757,Business,Publishing,High,5/26/2019,High,Vietnam,Low,Italy
+1,4160443,ACCT2123,ACCT3258,Julia Chapman,2241967,Business,Hospitality industry,High,4/6/2019,High,Pakistan,Low,United Kingdom
+1,4160271,ACCT7670,ACCT5199,Briana Singh,1624444,Business,Education industry,High,8/15/2019,High,Russia,Low,France
+1,4155704,ACCT2288,ACCT3942,Yareli Boone,2711147,Business,Tobacco industry,High,7/8/2019,High,Colombia,Low,Germany
+1,4155276,ACCT6891,ACCT2333,Derick Peters,3656649,Business,Software industry,High,11/12/2019,High,Brazil,Low,Australia
+1,4155005,ACCT5034,ACCT5069,Kaitlin Matthews,2254543,Business,News media,High,10/14/2019,High,South Africa,Low,Germany
+1,4153388,ACCT7219,ACCT7530,Trinity Frost,3614862,Business,Low to medium tech industry,High,9/1/2019,High,Brazil,Low,South Korea
+1,4151329,ACCT7143,ACCT5450,Ryan Sanchez,1740010,Business,Transport industry,High,1/6/2019,High,Turkey,Low,Australia
+1,4149995,ACCT7258,ACCT2634,Leon Maynard,427925,Business,Education industry,High,9/30/2019,High,Iran,Low,Netherlands
+1,4149022,ACCT5425,ACCT7673,Viviana Sellers,811374,Business,Video game industry,High,5/4/2019,High,Turkey,Low,United Kingdom
+1,4143983,ACCT2820,ACCT2371,Amari Farrell,883818,Business,Aerospace industry,High,1/27/2019,High,Russia,Low,France
+1,4142456,ACCT5239,ACCT7950,Scarlet Wade,2029764,Business,Water industry,High,7/9/2019,High,Nigeria,Low,France
+1,4138104,ACCT7118,ACCT2527,Kyla Cannon,3584488,Business,Fishing industry,High,7/17/2019,High,Brazil,Low,Italy
+1,4134828,ACCT2376,ACCT7811,Ashtyn Reese,3755287,Business,Real estate industry,High,5/11/2019,High,Russia,Low,Germany
+1,4132461,ACCT5122,ACCT5862,Teagan Jacobs,3639861,Business,Insurance industry,High,11/12/2019,High,Brazil,Low,Germany
+1,4132307,ACCT3622,ACCT3532,Lucas Fisher,1943056,Business,Electronics industry,High,1/14/2019,High,Argentina,Low,Canada
+1,4131832,ACCT7988,ACCT6215,Chance Hardin,3873049,Business,Video game industry,High,5/10/2019,High,Colombia,Low,South Korea
+1,4131101,ACCT6523,ACCT5338,Alessandro Murillo,794758,Business,Insurance industry,High,10/16/2019,High,Nigeria,Low,Canada
+1,4127918,ACCT5725,ACCT2186,Ricardo Solis,470748,Business,Computer industry,High,12/18/2019,High,Iran,Low,South Korea
+1,4127309,ACCT6483,ACCT6301,Cecilia Meyer,368008,Business,Energy industry,High,8/21/2019,High,Argentina,Low,Australia
+1,4126201,ACCT6515,ACCT7861,Noe Lawson,3545826,Business,Sport industry,High,7/29/2019,High,Bangladesh,Low,Italy
+1,4126031,ACCT2181,ACCT6753,Enrique Robertson,2601277,Business,Industrial robot industry,High,5/19/2019,High,Philippines,Low,Mexico
+1,4121321,ACCT7130,ACCT5450,Ryan Sanchez,1740010,Business,Transport industry,High,1/28/2019,High,Brazil,Low,Japan
+1,4118592,ACCT7140,ACCT7665,Leia Berry,2224181,Business,Insurance industry,High,3/26/2019,High,Russia,Low,Canada
+1,4113393,ACCT2566,ACCT2929,Adelyn Holmes,918271,Business,Water industry,High,1/2/2019,High,Saudi Arabia,Low,United States
+1,4112234,ACCT3085,ACCT4484,Gustavo Ellis,1996357,Business,Low to medium tech industry,High,1/29/2019,High,Saudi Arabia,Low,Italy
+1,4111705,ACCT7953,ACCT6119,Ally Hancock,812411,Business,Telecommunications industry,High,10/30/2019,High,Argentina,Low,Mexico
+1,4102536,ACCT3676,ACCT6868,Esmeralda Schwartz,3815124,Business,Education industry,High,3/7/2019,High,Pakistan,Low,Australia
+1,4101661,ACCT3329,ACCT2333,Derick Peters,3656649,Business,Software industry,High,11/9/2019,High,Argentina,Low,Italy
+1,4097639,ACCT3234,ACCT7202,John Booth,3429532,Business,Mass media,High,7/14/2019,High,Russia,Low,Mexico
+1,4093590,ACCT3185,ACCT5209,Hadley Tate,2817839,Business,Publishing,High,1/27/2019,High,Colombia,Low,Mexico
+1,4091172,ACCT3717,ACCT4341,Marley Mathews,2405619,Business,Entertainment industry,High,8/7/2019,High,Indonesia,Low,South Korea
+1,4085120,ACCT2765,ACCT6291,Maurice Estes,2021301,Business,Food industry,High,4/8/2019,High,Philippines,Low,United States
+1,4083504,ACCT4965,ACCT5614,Reed Castillo,738493,Business,Real estate industry,High,7/10/2019,High,Saudi Arabia,Low,Canada
+1,4082905,ACCT4445,ACCT6354,Jacoby Mora,1692275,Business,Music industry,High,3/21/2019,High,Vietnam,Low,Germany
+1,4078241,ACCT2449,ACCT3244,Courtney Branch,2659061,Business,Electrical power industry,High,1/4/2019,High,Philippines,Low,Australia
+1,4074503,ACCT6354,ACCT4234,Celeste Gray,1573491,Business,Information industry,High,1/11/2019,High,Pakistan,Low,Italy
+1,4073767,ACCT3829,ACCT2489,Renee Dyer,2089828,Business,Electrical power industry,High,3/9/2019,High,Saudi Arabia,Low,Italy
+1,4072476,ACCT6060,ACCT5294,Alani Wilson,3487721,Business,Low to medium tech industry,High,2/8/2019,High,Argentina,Low,Germany
+1,4070565,ACCT3183,ACCT4615,Lana Herring,957445,Business,Energy industry,High,12/17/2019,High,Nigeria,Low,South Korea
+1,4070563,ACCT4691,ACCT3792,Nyla Roth,3162220,Business,Semiconductor industry,High,3/29/2019,High,Nigeria,Low,Netherlands
+1,4069634,ACCT5640,ACCT7979,Haylie Wilkinson,3576749,Business,Arms industry,High,8/8/2019,High,Egypt,Low,South Korea
+1,4069435,ACCT2490,ACCT3672,Weston Herring,521214,Business,Petroleum industry,High,9/26/2019,High,Nigeria,Low,Australia
+1,4069143,ACCT6572,ACCT5788,Phoenix Blevins,276225,Business,Aerospace industry,High,3/30/2019,High,Brazil,Low,United States
+1,4068166,ACCT3736,ACCT4847,Averi Franco,1563269,Business,Video game industry,High,10/18/2019,High,South Africa,Low,Italy
+1,4066974,ACCT6007,ACCT4204,Luis Ali,1655116,Business,Broadcasting,High,6/3/2019,High,Pakistan,Low,Germany
+1,4061718,ACCT3796,ACCT2102,Samara Mccormick,3157312,Business,Education industry,High,12/21/2019,High,Turkey,Low,Canada
+1,4060610,ACCT5519,ACCT5294,Alani Wilson,3487721,Business,Low to medium tech industry,High,12/19/2019,High,Iran,Low,Germany
+1,4056684,ACCT3485,ACCT2701,Kiersten Cochran,975866,Business,Transport industry,High,5/2/2019,High,Saudi Arabia,Low,Japan
+1,4055203,ACCT6429,ACCT2646,Anabelle Torres,4051477,Business,Broadcasting,High,11/3/2019,High,Turkey,Low,Germany
+1,4055163,ACCT4008,ACCT6631,Simon Brown,3436756,Business,Information industry,High,5/28/2019,High,South Africa,Low,South Korea
+1,4054505,ACCT3846,ACCT2545,Nina Bryan,1506992,Business,Water industry,High,9/9/2019,High,Vietnam,Low,Netherlands
+1,4053848,ACCT5731,ACCT5727,Kenna Sparks,3522978,Business,Low to medium tech industry,High,7/8/2019,High,Pakistan,Low,Japan
+1,4053100,ACCT2425,ACCT7877,Marcel Huang,2713935,Business,Defense industry,High,2/14/2019,High,Saudi Arabia,Low,United Kingdom
+1,4050521,ACCT7968,ACCT5659,Sariah Best,3604102,Business,Transport industry,High,1/29/2019,High,Argentina,Low,United States
+1,4049671,ACCT6518,ACCT2130,Aiden Watts,1456596,Business,Fishing industry,High,6/15/2019,High,Vietnam,Low,Netherlands
+1,4047512,ACCT2772,ACCT7212,Laney Reynolds,1637692,Business,Aerospace industry,High,9/27/2019,High,Turkey,Low,South Korea
+1,4046191,ACCT7424,ACCT2258,Aiyana Pham,1382552,Business,Computer industry,High,3/28/2019,High,Argentina,Low,Canada
+1,4039911,ACCT6872,ACCT6627,Lilian Paul,2907766,Business,Insurance industry,High,11/15/2019,High,Nigeria,Low,South Korea
+1,4038544,ACCT6660,ACCT7266,Emely Esparza,934368,Business,Video game industry,High,1/9/2019,High,Nigeria,Low,Australia
+1,4035338,ACCT5689,ACCT4132,Emma Escobar,361689,Business,Pharmaceutical industry,High,11/10/2019,High,Iran,Low,Germany
+1,4035080,ACCT6957,ACCT7986,Anastasia Cochran,356324,Business,Semiconductor industry,High,3/14/2019,High,South Africa,Low,France
+1,4033197,ACCT3353,ACCT2280,Cristal Long,2845153,Business,Water industry,High,3/17/2019,High,Argentina,Low,Canada
+1,4032895,ACCT4669,ACCT4615,Lana Herring,957445,Business,Energy industry,High,11/26/2019,High,Turkey,Low,South Korea
+1,4032863,ACCT5362,ACCT2733,Raphael Owen,3696727,Business,Industrial robot industry,High,5/30/2019,High,Philippines,Low,Australia
+1,4031937,ACCT3527,ACCT6301,Cecilia Meyer,368008,Business,Energy industry,High,7/20/2019,High,Argentina,Low,Japan
+1,4028977,ACCT2205,ACCT3013,Josh Barrera,1660835,Business,News media,High,8/5/2019,High,Vietnam,Low,Australia
+1,4026936,ACCT3764,ACCT7350,Peter Gibbs,737939,Business,Video game industry,High,10/8/2019,High,Russia,Low,South Korea
+1,4023870,ACCT4940,ACCT2579,Savion Rogers,2238586,Business,Hospitality industry,High,10/13/2019,High,South Africa,Low,Netherlands
+1,4023657,ACCT6119,ACCT2573,Athena Preston,648998,Business,Water industry,High,7/15/2019,High,Iran,Low,Australia
+1,4023358,ACCT2120,ACCT5858,Angelique Beasley,2438459,Business,Sport industry,High,10/23/2019,High,Iran,Low,Italy
+1,4022589,ACCT4058,ACCT6994,Marlie Contreras,806821,Business,Electrical power industry,High,4/16/2019,High,Argentina,Low,Italy
+1,4021725,ACCT6384,ACCT4847,Averi Franco,1563269,Business,Video game industry,High,12/7/2019,High,Indonesia,Low,United Kingdom
+1,4018837,ACCT6093,ACCT5268,Cadence Webb,1848278,Business,Software industry,High,8/30/2019,High,Egypt,Low,Canada
+1,4018364,ACCT3017,ACCT3952,Zachery Wong,1502477,Business,Sport industry,High,11/21/2019,High,Pakistan,Low,Mexico
+1,4018211,ACCT5538,ACCT2844,Ian Buckley,1317977,Business,Energy industry,High,7/9/2019,High,Brazil,Low,France
+1,4016202,ACCT5594,ACCT3052,Pranav Salas,692233,Business,Defense industry,High,11/26/2019,High,Philippines,Low,United States
+1,4014869,ACCT3401,ACCT6917,Johnny Hill,3669572,Business,Pulp and paper industry,High,1/22/2019,High,Iran,Low,Germany
+1,4011353,ACCT2602,ACCT5621,Isaac Flynn,3605900,Business,Food industry,High,2/26/2019,High,Vietnam,Low,Canada
+1,4010213,ACCT6260,ACCT7506,Cruz Waller,2481376,Business,Timber industry,High,9/12/2019,High,Russia,Low,France
+1,4009810,ACCT6312,ACCT7354,Martha Merritt,1473722,Business,Computer industry,High,9/10/2019,High,Pakistan,Low,South Korea
+1,4007282,ACCT7610,ACCT7800,Tristen Stephenson,2106006,Business,Real estate industry,High,3/5/2019,High,Bangladesh,Low,Netherlands
+1,4003731,ACCT2436,ACCT6601,Bryce Ball,1436820,Business,Industrial robot industry,High,5/18/2019,High,Nigeria,Low,United Kingdom
+1,4002424,ACCT2850,ACCT5238,Alayna Warren,3938052,Business,Energy industry,High,9/10/2019,High,Nigeria,Low,Italy
+1,4002001,ACCT5137,ACCT5428,Demetrius Rivers,1500027,Business,Telecommunications industry,High,12/24/2019,High,Colombia,Low,Mexico
+1,4000906,ACCT4593,ACCT5918,Kamora Rice,3977010,Business,Mass media,High,11/3/2019,High,Bangladesh,Low,United States
+1,3998316,ACCT7914,ACCT6215,Chance Hardin,3873049,Business,Video game industry,High,5/17/2019,High,Argentina,Low,Netherlands
+1,3993409,ACCT5434,ACCT2315,Leonel Vargas,781387,Business,Pulp and paper industry,High,8/30/2019,High,Iran,Low,United States
+1,3992507,ACCT7102,ACCT3094,Miya Aguilar,1913490,Business,Mass media,High,12/15/2019,High,Saudi Arabia,Low,Canada
+1,3991400,ACCT4323,ACCT6917,Johnny Hill,3669572,Business,Pulp and paper industry,High,10/11/2019,High,Saudi Arabia,Low,South Korea
+1,3989645,ACCT5113,ACCT5614,Reed Castillo,738493,Business,Real estate industry,High,8/29/2019,High,Vietnam,Low,South Korea
+1,3988985,ACCT7040,ACCT6100,Alexis Greene,1895351,Business,Insurance industry,High,4/25/2019,High,Egypt,Low,France
+1,3985641,ACCT7533,ACCT2066,Gwendolyn Zhang,3817871,Business,Textile industry,High,7/15/2019,High,Turkey,Low,Mexico
+1,3983766,ACCT5158,ACCT7215,Emelia Mendez,810450,Business,Pulp and paper industry,High,6/25/2019,High,Turkey,Low,Australia
+1,3983132,ACCT2260,ACCT2066,Gwendolyn Zhang,3817871,Business,Textile industry,High,5/9/2019,High,Philippines,Low,Australia
+1,3980812,ACCT2773,ACCT2130,Aiden Watts,1456596,Business,Fishing industry,High,11/24/2019,High,Argentina,Low,Italy
+1,3973266,ACCT2750,ACCT4920,Natalie Day,3290881,Business,Real estate industry,High,4/18/2019,High,Colombia,Low,United States
+1,3971293,ACCT2597,ACCT2031,Izabelle Horn,1248339,Business,News media,High,1/13/2019,High,Vietnam,Low,South Korea
+1,3970345,ACCT3604,ACCT7028,Deacon Walls,789169,Business,Water industry,High,1/17/2019,High,Pakistan,Low,Netherlands
+1,3969957,ACCT7448,ACCT7173,Bradley Lynch,3457629,Business,Chemical industry,High,4/26/2019,High,Indonesia,Low,France
+1,3964159,ACCT2261,ACCT3974,Jadyn Stark,1540963,Business,Textile industry,High,5/20/2019,High,South Africa,Low,Japan
+1,3962635,ACCT3141,ACCT3919,Caden Moyer,2076870,Business,Tobacco industry,High,6/11/2019,High,Brazil,Low,Japan
+1,3958763,ACCT7016,ACCT5102,Marquise Preston,2969274,Business,Electronics industry,High,2/6/2019,High,Argentina,Low,Australia
+1,3949428,ACCT4639,ACCT5064,Janiya Mann,933234,Business,Electronics industry,High,11/1/2019,High,South Africa,Low,United Kingdom
+1,3944599,ACCT4668,ACCT5443,Maggie Wong,3414505,Business,Arms industry,High,1/30/2019,High,Vietnam,Low,Australia
+1,3944153,ACCT4051,ACCT2189,Carmen Rowe,1692423,Business,Real estate industry,High,8/17/2019,High,Iran,Low,South Korea
+1,3937578,ACCT4123,ACCT3258,Julia Chapman,2241967,Business,Hospitality industry,High,6/8/2019,High,Brazil,Low,United States
+1,3937067,ACCT2384,ACCT3942,Yareli Boone,2711147,Business,Tobacco industry,High,8/11/2019,High,Colombia,Low,Australia
+1,3934328,ACCT2202,ACCT3737,Adrien Sampson,3332958,Business,Automotive industry,High,11/18/2019,High,Indonesia,Low,Canada
+1,3934071,ACCT6983,ACCT5508,Alma Pena,1983051,Business,Publishing,High,9/26/2019,High,Argentina,Low,Australia
+1,3930983,ACCT7747,ACCT3147,Triston Moreno,1729880,Business,Electrical power industry,High,2/10/2019,High,Turkey,Low,Australia
+1,3925955,ACCT4599,ACCT2636,Jabari Frazier,2566416,Business,Steel industry,High,2/3/2019,High,Pakistan,Low,Netherlands
+1,3925795,ACCT7673,ACCT4571,Jaycee Howell,1974903,Business,Industrial robot industry,High,10/5/2019,High,Egypt,Low,United States
+1,3923457,ACCT5629,ACCT7490,Alexis Kelley,3111390,Business,News media,High,6/13/2019,High,Russia,Low,Italy
+1,3922512,ACCT2037,ACCT5944,Gerardo Huffman,3777087,Business,Water industry,High,12/10/2019,High,Bangladesh,Low,South Korea
+1,3920882,ACCT6128,ACCT4215,Nikolas Alvarado,1141936,Business,Computer industry,High,5/20/2019,High,Vietnam,Low,United States
+1,3914878,ACCT5298,ACCT4541,Sawyer White,2185124,Business,Broadcasting,High,10/13/2019,High,Turkey,Low,Italy
+1,3910920,ACCT5555,ACCT6919,Amari Hebert,1339799,Business,Video game industry,High,7/27/2019,High,Iran,Low,Germany
+1,3910862,ACCT4925,ACCT2913,Nevaeh Galvan,3493833,Business,Health care industry,High,3/21/2019,High,South Africa,Low,France
+1,3910702,ACCT5951,ACCT5466,Lennon Jackson,1823680,Business,Education industry,High,5/16/2019,High,Bangladesh,Low,Netherlands
+1,3905347,ACCT4010,ACCT7462,Kenzie Kelly,2814762,Business,Timber industry,High,6/10/2019,High,Iran,Low,France
+1,3904522,ACCT7341,ACCT6100,Alexis Greene,1895351,Business,Insurance industry,High,5/19/2019,High,Argentina,Low,Australia
+1,3900298,ACCT4050,ACCT6601,Bryce Ball,1436820,Business,Industrial robot industry,High,12/2/2019,High,Pakistan,Low,France
+1,3895250,ACCT3380,ACCT3472,Jenna Donovan,3670472,Business,Entertainment industry,High,8/19/2019,High,Iran,Low,Australia
+1,3894246,ACCT6362,ACCT6978,Maritza Koch,3314136,Business,Fishing industry,High,9/8/2019,High,Iran,Low,Canada
+1,3890136,ACCT6922,ACCT2066,Gwendolyn Zhang,3817871,Business,Textile industry,High,5/12/2019,High,Bangladesh,Low,Germany
+1,3885410,ACCT2693,ACCT4096,Angelica Bailey,3797651,Business,Tobacco industry,High,2/18/2019,High,Argentina,Low,Mexico
+1,3885173,ACCT6282,ACCT2102,Samara Mccormick,3157312,Business,Education industry,High,9/12/2019,High,Argentina,Low,South Korea
+1,3882912,ACCT6781,ACCT6589,Noe Benjamin,581850,Business,Arms industry,High,11/28/2019,High,Iran,Low,South Korea
+1,3881497,ACCT5831,ACCT2573,Athena Preston,648998,Business,Water industry,High,12/21/2019,High,Russia,Low,South Korea
+1,3881057,ACCT4965,ACCT6978,Maritza Koch,3314136,Business,Fishing industry,High,5/5/2019,High,Indonesia,Low,United Kingdom
+1,3875565,ACCT5377,ACCT4215,Nikolas Alvarado,1141936,Business,Computer industry,High,2/24/2019,High,Turkey,Low,Italy
+1,3874928,ACCT7937,ACCT3974,Jadyn Stark,1540963,Business,Textile industry,High,11/9/2019,High,Egypt,Low,United Kingdom
+1,3869864,ACCT6214,ACCT3532,Lucas Fisher,1943056,Business,Electronics industry,High,5/5/2019,High,Egypt,Low,United States
+1,3868406,ACCT6418,ACCT5174,Lauryn Rose,3241476,Business,Mass media,High,3/16/2019,High,Russia,Low,United Kingdom
+1,3868365,ACCT7549,ACCT2450,Alyvia Rogers,1080569,Business,Real estate industry,High,1/28/2019,High,Philippines,Low,United Kingdom
+1,3865094,ACCT7386,ACCT2067,Alonzo Bond,2468124,Business,Food industry,High,8/9/2019,High,Indonesia,Low,Netherlands
+1,3862664,ACCT7167,ACCT6394,Oswaldo Davenport,2494226,Business,Food industry,High,11/13/2019,High,Nigeria,Low,Australia
+1,3849818,ACCT4632,ACCT2746,Irene Kane,910017,Business,Real estate industry,High,9/26/2019,High,Argentina,Low,Japan
+1,3848234,ACCT5434,ACCT7415,Jon Perkins,2657395,Business,Film industry,High,5/18/2019,High,Argentina,Low,Mexico
+1,3840764,ACCT7430,ACCT7249,Blaze Copeland,2686180,Business,Electrical power industry,High,6/12/2019,High,Russia,Low,Australia
+1,3836200,ACCT4882,ACCT5983,Neil Pham,1065707,Business,Petroleum industry,High,3/6/2019,High,Egypt,Low,Mexico
+1,3833066,ACCT7480,ACCT7506,Cruz Waller,2481376,Business,Timber industry,High,7/12/2019,High,Philippines,Low,Canada
+1,3832726,ACCT3499,ACCT5064,Janiya Mann,933234,Business,Electronics industry,High,4/24/2019,High,South Africa,Low,Canada
+1,3830775,ACCT6886,ACCT4903,Yusuf Colon,614078,Business,Computer industry,High,11/6/2019,High,Argentina,Low,Canada
+1,3827170,ACCT6555,ACCT7266,Emely Esparza,934368,Business,Video game industry,High,6/14/2019,High,Egypt,Low,United States
+1,3825895,ACCT6763,ACCT5925,Nico Maddox,2741250,Business,Computer industry,High,6/7/2019,High,South Africa,Low,Germany
+1,3825455,ACCT6567,ACCT5163,Justice Conrad,1571079,Business,Aerospace industry,High,9/21/2019,High,Argentina,Low,United States
+1,3817009,ACCT2289,ACCT4574,Sincere Carrillo,826626,Business,Computer industry,High,6/2/2019,High,Saudi Arabia,Low,United Kingdom
+1,3816934,ACCT5287,ACCT5472,Zaiden Sosa,3108151,Business,Hospitality industry,High,3/6/2019,High,Vietnam,Low,Italy
+1,3816231,ACCT7934,ACCT6285,Aimee Baxter,2500090,Business,Mass media,High,4/24/2019,High,Saudi Arabia,Low,United Kingdom
+1,3814774,ACCT3238,ACCT4832,Paula James,1353106,Business,Tobacco industry,High,7/15/2019,High,Saudi Arabia,Low,United Kingdom
+1,3812297,ACCT6077,ACCT3671,Terrell Ware,671208,Business,Energy industry,High,10/17/2019,High,Colombia,Low,Germany
+1,3807321,ACCT7429,ACCT7000,Zaiden Bender,1626801,Business,Mass media,High,2/23/2019,High,Philippines,Low,Canada
+1,3806164,ACCT3975,ACCT2338,Jamir Gould,3425524,Business,Fishing industry,High,8/18/2019,High,Indonesia,Low,Canada
+1,3805900,ACCT2803,ACCT4947,Roman Berry,3451400,Business,Steel industry,High,12/25/2019,High,Colombia,Low,France
+1,3805773,ACCT2698,ACCT2852,Keegan Brock,2905114,Business,Pharmaceutical industry,High,12/19/2019,High,Egypt,Low,Australia
+1,3802132,ACCT5990,ACCT6114,Ally Olsen,169672,Business,Industrial robot industry,High,1/7/2019,High,South Africa,Low,United Kingdom
+1,3801054,ACCT2779,ACCT5163,Justice Conrad,1571079,Business,Aerospace industry,High,11/16/2019,High,South Africa,Low,Mexico
+1,3800473,ACCT4490,ACCT6994,Marlie Contreras,806821,Business,Electrical power industry,High,6/6/2019,High,Argentina,Low,United Kingdom
+1,3798721,ACCT2162,ACCT4852,Malakai Barnett,1613585,Business,Shipbuilding industry,High,12/12/2019,High,Argentina,Low,Italy
+1,3787120,ACCT3534,ACCT4181,Tyrell Figueroa,1068160,Business,Pharmaceutical industry,High,5/28/2019,High,Turkey,Low,Japan
+1,3783956,ACCT7411,ACCT6174,Eduardo Bryan,828141,Business,Industrial robot industry,High,11/20/2019,High,Bangladesh,Low,Germany
+1,3781160,ACCT4228,ACCT5983,Neil Pham,1065707,Business,Petroleum industry,High,2/6/2019,High,Vietnam,Low,South Korea
+1,3779466,ACCT2080,ACCT2908,Liam Austin,1395223,Business,Semiconductor industry,High,5/8/2019,High,Saudi Arabia,Low,Netherlands
+1,3778345,ACCT7659,ACCT7556,Shaun Escobar,1320895,Business,Film industry,High,3/25/2019,High,South Africa,Low,Australia
+1,3776600,ACCT6680,ACCT7031,Dustin Stanley,743260,Business,Hospitality industry,High,5/18/2019,High,Bangladesh,Low,United States
+1,3768306,ACCT3473,ACCT4135,Ada Elliott,338653,Business,Food industry,High,12/31/2019,High,Colombia,Low,France
+1,3765106,ACCT6428,ACCT7986,Anastasia Cochran,356324,Business,Semiconductor industry,High,3/9/2019,High,South Africa,Low,Germany
+1,3761186,ACCT4880,ACCT3437,Glenn Simmons,1081796,Business,News media,High,8/16/2019,High,South Africa,Low,United States
+1,3752436,ACCT2417,ACCT3257,Karlie Ingram,141800,Business,Automotive industry,High,6/20/2019,High,Iran,Low,Netherlands
+1,3751679,ACCT6204,ACCT3177,Keyon Jones,467592,Business,Mass media,High,9/24/2019,High,Turkey,Low,Canada
+1,3750136,ACCT6201,ACCT5741,Jenny Wall,3172568,Business,Sport industry,High,3/18/2019,High,Saudi Arabia,Low,Mexico
+1,3749323,ACCT7543,ACCT7462,Kenzie Kelly,2814762,Business,Timber industry,High,8/19/2019,High,Colombia,Low,Japan
+1,3748235,ACCT7899,ACCT7462,Kenzie Kelly,2814762,Business,Timber industry,High,5/2/2019,High,Brazil,Low,Italy
+1,3746932,ACCT5346,ACCT4920,Natalie Day,3290881,Business,Real estate industry,High,8/2/2019,High,Pakistan,Low,Italy
+1,3741772,ACCT7300,ACCT2545,Nina Bryan,1506992,Business,Water industry,High,8/19/2019,High,Turkey,Low,Mexico
+1,3741063,ACCT7961,ACCT7031,Dustin Stanley,743260,Business,Hospitality industry,High,10/9/2019,High,Russia,Low,Canada
+1,3737451,ACCT5075,ACCT5862,Teagan Jacobs,3639861,Business,Insurance industry,High,10/17/2019,High,South Africa,Low,Japan
+1,3732977,ACCT4586,ACCT3445,Ralph Hebert,853212,Business,Timber industry,High,7/25/2019,High,Brazil,Low,Netherlands
+1,3731483,ACCT7569,ACCT3445,Ralph Hebert,853212,Business,Timber industry,High,9/29/2019,High,Egypt,Low,Japan
+1,3729447,ACCT6851,ACCT2008,Adeline Francis,469124,Business,Industrial robot industry,High,4/25/2019,High,Argentina,Low,France
+1,3729169,ACCT3900,ACCT4851,Maddox Mahoney,1537529,Business,Health care industry,High,7/10/2019,High,Russia,Low,Canada
+1,3726147,ACCT5963,ACCT2579,Savion Rogers,2238586,Business,Hospitality industry,High,4/1/2019,High,Argentina,Low,Australia
+1,3725856,ACCT5737,ACCT2029,Allan Parsons,1170210,Business,Telecommunications industry,High,10/12/2019,High,Indonesia,Low,Canada
+1,3722740,ACCT6390,ACCT3942,Yareli Boone,2711147,Business,Tobacco industry,High,2/4/2019,High,Turkey,Low,South Korea
+1,3721397,ACCT7064,ACCT4903,Yusuf Colon,614078,Business,Computer industry,High,12/27/2019,High,Argentina,Low,United States
+1,3716374,ACCT2264,ACCT5204,Isabela Douglas,3461728,Business,Mining,High,8/12/2019,High,Indonesia,Low,Japan
+1,3716145,ACCT2868,ACCT6753,Enrique Robertson,2601277,Business,Industrial robot industry,High,2/6/2019,High,Philippines,Low,Japan
+1,3714745,ACCT7367,ACCT2251,Mariam Camacho,2040453,Business,Steel industry,High,12/21/2019,High,Vietnam,Low,Mexico
+1,3711795,ACCT2929,ACCT3270,Andreas Vargas,1267559,Business,Music industry,High,4/19/2019,High,Indonesia,Low,United Kingdom
+1,3708682,ACCT4185,ACCT6778,Julius Spence,2190140,Business,Timber industry,High,3/2/2019,High,Argentina,Low,Mexico
+1,3708274,ACCT2675,ACCT3919,Caden Moyer,2076870,Business,Tobacco industry,High,2/2/2019,High,Saudi Arabia,Low,Japan
+1,3707960,ACCT3407,ACCT2250,Milo Christensen,2598868,Business,Computer industry,High,5/7/2019,High,Argentina,Low,South Korea
+1,3706526,ACCT3843,ACCT6266,Van Moran,2540703,Business,Food industry,High,2/24/2019,High,Egypt,Low,Australia
+1,3706456,ACCT5891,ACCT5472,Zaiden Sosa,3108151,Business,Hospitality industry,High,12/17/2019,High,Indonesia,Low,Mexico
+1,3705575,ACCT2442,ACCT4090,Dustin Kerr,1446737,Business,Health care industry,High,11/4/2019,High,Turkey,Low,Germany
+1,3704349,ACCT5364,ACCT4558,Kaia Schroeder,2809559,Business,Industrial robot industry,High,2/11/2019,High,Saudi Arabia,Low,Italy
+1,3695961,ACCT7587,ACCT7212,Laney Reynolds,1637692,Business,Aerospace industry,High,4/6/2019,High,Indonesia,Low,Australia
+1,3693324,ACCT5711,ACCT3492,Ezequiel Malone,2579143,Business,Pulp and paper industry,High,4/24/2019,High,Russia,Low,South Korea
+1,3691330,ACCT3187,ACCT2473,Cedric Ali,3388749,Business,Sport industry,High,4/23/2019,High,Brazil,Low,Germany
+1,3689974,ACCT7326,ACCT7996,Francis Mcclure,688219,Business,Computer industry,High,3/25/2019,High,Nigeria,Low,South Korea
+1,3687615,ACCT4048,ACCT7834,Karli Ryan,1020063,Business,Internet,High,11/1/2019,High,Saudi Arabia,Low,Japan
+1,3683540,ACCT4895,ACCT4585,Jeremiah Carter,2328465,Business,Energy industry,High,10/1/2019,High,Philippines,Low,Germany
+1,3682611,ACCT7475,ACCT3288,Emerson Farrell,2526859,Business,Shipbuilding industry,High,12/28/2019,High,South Africa,Low,United States
+1,3682159,ACCT2971,ACCT3013,Josh Barrera,1660835,Business,News media,High,4/25/2019,High,South Africa,Low,Netherlands
+1,3678063,ACCT4307,ACCT3792,Nyla Roth,3162220,Business,Semiconductor industry,High,8/24/2019,High,Bangladesh,Low,Netherlands
+1,3678007,ACCT4665,ACCT6114,Ally Olsen,169672,Business,Industrial robot industry,High,7/4/2019,High,Nigeria,Low,South Korea
+1,3677152,ACCT5533,ACCT3919,Caden Moyer,2076870,Business,Tobacco industry,High,4/29/2019,High,Vietnam,Low,United Kingdom
+1,3673019,ACCT6190,ACCT7930,Korbin Navarro,2508760,Business,Textile industry,High,9/1/2019,High,Russia,Low,Canada
+1,3672039,ACCT5392,ACCT7056,Peter Cowan,3439819,Business,Pulp and paper industry,High,3/8/2019,High,South Africa,Low,Netherlands
+1,3670693,ACCT3083,ACCT6758,Rigoberto Newman,1549567,Business,Aerospace industry,High,11/3/2019,High,Egypt,Low,Japan
+1,3666818,ACCT4132,ACCT2376,Jairo Clayton,3268317,Business,Shipbuilding industry,High,3/25/2019,High,Iran,Low,Italy
+1,3665855,ACCT5913,ACCT7266,Emely Esparza,934368,Business,Video game industry,High,8/26/2019,High,Egypt,Low,France
+1,3664388,ACCT3456,ACCT3244,Courtney Branch,2659061,Business,Electrical power industry,High,4/8/2019,High,South Africa,Low,South Korea
+1,3662200,ACCT7845,ACCT5837,Wyatt Salas,3560086,Business,Education industry,High,4/24/2019,High,Russia,Low,Japan
+1,3653606,ACCT6151,ACCT6919,Amari Hebert,1339799,Business,Video game industry,High,1/31/2019,High,Saudi Arabia,Low,Mexico
+1,3651909,ACCT2868,ACCT2693,Zayden Webster,802647,Business,Entertainment industry,High,5/9/2019,High,Pakistan,Low,United States
+1,3651564,ACCT5259,ACCT6978,Maritza Koch,3314136,Business,Fishing industry,High,10/12/2019,High,Bangladesh,Low,France
+1,3651247,ACCT5889,ACCT4986,Abigail Moon,2480508,Business,Telecommunications industry,High,4/30/2019,High,Turkey,Low,United States
+1,3650881,ACCT3238,ACCT3437,Glenn Simmons,1081796,Business,News media,High,2/1/2019,High,Argentina,Low,France
+1,3650589,ACCT7753,ACCT2250,Milo Christensen,2598868,Business,Computer industry,High,6/11/2019,High,Philippines,Low,South Korea
+1,3645316,ACCT3180,ACCT6660,Talan Quinn,1703478,Business,Internet,High,4/27/2019,High,Brazil,Low,United States
+1,3644474,ACCT6323,ACCT6863,Ivan Pruitt,1272519,Business,Industrial robot industry,High,5/24/2019,High,Colombia,Low,Mexico
+1,3642748,ACCT6227,ACCT4090,Dustin Kerr,1446737,Business,Health care industry,High,5/28/2019,High,Egypt,Low,Australia
+1,3640082,ACCT7896,ACCT5060,Tristan Arias,3475375,Business,Textile industry,High,9/1/2019,High,Pakistan,Low,South Korea
+1,3639010,ACCT5317,ACCT3792,Nyla Roth,3162220,Business,Semiconductor industry,High,3/15/2019,High,Pakistan,Low,Japan
+1,3634527,ACCT2568,ACCT6191,Asa Ferguson,3275757,Business,Publishing,High,2/7/2019,High,Nigeria,Low,United States
+1,3631065,ACCT7808,ACCT4897,Alisa Cameron,1767866,Business,Telecommunications industry,High,6/9/2019,High,Philippines,Low,France
+1,3627315,ACCT4037,ACCT5457,Reid Gamble,3547831,Business,Internet,High,12/3/2019,High,Iran,Low,Australia
+1,3626998,ACCT6831,ACCT2008,Adeline Francis,469124,Business,Industrial robot industry,High,2/3/2019,High,Egypt,Low,South Korea
+1,3623349,ACCT3228,ACCT7306,Arabella Coffey,645344,Business,Defense industry,High,5/26/2019,High,Indonesia,Low,France
+1,3622502,ACCT3050,ACCT5531,Mary Marshall,2239757,Business,Financial services industry,High,7/8/2019,High,Iran,Low,Canada
+1,3620419,ACCT4081,ACCT7530,Trinity Frost,3614862,Business,Low to medium tech industry,High,7/16/2019,High,Nigeria,Low,Netherlands
+1,3616537,ACCT4832,ACCT3598,Shea Case,3365814,Business,Hospitality industry,High,1/6/2019,High,Iran,Low,Canada
+1,3615901,ACCT6777,ACCT5338,Alessandro Murillo,794758,Business,Insurance industry,High,8/17/2019,High,Bangladesh,Low,United States
+1,3615562,ACCT3058,ACCT3210,Lilian Richard,809451,Business,Financial services industry,High,12/15/2019,High,Saudi Arabia,Low,Mexico
+1,3613637,ACCT2757,ACCT7031,Dustin Stanley,743260,Business,Hospitality industry,High,10/30/2019,High,Bangladesh,Low,Canada
+1,3609183,ACCT3166,ACCT7490,Alexis Kelley,3111390,Business,News media,High,3/24/2019,High,Iran,Low,United States
+1,3607867,ACCT4720,ACCT7960,Taniya Higgins,835459,Business,Telecommunications industry,High,2/13/2019,High,Argentina,Low,South Korea
+1,3607184,ACCT3851,ACCT6301,Cecilia Meyer,368008,Business,Energy industry,High,4/5/2019,High,Egypt,Low,Germany
+1,3604015,ACCT6610,ACCT5576,Malia Brooks,2734440,Business,Defense industry,High,6/4/2019,High,Philippines,Low,United Kingdom
+1,3603474,ACCT4106,ACCT3378,Casey Hale,3320412,Business,Hospitality industry,High,11/14/2019,High,Pakistan,Low,Germany
+1,3601140,ACCT3368,ACCT4903,Yusuf Colon,614078,Business,Computer industry,High,1/25/2019,High,Pakistan,Low,Netherlands
+1,3596283,ACCT4036,ACCT7599,Anabelle Wolfe,243191,Business,Petroleum industry,High,8/12/2019,High,Colombia,Low,United Kingdom
+1,3593838,ACCT2949,ACCT6596,Ryleigh Potts,2676900,Business,Publishing,High,4/17/2019,High,Iran,Low,France
+1,3593062,ACCT3147,ACCT7462,Kenzie Kelly,2814762,Business,Timber industry,High,3/9/2019,High,Turkey,Low,Mexico
+1,3587381,ACCT2657,ACCT4406,Dario Cline,1832669,Business,Computer industry,High,4/29/2019,High,Philippines,Low,Japan
+1,3585525,ACCT5392,ACCT6075,Abram Vaughn,553529,Business,Tobacco industry,High,10/1/2019,High,Indonesia,Low,Mexico
+1,3583747,ACCT4962,ACCT2265,Odin Wolfe,3240722,Business,Software industry,High,10/3/2019,High,Philippines,Low,Japan
+1,3583561,ACCT2928,ACCT5424,Orlando Lucas,3218039,Business,Industrial robot industry,High,8/2/2019,High,Pakistan,Low,Australia
+1,3581841,ACCT6164,ACCT2132,Blake Costa,370230,Business,Health care industry,High,3/30/2019,High,Turkey,Low,United States
+1,3578620,ACCT7458,ACCT3879,Elliott Holt,563804,Business,Insurance industry,High,4/23/2019,High,South Africa,Low,Australia
+1,3577250,ACCT7888,ACCT4851,Maddox Mahoney,1537529,Business,Health care industry,High,8/24/2019,High,Turkey,Low,Japan
+1,3576007,ACCT7349,ACCT5450,Ryan Sanchez,1740010,Business,Transport industry,High,9/7/2019,High,Pakistan,Low,Canada
+1,3575353,ACCT6365,ACCT2186,Ricardo Solis,470748,Business,Computer industry,High,2/15/2019,High,Bangladesh,Low,United Kingdom
+1,3574759,ACCT4532,ACCT5472,Zaiden Sosa,3108151,Business,Hospitality industry,High,11/19/2019,High,Vietnam,Low,United States
+1,3573275,ACCT5105,ACCT5903,Ezequiel Durham,2089002,Business,Timber industry,High,6/25/2019,High,Argentina,Low,Germany
+1,3572529,ACCT3837,ACCT3270,Andreas Vargas,1267559,Business,Music industry,High,11/6/2019,High,Argentina,Low,France
+1,3572399,ACCT4478,ACCT5338,Alessandro Murillo,794758,Business,Insurance industry,High,8/22/2019,High,Pakistan,Low,Australia
+1,3571807,ACCT3534,ACCT7834,Karli Ryan,1020063,Business,Internet,High,7/23/2019,High,Brazil,Low,United Kingdom
+1,3570798,ACCT4798,ACCT5443,Maggie Wong,3414505,Business,Arms industry,High,4/3/2019,High,Saudi Arabia,Low,Canada
+1,3558649,ACCT3133,ACCT4029,Tianna Mays,782425,Business,Hospitality industry,High,11/11/2019,High,Iran,Low,Mexico
+1,3558422,ACCT4104,ACCT7665,Leia Berry,2224181,Business,Insurance industry,High,2/19/2019,High,Turkey,Low,Netherlands
+1,3554923,ACCT4832,ACCT2376,Jairo Clayton,3268317,Business,Shipbuilding industry,High,7/27/2019,High,Argentina,Low,United Kingdom
+1,3549222,ACCT2456,ACCT7092,Guillermo Dean,307497,Business,Education industry,High,4/8/2019,High,Turkey,Low,South Korea
+1,3547340,ACCT5217,ACCT6119,Ally Hancock,812411,Business,Telecommunications industry,High,6/2/2019,High,Iran,Low,Italy
+1,3537700,ACCT2743,ACCT6193,Noe Calhoun,2959436,Business,Film industry,High,5/12/2019,High,Philippines,Low,Canada
+1,3537394,ACCT4030,ACCT5858,Angelique Beasley,2438459,Business,Sport industry,High,6/23/2019,High,South Africa,Low,Italy
+1,3536043,ACCT4690,ACCT2949,Lawrence Dunn,282389,Business,Sport industry,High,9/27/2019,High,Colombia,Low,Netherlands
+1,3534175,ACCT2210,ACCT4959,Landin Torres,687069,Business,Computer industry,High,1/29/2019,High,Pakistan,Low,South Korea
+1,3533414,ACCT7664,ACCT2029,Allan Parsons,1170210,Business,Telecommunications industry,High,2/7/2019,High,Nigeria,Low,Australia
+1,3531138,ACCT2725,ACCT3147,Triston Moreno,1729880,Business,Electrical power industry,High,4/9/2019,High,Russia,Low,France
+1,3530245,ACCT7772,ACCT7056,Peter Cowan,3439819,Business,Pulp and paper industry,High,7/11/2019,High,Argentina,Low,Germany
+1,3523127,ACCT7554,ACCT4138,Donald Case,2117277,Business,Chemical industry,High,7/7/2019,High,Saudi Arabia,Low,Netherlands
+1,3522859,ACCT7538,ACCT2579,Savion Rogers,2238586,Business,Hospitality industry,High,1/12/2019,High,Iran,Low,Germany
+1,3522507,ACCT7600,ACCT2959,Cordell Rubio,2395251,Business,Mining,High,7/29/2019,High,Nigeria,Low,United Kingdom
+1,3516961,ACCT5922,ACCT7599,Anabelle Wolfe,243191,Business,Petroleum industry,High,3/19/2019,High,South Africa,Low,Japan
+1,3514066,ACCT4401,ACCT4503,Krish Braun,1513481,Business,Semiconductor industry,High,5/9/2019,High,Bangladesh,Low,South Korea
+1,3513961,ACCT5432,ACCT6285,Aimee Baxter,2500090,Business,Mass media,High,2/8/2019,High,Iran,Low,Germany
+1,3513080,ACCT5922,ACCT7056,Peter Cowan,3439819,Business,Pulp and paper industry,High,5/16/2019,High,Nigeria,Low,United Kingdom
+1,3511470,ACCT7078,ACCT3942,Yareli Boone,2711147,Business,Tobacco industry,High,10/21/2019,High,Iran,Low,Australia
+1,3509543,ACCT3844,ACCT7798,Graham Shah,1427972,Business,Textile industry,High,9/29/2019,High,Vietnam,Low,Italy
+1,3508893,ACCT2360,ACCT5060,Tristan Arias,3475375,Business,Textile industry,High,5/22/2019,High,Russia,Low,Australia
+1,3507621,ACCT6398,ACCT2149,Conrad Herring,2366772,Business,Petroleum industry,High,12/10/2019,High,Colombia,Low,Italy
+1,3505519,ACCT5586,ACCT5508,Alma Pena,1983051,Business,Publishing,High,5/8/2019,High,Brazil,Low,Australia
+1,3502399,ACCT5618,ACCT3671,Terrell Ware,671208,Business,Energy industry,High,10/31/2019,High,Pakistan,Low,Germany
+1,3502034,ACCT3880,ACCT2732,Kyler Bryant,3403369,Business,Publishing,High,9/7/2019,High,Colombia,Low,United Kingdom
+1,3501668,ACCT3310,ACCT2908,Liam Austin,1395223,Business,Semiconductor industry,High,8/23/2019,High,Bangladesh,Low,Australia
+1,3498515,ACCT7659,ACCT7348,Alec Holloway,3144976,Business,Electronics industry,High,7/15/2019,High,Egypt,Low,Canada
+1,3498185,ACCT7108,ACCT5367,Liberty Brandt,1686264,Business,Automotive industry,High,12/25/2019,High,Philippines,Low,Australia
+1,3494445,ACCT2253,ACCT6193,Noe Calhoun,2959436,Business,Film industry,High,5/1/2019,High,Pakistan,Low,Mexico
+1,3493918,ACCT5855,ACCT3147,Triston Moreno,1729880,Business,Electrical power industry,High,6/26/2019,High,Bangladesh,Low,Australia
+1,3492350,ACCT4158,ACCT6114,Ally Olsen,169672,Business,Industrial robot industry,High,8/24/2019,High,Pakistan,Low,Japan
+1,3491874,ACCT5089,ACCT4959,Landin Torres,687069,Business,Computer industry,High,1/24/2019,High,Colombia,Low,Canada
+1,3486762,ACCT6221,ACCT5265,Ramon Estrada,3466756,Business,Pulp and paper industry,High,9/2/2019,High,Argentina,Low,Italy
+1,3486112,ACCT3886,ACCT3598,Shea Case,3365814,Business,Hospitality industry,High,10/8/2019,High,Turkey,Low,Canada
+1,3474935,ACCT6297,ACCT2743,Frida Faulkner,813954,Business,Mass media,High,6/27/2019,High,Colombia,Low,United States
+1,3470602,ACCT2034,ACCT3598,Shea Case,3365814,Business,Hospitality industry,High,7/14/2019,High,Philippines,Low,Italy
+1,3470189,ACCT4325,ACCT7920,Ainsley Rosales,241526,Business,Pharmaceutical industry,High,5/23/2019,High,Indonesia,Low,Italy
+1,3461795,ACCT4175,ACCT6266,Van Moran,2540703,Business,Food industry,High,4/16/2019,High,Pakistan,Low,Australia
+1,3455685,ACCT4884,ACCT5983,Neil Pham,1065707,Business,Petroleum industry,High,7/23/2019,High,Egypt,Low,Australia
+1,3452013,ACCT5033,ACCT4903,Yusuf Colon,614078,Business,Computer industry,High,2/20/2019,High,Egypt,Low,Italy
+1,3448209,ACCT7084,ACCT2572,Ashlee Phelps,1779194,Business,Automotive industry,High,7/17/2019,High,Bangladesh,Low,Italy
+1,3446181,ACCT3921,ACCT5367,Liberty Brandt,1686264,Business,Automotive industry,High,6/23/2019,High,Egypt,Low,South Korea
+1,3442803,ACCT4918,ACCT6589,Noe Benjamin,581850,Business,Arms industry,High,6/24/2019,High,South Africa,Low,Italy
+1,3440836,ACCT7496,ACCT3013,Josh Barrera,1660835,Business,News media,High,3/12/2019,High,Russia,Low,South Korea
+1,3436732,ACCT5137,ACCT5180,Laney Cline,2272731,Business,Publishing,High,3/29/2019,High,Saudi Arabia,Low,Canada
+1,3420058,ACCT7383,ACCT4585,Jeremiah Carter,2328465,Business,Energy industry,High,4/10/2019,High,Vietnam,Low,United States
+1,3413735,ACCT5447,ACCT5603,Aydin Noble,210506,Business,Chemical industry,High,5/27/2019,High,Turkey,Low,Australia
+1,3413318,ACCT5426,ACCT7800,Tristen Stephenson,2106006,Business,Real estate industry,High,10/24/2019,High,Egypt,Low,Germany
+1,3411257,ACCT3068,ACCT4431,Ari Reese,1749771,Business,Video game industry,High,11/18/2019,High,Philippines,Low,United Kingdom
+1,3410611,ACCT5468,ACCT2463,Kara Stanley,2176157,Business,Electrical power industry,High,11/18/2019,High,Pakistan,Low,Germany
+1,3408604,ACCT5241,ACCT4135,Ada Elliott,338653,Business,Food industry,High,8/9/2019,High,Brazil,Low,Germany
+1,3400594,ACCT4012,ACCT5268,Cadence Webb,1848278,Business,Software industry,High,9/13/2019,High,Turkey,Low,Netherlands
+1,3399323,ACCT5481,ACCT4514,Skyla Sparks,1686586,Business,Industrial robot industry,High,9/27/2019,High,Turkey,Low,Australia
+1,3398839,ACCT6958,ACCT6291,Maurice Estes,2021301,Business,Food industry,High,7/29/2019,High,Turkey,Low,United States
+1,3397568,ACCT7123,ACCT5021,Maggie Mclaughlin,1389535,Business,Fishing industry,High,4/29/2019,High,Indonesia,Low,Netherlands
+1,3397360,ACCT4407,ACCT7950,Scarlet Wade,2029764,Business,Water industry,High,6/26/2019,High,Nigeria,Low,United States
+1,3396482,ACCT3634,ACCT6601,Bryce Ball,1436820,Business,Industrial robot industry,High,3/15/2019,High,Colombia,Low,Netherlands
+1,3395682,ACCT2262,ACCT5614,Reed Castillo,738493,Business,Real estate industry,High,11/19/2019,High,Iran,Low,Italy
+1,3390435,ACCT7950,ACCT7195,Samson Green,2473427,Business,News media,High,7/27/2019,High,Philippines,Low,South Korea
+1,3389472,ACCT5382,ACCT5819,Liliana Pugh,1854867,Business,Video game industry,High,2/5/2019,High,Vietnam,Low,United States
+1,3388067,ACCT5623,ACCT4090,Dustin Kerr,1446737,Business,Health care industry,High,12/8/2019,High,Colombia,Low,Australia
+1,3380041,ACCT4434,ACCT3288,Emerson Farrell,2526859,Business,Shipbuilding industry,High,10/21/2019,High,Russia,Low,Mexico
+1,3376516,ACCT6618,ACCT5209,Hadley Tate,2817839,Business,Publishing,High,12/20/2019,High,Saudi Arabia,Low,South Korea
+1,3375745,ACCT6345,ACCT3210,Lilian Richard,809451,Business,Financial services industry,High,8/16/2019,High,Bangladesh,Low,Australia
+1,3372455,ACCT6964,ACCT4847,Averi Franco,1563269,Business,Video game industry,High,8/8/2019,High,Colombia,Low,Australia
+1,3371601,ACCT2311,ACCT3737,Adrien Sampson,3332958,Business,Automotive industry,High,11/23/2019,High,Colombia,Low,Germany
+1,3368775,ACCT6598,ACCT3737,Adrien Sampson,3332958,Business,Automotive industry,High,1/1/2019,High,Colombia,Low,Japan
+1,3359954,ACCT5430,ACCT2852,Keegan Brock,2905114,Business,Pharmaceutical industry,High,5/25/2019,High,Bangladesh,Low,Mexico
+1,3358904,ACCT7543,ACCT3380,Moshe Petty,320296,Business,Energy industry,High,11/27/2019,High,Russia,Low,Canada
+1,3356411,ACCT7328,ACCT6119,Ally Hancock,812411,Business,Telecommunications industry,High,11/28/2019,High,Philippines,Low,South Korea
+1,3355127,ACCT7047,ACCT2565,Sergio Hernandez,3103382,Business,Real estate industry,High,2/2/2019,High,Colombia,Low,Mexico
+1,3352691,ACCT3635,ACCT7930,Korbin Navarro,2508760,Business,Textile industry,High,7/20/2019,High,Pakistan,Low,Italy
+1,3348143,ACCT2565,ACCT2001,Kevin Shelton,1435598,Business,Telecommunications industry,High,9/30/2019,High,Pakistan,Low,Canada
+1,3345157,ACCT3028,ACCT7986,Anastasia Cochran,356324,Business,Semiconductor industry,High,9/8/2019,High,South Africa,Low,United Kingdom
+1,3345133,ACCT5267,ACCT3225,Khloe Hill,1648387,Business,Timber industry,High,2/3/2019,High,Russia,Low,France
+1,3332311,ACCT4244,ACCT7339,Delilah Miranda,1255268,Business,Food industry,High,2/22/2019,High,Turkey,Low,Mexico
+1,3328298,ACCT5244,ACCT2149,Conrad Herring,2366772,Business,Petroleum industry,High,10/28/2019,High,Egypt,Low,Italy
+1,3323373,ACCT3512,ACCT2463,Kara Stanley,2176157,Business,Electrical power industry,High,11/30/2019,High,Turkey,Low,Canada
+1,3322877,ACCT3679,ACCT5713,Lexie Floyd,683623,Business,Electronics industry,High,2/20/2019,High,Vietnam,Low,South Korea
+1,3320615,ACCT6022,ACCT3436,Brielle Huang,2693892,Business,Computer industry,High,6/25/2019,High,Egypt,Low,Australia
+1,3320315,ACCT4612,ACCT7031,Dustin Stanley,743260,Business,Hospitality industry,High,1/2/2019,High,Philippines,Low,Netherlands
+1,3318197,ACCT5934,ACCT7714,Frances Watkins,291369,Business,Fishing industry,High,2/21/2019,High,Brazil,Low,Netherlands
+1,3313712,ACCT4500,ACCT5576,Malia Brooks,2734440,Business,Defense industry,High,1/7/2019,High,Brazil,Low,Netherlands
+1,3310973,ACCT3470,ACCT7339,Delilah Miranda,1255268,Business,Food industry,High,6/6/2019,High,Saudi Arabia,Low,Canada
+1,3309735,ACCT2761,ACCT7215,Emelia Mendez,810450,Business,Pulp and paper industry,High,9/29/2019,High,Indonesia,Low,South Korea
+1,3308300,ACCT4011,ACCT7647,Alayna Eaton,3164237,Business,Shipbuilding industry,High,7/17/2019,High,Saudi Arabia,Low,Italy
+1,3306993,ACCT4516,ACCT3879,Elliott Holt,563804,Business,Insurance industry,High,11/18/2019,High,Egypt,Low,South Korea
+1,3305159,ACCT5673,ACCT3826,Brisa Swanson,3044573,Business,Telecommunications industry,High,8/12/2019,High,Nigeria,Low,Germany
+1,3303592,ACCT2015,ACCT3257,Karlie Ingram,141800,Business,Automotive industry,High,7/15/2019,High,Egypt,Low,Canada
+1,3301473,ACCT7348,ACCT3532,Lucas Fisher,1943056,Business,Electronics industry,High,9/18/2019,High,Nigeria,Low,France
+1,3299050,ACCT5144,ACCT7950,Scarlet Wade,2029764,Business,Water industry,High,4/12/2019,High,Brazil,Low,Japan
+1,3298470,ACCT7820,ACCT2900,Nevaeh Stuart,2184853,Business,News media,High,7/24/2019,High,Turkey,Low,Australia
+1,3297917,ACCT7107,ACCT2029,Allan Parsons,1170210,Business,Telecommunications industry,High,10/20/2019,High,Iran,Low,United Kingdom
+1,3296752,ACCT6596,ACCT3792,Nyla Roth,3162220,Business,Semiconductor industry,High,7/18/2019,High,South Africa,Low,Australia
+1,3294669,ACCT5329,ACCT4341,Marley Mathews,2405619,Business,Entertainment industry,High,6/18/2019,High,Vietnam,Low,Canada
+1,3294227,ACCT7146,ACCT3786,Uriel Fry,3022346,Business,Electronics industry,High,1/5/2019,High,Colombia,Low,Italy
+1,3291649,ACCT6582,ACCT2258,Aiyana Pham,1382552,Business,Computer industry,High,4/9/2019,High,South Africa,Low,Italy
+1,3291421,ACCT5987,ACCT3066,Eric Beard,984304,Business,Water industry,High,1/26/2019,High,Colombia,Low,Australia
+1,3284813,ACCT3440,ACCT7249,Blaze Copeland,2686180,Business,Electrical power industry,High,5/28/2019,High,Iran,Low,Mexico
+1,3282805,ACCT3638,ACCT2251,Mariam Camacho,2040453,Business,Steel industry,High,12/9/2019,High,Brazil,Low,Japan
+1,3281159,ACCT6164,ACCT2660,Chase Swanson,2872387,Business,Hospitality industry,High,7/23/2019,High,Turkey,Low,Mexico
+1,3280372,ACCT3880,ACCT5610,Giselle Galvan,2881609,Business,Publishing,High,12/21/2019,High,Vietnam,Low,Canada
+1,3279903,ACCT3792,ACCT7270,Skylar French,275250,Business,Financial services industry,High,1/1/2019,High,Egypt,Low,Australia
+1,3279528,ACCT5852,ACCT3258,Julia Chapman,2241967,Business,Hospitality industry,High,6/30/2019,High,Argentina,Low,Mexico
+1,3277940,ACCT6123,ACCT5174,Lauryn Rose,3241476,Business,Mass media,High,1/11/2019,High,Iran,Low,South Korea
+1,3276996,ACCT5328,ACCT3018,Camilla Randolph,3032442,Business,Textile industry,High,12/15/2019,High,Brazil,Low,Australia
+1,3275017,ACCT3160,ACCT2029,Allan Parsons,1170210,Business,Telecommunications industry,High,7/10/2019,High,Turkey,Low,United States
+1,3270316,ACCT5166,ACCT6291,Maurice Estes,2021301,Business,Food industry,High,10/17/2019,High,Iran,Low,United Kingdom
+1,3269523,ACCT5442,ACCT2660,Chase Swanson,2872387,Business,Hospitality industry,High,10/16/2019,High,Brazil,Low,Mexico
+1,3268810,ACCT4677,ACCT6100,Alexis Greene,1895351,Business,Insurance industry,High,6/14/2019,High,Pakistan,Low,South Korea
+1,3266122,ACCT3434,ACCT4823,Lance Vance,129926,Business,Pulp and paper industry,High,4/18/2019,High,Egypt,Low,Netherlands
+1,3263775,ACCT5393,ACCT5199,Briana Singh,1624444,Business,Education industry,High,4/20/2019,High,South Africa,Low,South Korea
+1,3262318,ACCT2278,ACCT6193,Noe Calhoun,2959436,Business,Film industry,High,8/25/2019,High,Indonesia,Low,Germany
+1,3261526,ACCT4236,ACCT4965,Emiliano Moses,2499393,Business,Software industry,High,4/21/2019,High,Saudi Arabia,Low,South Korea
+1,3258931,ACCT4304,ACCT2573,Athena Preston,648998,Business,Water industry,High,9/28/2019,High,Turkey,Low,France
+1,3258591,ACCT2728,ACCT4900,Finley Flores,1388980,Business,Energy industry,High,7/12/2019,High,Russia,Low,South Korea
+1,3254431,ACCT4914,ACCT6673,Renee Scott,523644,Business,Real estate industry,High,7/30/2019,High,Indonesia,Low,Japan
+1,3254341,ACCT4306,ACCT7000,Zaiden Bender,1626801,Business,Mass media,High,3/23/2019,High,Vietnam,Low,Germany
+1,3251295,ACCT3534,ACCT7459,Noah Nelson,1055387,Business,Internet,High,12/23/2019,High,Saudi Arabia,Low,Mexico
+1,3247961,ACCT4176,ACCT2463,Kara Stanley,2176157,Business,Electrical power industry,High,7/16/2019,High,Saudi Arabia,Low,Japan
+1,3244709,ACCT3788,ACCT5903,Ezequiel Durham,2089002,Business,Timber industry,High,4/19/2019,High,Egypt,Low,United States
+1,3240983,ACCT4788,ACCT5021,Maggie Mclaughlin,1389535,Business,Fishing industry,High,12/11/2019,High,Russia,Low,South Korea
+1,3239694,ACCT2739,ACCT6096,Skylar Hill,2046995,Business,Food industry,High,3/5/2019,High,Russia,Low,Mexico
+1,3238183,ACCT7004,ACCT4899,Lizbeth Leon,2051743,Business,Textile industry,High,7/13/2019,High,South Africa,Low,Germany
+1,3237102,ACCT5619,ACCT3670,Cheyanne Willis,529103,Business,Mining,High,1/24/2019,High,Philippines,Low,France
+1,3234442,ACCT6466,ACCT3173,Judah Carson,3201502,Business,Steel industry,High,12/14/2019,High,Iran,Low,Mexico
+1,3234043,ACCT6590,ACCT3066,Eric Beard,984304,Business,Water industry,High,9/22/2019,High,Bangladesh,Low,France
+1,3228726,ACCT2135,ACCT7195,Samson Green,2473427,Business,News media,High,1/13/2019,High,Turkey,Low,United States
+1,3224183,ACCT5544,ACCT3153,Tyler Harrington,2169627,Business,Broadcasting,High,11/28/2019,High,Brazil,Low,Italy
+1,3223006,ACCT7160,ACCT3177,Keyon Jones,467592,Business,Mass media,High,3/13/2019,High,Pakistan,Low,Netherlands
+1,3222276,ACCT6567,ACCT3946,Dania Moyer,1931245,Business,Semiconductor industry,High,12/20/2019,High,Indonesia,Low,France
+1,3220939,ACCT4708,ACCT3991,Chace Spence,1820846,Business,Fishing industry,High,10/17/2019,High,Nigeria,Low,United Kingdom
+1,3216331,ACCT2821,ACCT4029,Tianna Mays,782425,Business,Hospitality industry,High,2/3/2019,High,Philippines,Low,South Korea
+1,3211550,ACCT2881,ACCT2102,Samara Mccormick,3157312,Business,Education industry,High,9/26/2019,High,Brazil,Low,Netherlands
+1,3209261,ACCT7624,ACCT3094,Miya Aguilar,1913490,Business,Mass media,High,1/10/2019,High,Colombia,Low,Canada
+1,3202642,ACCT6579,ACCT2545,Nina Bryan,1506992,Business,Water industry,High,1/16/2019,High,Iran,Low,Italy
+1,3197991,ACCT3819,ACCT2463,Kara Stanley,2176157,Business,Electrical power industry,High,4/24/2019,High,Bangladesh,Low,Mexico
+1,3197724,ACCT3790,ACCT6096,Skylar Hill,2046995,Business,Food industry,High,6/9/2019,High,Colombia,Low,Australia
+1,3192859,ACCT5393,ACCT7993,Ryland Beasley,2211947,Business,Water industry,High,6/18/2019,High,Bangladesh,Low,South Korea
+1,3191293,ACCT2330,ACCT4517,Sarahi Richmond,2898357,Business,Textile industry,High,8/2/2019,High,Colombia,Low,Italy
+1,3185643,ACCT7777,ACCT2810,Moises Weber,483485,Business,Semiconductor industry,High,7/27/2019,High,Argentina,Low,Australia
+1,3179949,ACCT2029,ACCT5082,Mitchell Harrell,1149639,Business,Semiconductor industry,High,8/17/2019,High,Egypt,Low,Australia
+1,3179356,ACCT5659,ACCT6291,Maurice Estes,2021301,Business,Food industry,High,9/10/2019,High,Pakistan,Low,United States
+1,3173949,ACCT2859,ACCT7028,Deacon Walls,789169,Business,Water industry,High,1/8/2019,High,Russia,Low,Canada
+1,3171270,ACCT5213,ACCT5102,Marquise Preston,2969274,Business,Electronics industry,High,9/19/2019,High,Bangladesh,Low,Australia
+1,3168203,ACCT3020,ACCT2186,Ricardo Solis,470748,Business,Computer industry,High,2/7/2019,High,Brazil,Low,France
+1,3167703,ACCT3800,ACCT3564,Caitlin Archer,2120882,Business,Pulp and paper industry,High,5/30/2019,High,Pakistan,Low,Netherlands
+1,3165232,ACCT5526,ACCT4164,Abdullah Hays,795837,Business,Shipbuilding industry,High,2/24/2019,High,Egypt,Low,Italy
+1,3160399,ACCT2979,ACCT3436,Brielle Huang,2693892,Business,Computer industry,High,11/16/2019,High,Philippines,Low,United Kingdom
+1,3158714,ACCT6665,ACCT7800,Tristen Stephenson,2106006,Business,Real estate industry,High,5/20/2019,High,Pakistan,Low,Japan
+1,3149462,ACCT5539,ACCT2648,Sabrina Mcmahon,2870557,Business,Fishing industry,High,1/28/2019,High,Nigeria,Low,Germany
+1,3149145,ACCT6583,ACCT7920,Ainsley Rosales,241526,Business,Pharmaceutical industry,High,8/14/2019,High,Iran,Low,Netherlands
+1,3146994,ACCT4231,ACCT4431,Ari Reese,1749771,Business,Video game industry,High,5/6/2019,High,Colombia,Low,United States
+1,3145634,ACCT7877,ACCT3154,Desmond Page,851358,Business,Textile industry,High,2/1/2019,High,Argentina,Low,Canada
+1,3142325,ACCT4425,ACCT2959,Cordell Rubio,2395251,Business,Mining,High,8/17/2019,High,Nigeria,Low,France
+1,3139894,ACCT6553,ACCT7440,Jaliyah Mccall,207755,Business,Fishing industry,High,6/16/2019,High,Colombia,Low,South Korea
+1,3137904,ACCT7281,ACCT6796,Harley Simpson,102749,Business,Automotive industry,High,3/5/2019,High,Iran,Low,Germany
+1,3135101,ACCT3019,ACCT6495,Karter Browning,2506537,Business,Food industry,High,8/29/2019,High,Argentina,Low,Netherlands
+1,3127493,ACCT5866,ACCT2852,Keegan Brock,2905114,Business,Pharmaceutical industry,High,2/2/2019,High,Iran,Low,United Kingdom
+1,3122786,ACCT3534,ACCT7986,Anastasia Cochran,356324,Business,Semiconductor industry,High,1/2/2019,High,Bangladesh,Low,South Korea
+1,3118717,ACCT7913,ACCT4484,Gustavo Ellis,1996357,Business,Low to medium tech industry,High,10/6/2019,High,Colombia,Low,United States
+1,3117711,ACCT5321,ACCT7666,Julianne Bright,2515377,Business,Energy industry,High,4/12/2019,High,Philippines,Low,Japan
+1,3115442,ACCT2598,ACCT2189,Carmen Rowe,1692423,Business,Real estate industry,High,11/14/2019,High,Iran,Low,Australia
+1,3110733,ACCT2040,ACCT3564,Caitlin Archer,2120882,Business,Pulp and paper industry,High,1/16/2019,High,Argentina,Low,Netherlands
+1,3109452,ACCT5192,ACCT6010,Demetrius Moyer,1701688,Business,Automotive industry,High,9/5/2019,High,Vietnam,Low,Italy
+1,3105077,ACCT4953,ACCT5509,Dalia Kane,1734250,Business,Low to medium tech industry,High,12/24/2019,High,Brazil,Low,Japan
+1,3104589,ACCT4194,ACCT5989,Allyson Macdonald,2137568,Business,Petroleum industry,High,3/27/2019,High,Egypt,Low,South Korea
+1,3101898,ACCT7559,ACCT4215,Nikolas Alvarado,1141936,Business,Computer industry,High,8/28/2019,High,Philippines,Low,Japan
+1,3100490,ACCT5299,ACCT4164,Abdullah Hays,795837,Business,Shipbuilding industry,High,9/8/2019,High,Brazil,Low,Germany
+1,3099445,ACCT6732,ACCT5903,Ezequiel Durham,2089002,Business,Timber industry,High,11/21/2019,High,South Africa,Low,South Korea
+1,3098986,ACCT7060,ACCT6010,Demetrius Moyer,1701688,Business,Automotive industry,High,9/18/2019,High,Pakistan,Low,Netherlands
+1,3097810,ACCT7796,ACCT6131,Miracle Sharp,157719,Business,Automotive industry,High,8/15/2019,High,Colombia,Low,Japan
+1,3090677,ACCT7594,ACCT2908,Liam Austin,1395223,Business,Semiconductor industry,High,7/12/2019,High,Philippines,Low,Germany
+1,3079590,ACCT7741,ACCT4891,Jaidyn Kirk,603008,Business,Tobacco industry,High,5/5/2019,High,Brazil,Low,Japan
+1,3077105,ACCT3376,ACCT3430,Solomon Quinn,2918927,Business,Fishing industry,High,11/24/2019,High,South Africa,Low,Germany
+1,3064486,ACCT4339,ACCT5045,Frederick Owen,2984252,Business,Defense industry,High,8/6/2019,High,Argentina,Low,Australia
+1,3063627,ACCT4035,ACCT6596,Ryleigh Potts,2676900,Business,Publishing,High,1/17/2019,High,Iran,Low,Germany
+1,3063021,ACCT2208,ACCT2205,Angeline Pennington,1395453,Business,Aerospace industry,High,10/24/2019,High,Philippines,Low,France
+1,3047468,ACCT2769,ACCT6758,Rigoberto Newman,1549567,Business,Aerospace industry,High,7/12/2019,High,Nigeria,Low,South Korea
+1,3045995,ACCT7062,ACCT6114,Ally Olsen,169672,Business,Industrial robot industry,High,1/4/2019,High,Bangladesh,Low,Australia
+1,3042612,ACCT2052,ACCT7930,Korbin Navarro,2508760,Business,Textile industry,High,12/4/2019,High,Colombia,Low,Canada
+1,3029448,ACCT6046,ACCT6501,Ella Brock,282437,Business,Education industry,High,6/6/2019,High,Turkey,Low,United Kingdom
+1,3029301,ACCT4233,ACCT5000,Jared Levine,1845649,Business,Real estate industry,High,10/22/2019,High,Iran,Low,United States
+1,3028056,ACCT3008,ACCT3564,Caitlin Archer,2120882,Business,Pulp and paper industry,High,1/28/2019,High,South Africa,Low,Japan
+1,3022167,ACCT4884,ACCT4143,Jaliyah Aguilar,2916082,Business,Tobacco industry,High,10/27/2019,High,Philippines,Low,South Korea
+1,3014401,ACCT5787,ACCT2954,Charlize Patterson,2215747,Business,Food industry,High,7/19/2019,High,Nigeria,Low,Canada
+1,3012762,ACCT6025,ACCT2787,Ahmad Lowery,2285439,Business,Computer industry,High,4/24/2019,High,Indonesia,Low,Australia
+1,3003262,ACCT6051,ACCT6596,Ryleigh Potts,2676900,Business,Publishing,High,7/15/2019,High,Indonesia,Low,South Korea
+1,2993639,ACCT6210,ACCT5505,Kathleen Lara,1967422,Business,Sport industry,High,2/14/2019,High,Vietnam,Low,France
+1,2993439,ACCT5390,ACCT2660,Chase Swanson,2872387,Business,Hospitality industry,High,4/21/2019,High,South Africa,Low,South Korea
+1,2987643,ACCT6308,ACCT7462,Kenzie Kelly,2814762,Business,Timber industry,High,12/6/2019,High,Egypt,Low,United States
+1,2983628,ACCT2587,ACCT5102,Marquise Preston,2969274,Business,Electronics industry,High,2/11/2019,High,Indonesia,Low,France
+1,2979316,ACCT2662,ACCT3564,Caitlin Archer,2120882,Business,Pulp and paper industry,High,12/25/2019,High,Iran,Low,Italy
+1,2978797,ACCT2648,ACCT5509,Dalia Kane,1734250,Business,Low to medium tech industry,High,10/28/2019,High,Iran,Low,Italy
+1,2976887,ACCT3152,ACCT5705,Cassius Tyler,2307683,Business,Chemical industry,High,11/27/2019,High,Iran,Low,Mexico
+1,2976458,ACCT5142,ACCT7673,Viviana Sellers,811374,Business,Video game industry,High,2/7/2019,High,Philippines,Low,Japan
+1,2976052,ACCT7125,ACCT6501,Ella Brock,282437,Business,Education industry,High,12/26/2019,High,Colombia,Low,France
+1,2974616,ACCT2118,ACCT2545,Nina Bryan,1506992,Business,Water industry,High,9/15/2019,High,Pakistan,Low,South Korea
+1,2972621,ACCT5797,ACCT4514,Skyla Sparks,1686586,Business,Industrial robot industry,High,4/22/2019,High,Pakistan,Low,United States
+1,2962553,ACCT7161,ACCT2001,Kevin Shelton,1435598,Business,Telecommunications industry,High,10/22/2019,High,Colombia,Low,Germany
+1,2951447,ACCT4179,ACCT2088,Ellie Singleton,2037077,Business,Pulp and paper industry,High,2/24/2019,High,Egypt,Low,Netherlands
+1,2949977,ACCT7893,ACCT6994,Marlie Contreras,806821,Business,Electrical power industry,High,10/2/2019,High,Egypt,Low,Italy
+1,2949034,ACCT3476,ACCT3564,Caitlin Archer,2120882,Business,Pulp and paper industry,High,3/21/2019,High,Vietnam,Low,Australia
+1,2944543,ACCT2849,ACCT7151,Shane Huff,2257753,Business,Shipbuilding industry,High,2/23/2019,High,Argentina,Low,France
+1,2942640,ACCT5459,ACCT7599,Anabelle Wolfe,243191,Business,Petroleum industry,High,8/17/2019,High,Russia,Low,Germany
+1,2940280,ACCT4604,ACCT5466,Lennon Jackson,1823680,Business,Education industry,High,3/3/2019,High,Saudi Arabia,Low,United States
+1,2939299,ACCT2297,ACCT2908,Liam Austin,1395223,Business,Semiconductor industry,High,3/4/2019,High,Russia,Low,Japan
+1,2935888,ACCT6006,ACCT3014,Regina Roberts,122477,Business,Industrial robot industry,High,10/8/2019,High,Turkey,Low,United Kingdom
+1,2932634,ACCT4737,ACCT5466,Lennon Jackson,1823680,Business,Education industry,High,2/12/2019,High,Russia,Low,Japan
+1,2930758,ACCT6449,ACCT6753,Enrique Robertson,2601277,Business,Industrial robot industry,High,5/13/2019,High,Colombia,Low,Australia
+1,2930351,ACCT6304,ACCT7071,Donna Arnold,2476144,Business,Tobacco industry,High,10/21/2019,High,Nigeria,Low,France
+1,2928032,ACCT7666,ACCT2280,Cristal Long,2845153,Business,Water industry,High,9/27/2019,High,Brazil,Low,South Korea
+1,2926106,ACCT6591,ACCT3492,Ezequiel Malone,2579143,Business,Pulp and paper industry,High,6/24/2019,High,Argentina,Low,Netherlands
+1,2926064,ACCT6108,ACCT5925,Nico Maddox,2741250,Business,Computer industry,High,1/7/2019,High,Indonesia,Low,Germany
+1,2919923,ACCT6302,ACCT2611,Landon Fischer,2694127,Business,Construction industry,High,9/5/2019,High,Brazil,Low,Italy
+1,2917647,ACCT6342,ACCT3670,Cheyanne Willis,529103,Business,Mining,High,10/7/2019,High,Vietnam,Low,Germany
+1,2915943,ACCT2403,ACCT4541,Sawyer White,2185124,Business,Broadcasting,High,5/26/2019,High,Bangladesh,Low,Mexico
+1,2915336,ACCT3837,ACCT4341,Marley Mathews,2405619,Business,Entertainment industry,High,3/12/2019,High,Iran,Low,South Korea
+1,2912146,ACCT3751,ACCT7877,Marcel Huang,2713935,Business,Defense industry,High,10/13/2019,High,Vietnam,Low,United Kingdom
+1,2911000,ACCT6406,ACCT4215,Nikolas Alvarado,1141936,Business,Computer industry,High,11/12/2019,High,Colombia,Low,South Korea
+1,2909319,ACCT7988,ACCT5819,Liliana Pugh,1854867,Business,Video game industry,High,7/15/2019,High,Russia,Low,Canada
+1,2908853,ACCT5405,ACCT6131,Miracle Sharp,157719,Business,Automotive industry,High,8/17/2019,High,Brazil,Low,Mexico
+1,2908371,ACCT4777,ACCT6325,Brooke Cruz,1465687,Business,Steel industry,High,12/23/2019,High,Russia,Low,France
+1,2903270,ACCT2146,ACCT5983,Neil Pham,1065707,Business,Petroleum industry,High,5/2/2019,High,Colombia,Low,United Kingdom
+1,2900612,ACCT5263,ACCT5892,Turner Gibbs,1196714,Business,Education industry,High,10/27/2019,High,Vietnam,Low,France
+1,2896267,ACCT6936,ACCT6010,Demetrius Moyer,1701688,Business,Automotive industry,High,3/20/2019,High,Philippines,Low,Germany
+1,2892532,ACCT3561,ACCT6096,Skylar Hill,2046995,Business,Food industry,High,2/15/2019,High,Egypt,Low,South Korea
+1,2891406,ACCT2360,ACCT7599,Anabelle Wolfe,243191,Business,Petroleum industry,High,2/15/2019,High,Egypt,Low,Mexico
+1,2891373,ACCT6747,ACCT7266,Emely Esparza,934368,Business,Video game industry,High,3/10/2019,High,Philippines,Low,Mexico
+1,2889804,ACCT3621,ACCT5509,Dalia Kane,1734250,Business,Low to medium tech industry,High,9/7/2019,High,Pakistan,Low,Mexico
+1,2889728,ACCT5982,ACCT7151,Shane Huff,2257753,Business,Shipbuilding industry,High,10/1/2019,High,Indonesia,Low,United States
+1,2888538,ACCT7138,ACCT3942,Yareli Boone,2711147,Business,Tobacco industry,High,10/29/2019,High,Vietnam,Low,Japan
+1,2887234,ACCT7539,ACCT2787,Ahmad Lowery,2285439,Business,Computer industry,High,12/9/2019,High,Saudi Arabia,Low,United States
+1,2882064,ACCT2323,ACCT5871,Ernesto Velasquez,2808600,Business,Information industry,High,7/26/2019,High,Nigeria,Low,United Kingdom
+1,2879356,ACCT4262,ACCT5643,Aliyah Odom,1582722,Business,Industrial robot industry,High,9/9/2019,High,Vietnam,Low,United States
+1,2878485,ACCT3865,ACCT2764,Greyson Weeks,2304468,Business,Hospitality industry,High,11/30/2019,High,Argentina,Low,Japan
+1,2875592,ACCT5993,ACCT2959,Cordell Rubio,2395251,Business,Mining,High,7/25/2019,High,Indonesia,Low,United Kingdom
+1,2875539,ACCT5554,ACCT4899,Lizbeth Leon,2051743,Business,Textile industry,High,10/8/2019,High,Russia,Low,France
+1,2871522,ACCT4228,ACCT4852,Malakai Barnett,1613585,Business,Shipbuilding industry,High,3/7/2019,High,Bangladesh,Low,Mexico
+1,2865962,ACCT2468,ACCT5983,Neil Pham,1065707,Business,Petroleum industry,High,4/30/2019,High,Brazil,Low,Germany
+1,2856282,ACCT6546,ACCT6660,Talan Quinn,1703478,Business,Internet,High,6/20/2019,High,Brazil,Low,Canada
+1,2855535,ACCT2633,ACCT3325,Isaac Santana,1349647,Business,Energy industry,High,1/2/2019,High,Argentina,Low,France
+1,2850122,ACCT7194,ACCT3225,Khloe Hill,1648387,Business,Timber industry,High,7/12/2019,High,Colombia,Low,Japan
+1,2849695,ACCT7908,ACCT4571,Jaycee Howell,1974903,Business,Industrial robot industry,High,12/9/2019,High,Bangladesh,Low,Germany
+1,2846533,ACCT7244,ACCT3946,Dania Moyer,1931245,Business,Semiconductor industry,High,7/18/2019,High,Indonesia,Low,United Kingdom
+1,2844770,ACCT4620,ACCT7996,Francis Mcclure,688219,Business,Computer industry,High,11/4/2019,High,Nigeria,Low,United Kingdom
+1,2844319,ACCT6156,ACCT2579,Savion Rogers,2238586,Business,Hospitality industry,High,8/30/2019,High,Bangladesh,Low,Japan
+1,2838426,ACCT2705,ACCT4823,Lance Vance,129926,Business,Pulp and paper industry,High,10/26/2019,High,Pakistan,Low,South Korea
+1,2831381,ACCT7725,ACCT2029,Allan Parsons,1170210,Business,Telecommunications industry,High,2/19/2019,High,Iran,Low,Australia
+1,2823152,ACCT6181,ACCT5180,Laney Cline,2272731,Business,Publishing,High,2/2/2019,High,Nigeria,Low,France
+1,2818970,ACCT7662,ACCT2764,Greyson Weeks,2304468,Business,Hospitality industry,High,6/19/2019,High,Iran,Low,United Kingdom
+1,2817600,ACCT7158,ACCT5268,Cadence Webb,1848278,Business,Software industry,High,2/28/2019,High,Turkey,Low,South Korea
+1,2816933,ACCT2822,ACCT6119,Ally Hancock,812411,Business,Telecommunications industry,High,7/4/2019,High,South Africa,Low,Australia
+1,2805312,ACCT6339,ACCT4965,Emiliano Moses,2499393,Business,Software industry,High,10/21/2019,High,Colombia,Low,Japan
+1,2792596,ACCT4912,ACCT2450,Alyvia Rogers,1080569,Business,Real estate industry,High,5/1/2019,High,Philippines,Low,Australia
+1,2792467,ACCT7543,ACCT4215,Nikolas Alvarado,1141936,Business,Computer industry,High,2/10/2019,High,South Africa,Low,Japan
+1,2792359,ACCT3368,ACCT6596,Ryleigh Potts,2676900,Business,Publishing,High,4/7/2019,High,Philippines,Low,United States
+1,2791453,ACCT5999,ACCT3244,Courtney Branch,2659061,Business,Electrical power industry,High,7/8/2019,High,Colombia,Low,Japan
+1,2789207,ACCT2585,ACCT4029,Tianna Mays,782425,Business,Hospitality industry,High,8/23/2019,High,Iran,Low,Japan
+1,2788029,ACCT3415,ACCT2743,Frida Faulkner,813954,Business,Mass media,High,8/12/2019,High,Nigeria,Low,France
+1,2785316,ACCT4300,ACCT7579,Ally Espinoza,1214825,Business,Telecommunications industry,High,4/13/2019,High,Colombia,Low,Netherlands
+1,2779613,ACCT6019,ACCT7996,Francis Mcclure,688219,Business,Computer industry,High,8/24/2019,High,Brazil,Low,Canada
+1,2766327,ACCT7495,ACCT2645,Carly Page,544724,Business,Software industry,High,6/4/2019,High,Nigeria,Low,Netherlands
+1,2765178,ACCT7853,ACCT4852,Malakai Barnett,1613585,Business,Shipbuilding industry,High,2/22/2019,High,Iran,Low,Netherlands
+1,2762171,ACCT7419,ACCT7459,Noah Nelson,1055387,Business,Internet,High,4/25/2019,High,Bangladesh,Low,Canada
+1,2759530,ACCT4569,ACCT5268,Cadence Webb,1848278,Business,Software industry,High,4/2/2019,High,Philippines,Low,South Korea
+1,2755285,ACCT4781,ACCT2489,Renee Dyer,2089828,Business,Electrical power industry,High,3/8/2019,High,Russia,Low,Netherlands
+1,2755087,ACCT3427,ACCT7339,Delilah Miranda,1255268,Business,Food industry,High,7/18/2019,High,South Africa,Low,Canada
+1,2744675,ACCT3700,ACCT3671,Terrell Ware,671208,Business,Energy industry,High,2/2/2019,High,Vietnam,Low,Mexico
+1,2743953,ACCT2105,ACCT7556,Shaun Escobar,1320895,Business,Film industry,High,2/27/2019,High,Brazil,Low,Australia
+1,2742453,ACCT2548,ACCT4503,Krish Braun,1513481,Business,Semiconductor industry,High,1/13/2019,High,Turkey,Low,France
+1,2737668,ACCT3521,ACCT7666,Julianne Bright,2515377,Business,Energy industry,High,10/29/2019,High,Egypt,Low,France
+1,2736650,ACCT3575,ACCT2087,Alexzander Osborn,123025,Business,Internet,High,8/17/2019,High,Nigeria,Low,South Korea
+1,2736491,ACCT6367,ACCT7031,Dustin Stanley,743260,Business,Hospitality industry,High,10/6/2019,High,Turkey,Low,France
+1,2732529,ACCT2528,ACCT4903,Yusuf Colon,614078,Business,Computer industry,High,11/5/2019,High,Iran,Low,Japan
+1,2732486,ACCT4494,ACCT4092,Scarlet Hutchinson,2238947,Business,Electrical power industry,High,1/10/2019,High,Colombia,Low,United States
+1,2732242,ACCT3709,ACCT3288,Emerson Farrell,2526859,Business,Shipbuilding industry,High,3/12/2019,High,Nigeria,Low,Netherlands
+1,2726707,ACCT4472,ACCT3013,Josh Barrera,1660835,Business,News media,High,3/24/2019,High,Saudi Arabia,Low,Netherlands
+1,2725324,ACCT3635,ACCT6178,Nathanael James,108874,Business,Hospitality industry,High,1/16/2019,High,Philippines,Low,South Korea
+1,2725181,ACCT4692,ACCT2765,Mckenna Mcintosh,1877005,Business,Timber industry,High,12/13/2019,High,Nigeria,Low,France
+1,2723839,ACCT7245,ACCT4061,Ronin Bridges,1578656,Business,Internet,High,6/21/2019,High,Pakistan,Low,South Korea
+1,2723612,ACCT5393,ACCT3524,Bo Coleman,2178134,Business,Textile industry,High,9/10/2019,High,Indonesia,Low,South Korea
+1,2718924,ACCT2449,ACCT7996,Francis Mcclure,688219,Business,Computer industry,High,2/21/2019,High,South Africa,Low,United Kingdom
+1,2716825,ACCT5832,ACCT3013,Josh Barrera,1660835,Business,News media,High,3/26/2019,High,Pakistan,Low,Canada
+1,2707060,ACCT4769,ACCT3244,Courtney Branch,2659061,Business,Electrical power industry,High,8/11/2019,High,Saudi Arabia,Low,Italy
+1,2704345,ACCT6762,ACCT2371,Amari Farrell,883818,Business,Aerospace industry,High,6/15/2019,High,Brazil,Low,Germany
+1,2703084,ACCT4935,ACCT5603,Aydin Noble,210506,Business,Chemical industry,High,5/17/2019,High,Turkey,Low,Germany
+1,2697025,ACCT4234,ACCT4132,Emma Escobar,361689,Business,Pharmaceutical industry,High,10/3/2019,High,South Africa,Low,Netherlands
+1,2695940,ACCT4414,ACCT6495,Karter Browning,2506537,Business,Food industry,High,10/24/2019,High,Nigeria,Low,South Korea
+1,2691859,ACCT5991,ACCT7000,Zaiden Bender,1626801,Business,Mass media,High,9/1/2019,High,Indonesia,Low,United States
+1,2690001,ACCT6587,ACCT6236,Frankie Wolf,1876637,Business,Petroleum industry,High,12/2/2019,High,Bangladesh,Low,Mexico
+1,2689069,ACCT4607,ACCT5508,Alma Pena,1983051,Business,Publishing,High,12/23/2019,High,Saudi Arabia,Low,Japan
+1,2687506,ACCT2230,ACCT6035,Kylie Grant,399177,Business,News media,High,8/11/2019,High,Russia,Low,United Kingdom
+1,2680405,ACCT4533,ACCT3946,Dania Moyer,1931245,Business,Semiconductor industry,High,5/13/2019,High,Colombia,Low,Mexico
+1,2674283,ACCT2329,ACCT2371,Amari Farrell,883818,Business,Aerospace industry,High,12/17/2019,High,Philippines,Low,France
+1,2674270,ACCT5781,ACCT6589,Noe Benjamin,581850,Business,Arms industry,High,10/12/2019,High,Bangladesh,Low,Italy
+1,2666891,ACCT7544,ACCT6035,Kylie Grant,399177,Business,News media,High,7/7/2019,High,Turkey,Low,Canada
+1,2666700,ACCT4340,ACCT7306,Arabella Coffey,645344,Business,Defense industry,High,5/13/2019,High,Saudi Arabia,Low,South Korea
+1,2666012,ACCT4610,ACCT3052,Pranav Salas,692233,Business,Defense industry,High,6/4/2019,High,Turkey,Low,Canada
+1,2658432,ACCT3149,ACCT4484,Gustavo Ellis,1996357,Business,Low to medium tech industry,High,5/10/2019,High,Argentina,Low,Netherlands
+1,2657116,ACCT4439,ACCT7599,Anabelle Wolfe,243191,Business,Petroleum industry,High,12/14/2019,High,Indonesia,Low,Germany
+1,2655768,ACCT2546,ACCT6285,Aimee Baxter,2500090,Business,Mass media,High,12/4/2019,High,Egypt,Low,Australia
+1,2647692,ACCT5630,ACCT3066,Eric Beard,984304,Business,Water industry,High,7/16/2019,High,South Africa,Low,United States
+1,2646827,ACCT4008,ACCT6100,Alexis Greene,1895351,Business,Insurance industry,High,8/18/2019,High,Nigeria,Low,Netherlands
+1,2646805,ACCT7551,ACCT6174,Eduardo Bryan,828141,Business,Industrial robot industry,High,7/26/2019,High,Saudi Arabia,Low,Germany
+1,2646656,ACCT2875,ACCT2769,Zackary Ruiz,513280,Business,Information industry,High,8/31/2019,High,Bangladesh,Low,United Kingdom
+1,2645578,ACCT2400,ACCT3974,Jadyn Stark,1540963,Business,Textile industry,High,7/16/2019,High,Colombia,Low,South Korea
+1,2636820,ACCT7415,ACCT5450,Ryan Sanchez,1740010,Business,Transport industry,High,10/23/2019,High,Egypt,Low,Canada
+1,2634238,ACCT4773,ACCT6174,Eduardo Bryan,828141,Business,Industrial robot industry,High,12/29/2019,High,Iran,Low,Germany
+1,2631927,ACCT4383,ACCT3670,Cheyanne Willis,529103,Business,Mining,High,5/16/2019,High,Pakistan,Low,United States
+1,2627021,ACCT6236,ACCT7071,Donna Arnold,2476144,Business,Tobacco industry,High,4/27/2019,High,Turkey,Low,Mexico
+1,2623671,ACCT6716,ACCT4832,Paula James,1353106,Business,Tobacco industry,High,11/6/2019,High,South Africa,Low,Japan
+1,2620745,ACCT4286,ACCT5983,Neil Pham,1065707,Business,Petroleum industry,High,7/19/2019,High,Saudi Arabia,Low,Japan
+1,2617436,ACCT2417,ACCT2545,Nina Bryan,1506992,Business,Water industry,High,8/10/2019,High,Indonesia,Low,United States
+1,2615585,ACCT2088,ACCT2954,Charlize Patterson,2215747,Business,Food industry,High,9/2/2019,High,South Africa,Low,United Kingdom
+1,2604475,ACCT5549,ACCT6589,Noe Benjamin,581850,Business,Arms industry,High,6/15/2019,High,Egypt,Low,United States
+1,2602826,ACCT6514,ACCT7950,Scarlet Wade,2029764,Business,Water industry,High,4/6/2019,High,Iran,Low,Japan
+1,2602230,ACCT5145,ACCT2087,Alexzander Osborn,123025,Business,Internet,High,1/31/2019,High,Vietnam,Low,United Kingdom
+1,2599943,ACCT6962,ACCT7800,Tristen Stephenson,2106006,Business,Real estate industry,High,11/20/2019,High,Russia,Low,United Kingdom
+1,2599893,ACCT6831,ACCT5505,Kathleen Lara,1967422,Business,Sport industry,High,9/2/2019,High,Iran,Low,France
+1,2594908,ACCT2374,ACCT7453,Sonia Roach,1305783,Business,Entertainment industry,High,6/21/2019,High,Bangladesh,Low,United Kingdom
+1,2593422,ACCT5278,ACCT7755,Tianna Horn,2251561,Business,Real estate industry,High,1/13/2019,High,Pakistan,Low,Japan
+1,2590714,ACCT4677,ACCT6285,Aimee Baxter,2500090,Business,Mass media,High,1/18/2019,High,Egypt,Low,United Kingdom
+1,2590084,ACCT5609,ACCT2701,Kiersten Cochran,975866,Business,Transport industry,High,2/2/2019,High,Vietnam,Low,United States
+1,2583292,ACCT5880,ACCT7603,Finley Lynch,1800068,Business,Music industry,High,8/4/2019,High,Vietnam,Low,Italy
+1,2581932,ACCT6341,ACCT3564,Caitlin Archer,2120882,Business,Pulp and paper industry,High,1/16/2019,High,South Africa,Low,Germany
+1,2563874,ACCT6510,ACCT2319,Thalia Wall,474659,Business,Defense industry,High,2/1/2019,High,South Africa,Low,United States
+1,2563066,ACCT3089,ACCT4148,Anton Villa,510977,Business,Music industry,High,9/10/2019,High,Nigeria,Low,France
+1,2561286,ACCT3037,ACCT2040,Alan Hooper,1763282,Business,Hospitality industry,High,1/6/2019,High,Argentina,Low,France
+1,2555393,ACCT3308,ACCT6114,Ally Olsen,169672,Business,Industrial robot industry,High,12/30/2019,High,Egypt,Low,United States
+1,2553262,ACCT3142,ACCT2029,Allan Parsons,1170210,Business,Telecommunications industry,High,10/18/2019,High,Brazil,Low,Mexico
+1,2552381,ACCT6863,ACCT7031,Dustin Stanley,743260,Business,Hospitality industry,High,11/14/2019,High,Argentina,Low,United Kingdom
+1,2552183,ACCT3810,ACCT2949,Lawrence Dunn,282389,Business,Sport industry,High,3/22/2019,High,Philippines,Low,South Korea
+1,2551096,ACCT2962,ACCT5705,Cassius Tyler,2307683,Business,Chemical industry,High,10/15/2019,High,Iran,Low,Netherlands
+1,2549788,ACCT7679,ACCT6354,Jacoby Mora,1692275,Business,Music industry,High,2/10/2019,High,Colombia,Low,United Kingdom
+1,2547264,ACCT4788,ACCT2701,Kiersten Cochran,975866,Business,Transport industry,High,9/24/2019,High,Nigeria,Low,South Korea
+1,2546442,ACCT7948,ACCT6035,Kylie Grant,399177,Business,News media,High,8/11/2019,High,Argentina,Low,Italy
+1,2545294,ACCT6521,ACCT5993,Jerome Salas,326590,Business,Transport industry,High,7/19/2019,High,Iran,Low,Italy
+1,2543030,ACCT3914,ACCT6178,Nathanael James,108874,Business,Hospitality industry,High,10/19/2019,High,Vietnam,Low,United States
+1,2542347,ACCT2452,ACCT4851,Maddox Mahoney,1537529,Business,Health care industry,High,6/13/2019,High,Egypt,Low,United Kingdom
+1,2539634,ACCT2585,ACCT6495,Karter Browning,2506537,Business,Food industry,High,1/18/2019,High,Pakistan,Low,France
+1,2539041,ACCT4232,ACCT3210,Lilian Richard,809451,Business,Financial services industry,High,9/5/2019,High,Argentina,Low,France
+1,2534684,ACCT6158,ACCT5505,Kathleen Lara,1967422,Business,Sport industry,High,1/23/2019,High,Pakistan,Low,Mexico
+1,2530206,ACCT2478,ACCT7350,Peter Gibbs,737939,Business,Video game industry,High,6/17/2019,High,Indonesia,Low,Mexico
+1,2527240,ACCT2431,ACCT7031,Dustin Stanley,743260,Business,Hospitality industry,High,11/5/2019,High,Nigeria,Low,United States
+1,2525489,ACCT3200,ACCT4092,Scarlet Hutchinson,2238947,Business,Electrical power industry,High,11/19/2019,High,Colombia,Low,United States
+1,2519067,ACCT4779,ACCT4121,Macy Abbott,283204,Business,Film industry,High,4/4/2019,High,Saudi Arabia,Low,Canada
+1,2518031,ACCT5918,ACCT5993,Jerome Salas,326590,Business,Transport industry,High,1/7/2019,High,Iran,Low,Italy
+1,2518028,ACCT3865,ACCT6571,Brogan Farmer,880290,Business,Mass media,High,9/5/2019,High,Philippines,Low,France
+1,2509371,ACCT4066,ACCT7212,Laney Reynolds,1637692,Business,Aerospace industry,High,8/16/2019,High,Colombia,Low,United Kingdom
+1,2506442,ACCT3042,ACCT6096,Skylar Hill,2046995,Business,Food industry,High,7/9/2019,High,Pakistan,Low,Canada
+1,2503711,ACCT5688,ACCT5603,Aydin Noble,210506,Business,Chemical industry,High,11/11/2019,High,Saudi Arabia,Low,United States
+1,2501276,ACCT6125,ACCT3437,Glenn Simmons,1081796,Business,News media,High,10/8/2019,High,Philippines,Low,Canada
+1,2500125,ACCT7633,ACCT2489,Renee Dyer,2089828,Business,Electrical power industry,High,2/23/2019,High,Saudi Arabia,Low,Germany
+1,2496276,ACCT4071,ACCT5600,Tiana Levy,1608741,Business,Steel industry,High,9/11/2019,High,Nigeria,Low,United Kingdom
+1,2486198,ACCT3179,ACCT3147,Triston Moreno,1729880,Business,Electrical power industry,High,3/4/2019,High,Philippines,Low,Japan
+1,2485726,ACCT2759,ACCT3952,Zachery Wong,1502477,Business,Sport industry,High,4/23/2019,High,Turkey,Low,Mexico
+1,2483664,ACCT2052,ACCT6184,Rosa Noble,2369568,Business,Automotive industry,High,7/14/2019,High,Russia,Low,Canada
+1,2480677,ACCT2167,ACCT5082,Mitchell Harrell,1149639,Business,Semiconductor industry,High,5/17/2019,High,Philippines,Low,United States
+1,2478465,ACCT4108,ACCT3879,Elliott Holt,563804,Business,Insurance industry,High,1/16/2019,High,Egypt,Low,Canada
+1,2473316,ACCT2235,ACCT3225,Khloe Hill,1648387,Business,Timber industry,High,9/15/2019,High,Iran,Low,Japan
+1,2470034,ACCT4178,ACCT6075,Abram Vaughn,553529,Business,Tobacco industry,High,1/4/2019,High,Bangladesh,Low,Canada
+1,2462047,ACCT6542,ACCT4725,Gerardo Leonard,1195677,Business,Timber industry,High,5/20/2019,High,Nigeria,Low,United States
+1,2461009,ACCT5425,ACCT6708,Asa Erickson,806589,Business,Insurance industry,High,10/26/2019,High,Iran,Low,Germany
+1,2454272,ACCT5675,ACCT4406,Dario Cline,1832669,Business,Computer industry,High,7/28/2019,High,Iran,Low,Japan
+1,2451333,ACCT2903,ACCT2132,Blake Costa,370230,Business,Health care industry,High,8/27/2019,High,Vietnam,Low,Germany
+1,2451019,ACCT2021,ACCT5705,Cassius Tyler,2307683,Business,Chemical industry,High,9/17/2019,High,South Africa,Low,Netherlands
+1,2447903,ACCT7431,ACCT2645,Carly Page,544724,Business,Software industry,High,1/2/2019,High,Egypt,Low,France
+1,2446992,ACCT2694,ACCT3974,Jadyn Stark,1540963,Business,Textile industry,High,7/15/2019,High,South Africa,Low,South Korea
+1,2443962,ACCT3237,ACCT3974,Jadyn Stark,1540963,Business,Textile industry,High,3/18/2019,High,Brazil,Low,Australia
+1,2436286,ACCT4519,ACCT2908,Liam Austin,1395223,Business,Semiconductor industry,High,12/6/2019,High,Turkey,Low,Canada
+1,2435638,ACCT6208,ACCT2186,Ricardo Solis,470748,Business,Computer industry,High,1/5/2019,High,South Africa,Low,Canada
+1,2424432,ACCT3848,ACCT3445,Ralph Hebert,853212,Business,Timber industry,High,10/29/2019,High,Nigeria,Low,Japan
+1,2423787,ACCT3178,ACCT3672,Weston Herring,521214,Business,Petroleum industry,High,3/2/2019,High,Russia,Low,France
+1,2423255,ACCT3437,ACCT7996,Francis Mcclure,688219,Business,Computer industry,High,11/3/2019,High,Nigeria,Low,United States
+1,2420351,ACCT5301,ACCT4135,Ada Elliott,338653,Business,Food industry,High,8/12/2019,High,Saudi Arabia,Low,Netherlands
+1,2419824,ACCT2841,ACCT4215,Nikolas Alvarado,1141936,Business,Computer industry,High,4/13/2019,High,Philippines,Low,Japan
+1,2417987,ACCT7449,ACCT6501,Ella Brock,282437,Business,Education industry,High,8/31/2019,High,Bangladesh,Low,France
+1,2415352,ACCT5420,ACCT6035,Kylie Grant,399177,Business,News media,High,9/25/2019,High,Argentina,Low,South Korea
+1,2411798,ACCT6100,ACCT2908,Liam Austin,1395223,Business,Semiconductor industry,High,11/8/2019,High,Philippines,Low,United Kingdom
+1,2405204,ACCT7099,ACCT4903,Yusuf Colon,614078,Business,Computer industry,High,2/4/2019,High,South Africa,Low,Mexico
+1,2405067,ACCT6144,ACCT4431,Ari Reese,1749771,Business,Video game industry,High,6/23/2019,High,Egypt,Low,United States
+1,2397598,ACCT3796,ACCT2149,Conrad Herring,2366772,Business,Petroleum industry,High,9/30/2019,High,Philippines,Low,Italy
+1,2390336,ACCT6766,ACCT7986,Anastasia Cochran,356324,Business,Semiconductor industry,High,4/23/2019,High,Pakistan,Low,Italy
+1,2389246,ACCT3557,ACCT3457,Marco Melton,1074965,Business,Low to medium tech industry,High,12/5/2019,High,Brazil,Low,South Korea
+1,2379209,ACCT2096,ACCT2371,Amari Farrell,883818,Business,Aerospace industry,High,12/16/2019,High,Russia,Low,Mexico
+1,2375921,ACCT2983,ACCT7798,Graham Shah,1427972,Business,Textile industry,High,4/19/2019,High,Turkey,Low,Italy
+1,2375344,ACCT7235,ACCT5163,Justice Conrad,1571079,Business,Aerospace industry,High,8/24/2019,High,Vietnam,Low,United States
+1,2373444,ACCT5992,ACCT7800,Tristen Stephenson,2106006,Business,Real estate industry,High,11/17/2019,High,Iran,Low,Netherlands
+1,2371591,ACCT4156,ACCT5788,Phoenix Blevins,276225,Business,Aerospace industry,High,10/11/2019,High,Nigeria,Low,Netherlands
+1,2371489,ACCT2840,ACCT4571,Jaycee Howell,1974903,Business,Industrial robot industry,High,11/12/2019,High,Bangladesh,Low,United Kingdom
+1,2366279,ACCT4832,ACCT2948,Bernard Woodard,1985588,Business,Electronics industry,High,6/3/2019,High,Colombia,Low,Germany
+1,2363697,ACCT3281,ACCT3094,Miya Aguilar,1913490,Business,Mass media,High,3/2/2019,High,Egypt,Low,Italy
+1,2363505,ACCT6830,ACCT6100,Alexis Greene,1895351,Business,Insurance industry,High,5/28/2019,High,Iran,Low,Netherlands
+1,2357953,ACCT4012,ACCT3066,Eric Beard,984304,Business,Water industry,High,2/10/2019,High,South Africa,Low,Australia
+1,2350856,ACCT5431,ACCT4164,Abdullah Hays,795837,Business,Shipbuilding industry,High,2/28/2019,High,Egypt,Low,Japan
+1,2348672,ACCT3428,ACCT7920,Ainsley Rosales,241526,Business,Pharmaceutical industry,High,7/22/2019,High,South Africa,Low,Canada
+1,2348341,ACCT3778,ACCT4090,Dustin Kerr,1446737,Business,Health care industry,High,9/5/2019,High,Colombia,Low,Italy
+1,2347696,ACCT3662,ACCT2031,Izabelle Horn,1248339,Business,News media,High,10/13/2019,High,Pakistan,Low,United States
+1,2336409,ACCT6936,ACCT4061,Ronin Bridges,1578656,Business,Internet,High,3/14/2019,High,Pakistan,Low,South Korea
+1,2332444,ACCT4898,ACCT4903,Yusuf Colon,614078,Business,Computer industry,High,10/2/2019,High,Argentina,Low,France
+1,2328661,ACCT5849,ACCT6325,Brooke Cruz,1465687,Business,Steel industry,High,3/29/2019,High,Colombia,Low,Germany
+1,2319993,ACCT5753,ACCT2645,Carly Page,544724,Business,Software industry,High,8/31/2019,High,Brazil,Low,Germany
+1,2319799,ACCT7743,ACCT7354,Martha Merritt,1473722,Business,Computer industry,High,2/3/2019,High,South Africa,Low,Mexico
+1,2318759,ACCT7251,ACCT2251,Mariam Camacho,2040453,Business,Steel industry,High,8/12/2019,High,Pakistan,Low,Canada
+1,2318499,ACCT2427,ACCT2001,Kevin Shelton,1435598,Business,Telecommunications industry,High,3/17/2019,High,South Africa,Low,Netherlands
+1,2311702,ACCT6780,ACCT2189,Carmen Rowe,1692423,Business,Real estate industry,High,9/10/2019,High,South Africa,Low,Netherlands
+1,2308858,ACCT7085,ACCT6919,Amari Hebert,1339799,Business,Video game industry,High,4/28/2019,High,Philippines,Low,United Kingdom
+1,2305484,ACCT5301,ACCT5819,Liliana Pugh,1854867,Business,Video game industry,High,3/17/2019,High,Argentina,Low,Netherlands
+1,2305258,ACCT7365,ACCT4664,Kole Pruitt,900219,Business,Industrial robot industry,High,10/11/2019,High,Nigeria,Low,Japan
+1,2304199,ACCT6354,ACCT5819,Liliana Pugh,1854867,Business,Video game industry,High,5/27/2019,High,Bangladesh,Low,Canada
+1,2298160,ACCT7566,ACCT4027,Shayla Shah,1940055,Business,Hospitality industry,High,1/27/2019,High,Pakistan,Low,South Korea
+1,2297861,ACCT4021,ACCT2769,Zackary Ruiz,513280,Business,Information industry,High,3/23/2019,High,Brazil,Low,Canada
+1,2289323,ACCT4849,ACCT3445,Ralph Hebert,853212,Business,Timber industry,High,8/11/2019,High,Bangladesh,Low,South Korea
+1,2283782,ACCT4191,ACCT2634,Leon Maynard,427925,Business,Education industry,High,9/11/2019,High,Argentina,Low,Germany
+1,2279574,ACCT3059,ACCT4431,Ari Reese,1749771,Business,Video game industry,High,3/7/2019,High,Bangladesh,Low,Australia
+1,2271942,ACCT6682,ACCT2844,Ian Buckley,1317977,Business,Energy industry,High,4/11/2019,High,Indonesia,Low,France
+1,2264478,ACCT7017,ACCT7459,Noah Nelson,1055387,Business,Internet,High,8/28/2019,High,Vietnam,Low,Australia
+1,2263781,ACCT7285,ACCT2008,Adeline Francis,469124,Business,Industrial robot industry,High,2/6/2019,High,Pakistan,Low,Japan
+1,2263082,ACCT2711,ACCT4903,Yusuf Colon,614078,Business,Computer industry,High,10/5/2019,High,Vietnam,Low,Japan
+1,2262038,ACCT7934,ACCT7603,Finley Lynch,1800068,Business,Music industry,High,3/3/2019,High,Argentina,Low,Germany
+1,2261810,ACCT7186,ACCT4261,Londyn Barnes,217013,Business,Publishing,High,6/11/2019,High,Philippines,Low,France
+1,2238476,ACCT5344,ACCT2087,Alexzander Osborn,123025,Business,Internet,High,3/8/2019,High,Iran,Low,United States
+1,2233352,ACCT5488,ACCT5508,Alma Pena,1983051,Business,Publishing,High,9/15/2019,High,Colombia,Low,United States
+1,2220305,ACCT4218,ACCT4574,Sincere Carrillo,826626,Business,Computer industry,High,5/30/2019,High,Philippines,Low,France
+1,2220262,ACCT5426,ACCT3066,Eric Beard,984304,Business,Water industry,High,8/9/2019,High,Nigeria,Low,Australia
+1,2213899,ACCT7956,ACCT2130,Aiden Watts,1456596,Business,Fishing industry,High,10/29/2019,High,Pakistan,Low,Australia
+1,2209139,ACCT7809,ACCT6119,Ally Hancock,812411,Business,Telecommunications industry,High,12/15/2019,High,Nigeria,Low,Netherlands
+1,2207898,ACCT7103,ACCT4664,Kole Pruitt,900219,Business,Industrial robot industry,High,5/17/2019,High,South Africa,Low,Canada
+1,2206374,ACCT5549,ACCT2545,Nina Bryan,1506992,Business,Water industry,High,7/1/2019,High,Saudi Arabia,Low,Italy
+1,2202839,ACCT7421,ACCT4135,Ada Elliott,338653,Business,Food industry,High,4/13/2019,High,Russia,Low,Netherlands
+1,2195045,ACCT7953,ACCT3153,Tyler Harrington,2169627,Business,Broadcasting,High,11/24/2019,High,Brazil,Low,South Korea
+1,2193190,ACCT6519,ACCT3153,Tyler Harrington,2169627,Business,Broadcasting,High,5/11/2019,High,Pakistan,Low,United Kingdom
+1,2183436,ACCT2960,ACCT2040,Alan Hooper,1763282,Business,Hospitality industry,High,7/21/2019,High,Brazil,Low,Australia
+1,2181130,ACCT5151,ACCT4027,Shayla Shah,1940055,Business,Hospitality industry,High,3/22/2019,High,Argentina,Low,Germany
+1,2172760,ACCT6124,ACCT3257,Karlie Ingram,141800,Business,Automotive industry,High,6/18/2019,High,Brazil,Low,Germany
+1,2169859,ACCT4719,ACCT5603,Aydin Noble,210506,Business,Chemical industry,High,6/13/2019,High,Philippines,Low,United Kingdom
+1,2159871,ACCT5687,ACCT5577,Leonidas Elliott,1279084,Business,Fishing industry,High,5/29/2019,High,Indonesia,Low,Germany
+1,2158217,ACCT5750,ACCT7603,Finley Lynch,1800068,Business,Music industry,High,6/11/2019,High,Bangladesh,Low,United States
+1,2144906,ACCT3584,ACCT3270,Andreas Vargas,1267559,Business,Music industry,High,1/22/2019,High,Vietnam,Low,Japan
+1,2139140,ACCT7865,ACCT7453,Sonia Roach,1305783,Business,Entertainment industry,High,1/10/2019,High,Bangladesh,Low,Japan
+1,2135762,ACCT4762,ACCT5064,Janiya Mann,933234,Business,Electronics industry,High,4/20/2019,High,Brazil,Low,United Kingdom
+1,2135712,ACCT5460,ACCT3564,Caitlin Archer,2120882,Business,Pulp and paper industry,High,10/24/2019,High,Russia,Low,Germany
+1,2129871,ACCT6779,ACCT6291,Maurice Estes,2021301,Business,Food industry,High,12/3/2019,High,South Africa,Low,South Korea
+1,2114870,ACCT3628,ACCT7556,Shaun Escobar,1320895,Business,Film industry,High,7/6/2019,High,Pakistan,Low,Italy
+1,2113386,ACCT5613,ACCT2087,Alexzander Osborn,123025,Business,Internet,High,4/14/2019,High,Egypt,Low,Germany
+1,2111281,ACCT4962,ACCT7215,Emelia Mendez,810450,Business,Pulp and paper industry,High,11/9/2019,High,Nigeria,Low,United Kingdom
+1,2107351,ACCT4737,ACCT2645,Carly Page,544724,Business,Software industry,High,1/1/2019,High,Indonesia,Low,Australia
+1,2101533,ACCT5850,ACCT6100,Alexis Greene,1895351,Business,Insurance industry,High,6/4/2019,High,Iran,Low,Mexico
+1,2100930,ACCT7403,ACCT4903,Yusuf Colon,614078,Business,Computer industry,High,2/27/2019,High,Iran,Low,United Kingdom
+1,2099898,ACCT2202,ACCT5795,Mateo Hinton,2026516,Business,Video game industry,High,5/23/2019,High,Indonesia,Low,South Korea
+1,2097182,ACCT5411,ACCT7306,Arabella Coffey,645344,Business,Defense industry,High,12/2/2019,High,Brazil,Low,Mexico
+1,2094675,ACCT2196,ACCT4823,Lance Vance,129926,Business,Pulp and paper industry,High,9/18/2019,High,Egypt,Low,Germany
+1,2090964,ACCT4190,ACCT7028,Deacon Walls,789169,Business,Water industry,High,12/11/2019,High,Philippines,Low,South Korea
+1,2088023,ACCT7499,ACCT2258,Aiyana Pham,1382552,Business,Computer industry,High,7/16/2019,High,Pakistan,Low,Netherlands
+1,2069194,ACCT7880,ACCT3991,Chace Spence,1820846,Business,Fishing industry,High,7/19/2019,High,Argentina,Low,Australia
+1,2067629,ACCT6266,ACCT2844,Ian Buckley,1317977,Business,Energy industry,High,5/19/2019,High,Indonesia,Low,Australia
+1,2058448,ACCT5018,ACCT6174,Eduardo Bryan,828141,Business,Industrial robot industry,High,4/10/2019,High,Bangladesh,Low,South Korea
+1,2057603,ACCT2942,ACCT7579,Ally Espinoza,1214825,Business,Telecommunications industry,High,1/2/2019,High,Colombia,Low,Australia
+1,2056308,ACCT6685,ACCT4215,Nikolas Alvarado,1141936,Business,Computer industry,High,11/1/2019,High,Iran,Low,Netherlands
+1,2054008,ACCT6662,ACCT6501,Ella Brock,282437,Business,Education industry,High,5/4/2019,High,Colombia,Low,Mexico
+1,2047779,ACCT6822,ACCT7339,Delilah Miranda,1255268,Business,Food industry,High,4/12/2019,High,Vietnam,Low,Australia
+1,2032375,ACCT3636,ACCT5911,Brianna Hester,1131000,Business,Telecommunications industry,High,5/21/2019,High,Saudi Arabia,Low,South Korea
+1,2032063,ACCT7596,ACCT6131,Miracle Sharp,157719,Business,Automotive industry,High,6/1/2019,High,Nigeria,Low,Japan
+1,2029849,ACCT5235,ACCT3671,Terrell Ware,671208,Business,Energy industry,High,10/27/2019,High,Colombia,Low,Germany
+1,2026847,ACCT4939,ACCT4851,Maddox Mahoney,1537529,Business,Health care industry,High,8/24/2019,High,Pakistan,Low,United Kingdom
+1,2025276,ACCT2560,ACCT3672,Weston Herring,521214,Business,Petroleum industry,High,6/2/2019,High,Bangladesh,Low,United Kingdom
+1,2018289,ACCT7753,ACCT5643,Aliyah Odom,1582722,Business,Industrial robot industry,High,2/23/2019,High,South Africa,Low,Italy
+1,2012584,ACCT4593,ACCT7714,Frances Watkins,291369,Business,Fishing industry,High,10/10/2019,High,Bangladesh,Low,United States
+1,2003709,ACCT6041,ACCT6301,Cecilia Meyer,368008,Business,Energy industry,High,6/30/2019,High,Iran,Low,Japan
+1,1996175,ACCT4069,ACCT4725,Gerardo Leonard,1195677,Business,Timber industry,High,5/30/2019,High,Russia,Low,Italy
+1,1990903,ACCT6980,ACCT7673,Viviana Sellers,811374,Business,Video game industry,High,5/19/2019,High,Nigeria,Low,Germany
+1,1976094,ACCT6021,ACCT7834,Karli Ryan,1020063,Business,Internet,High,8/30/2019,High,Nigeria,Low,France
+1,1971916,ACCT5051,ACCT7673,Viviana Sellers,811374,Business,Video game industry,High,11/15/2019,High,Pakistan,Low,United Kingdom
+1,1968667,ACCT6052,ACCT7350,Peter Gibbs,737939,Business,Video game industry,High,8/13/2019,High,Iran,Low,Canada
+1,1968506,ACCT3648,ACCT7599,Anabelle Wolfe,243191,Business,Petroleum industry,High,3/28/2019,High,Brazil,Low,Mexico
+1,1966218,ACCT3670,ACCT2769,Zackary Ruiz,513280,Business,Information industry,High,5/21/2019,High,Colombia,Low,Mexico
+1,1949438,ACCT4512,ACCT3094,Miya Aguilar,1913490,Business,Mass media,High,7/5/2019,High,Bangladesh,Low,Canada
+1,1946418,ACCT6289,ACCT4725,Gerardo Leonard,1195677,Business,Timber industry,High,12/25/2019,High,Bangladesh,Low,United Kingdom
+1,1940329,ACCT5110,ACCT4132,Emma Escobar,361689,Business,Pharmaceutical industry,High,2/22/2019,High,Indonesia,Low,Mexico
+1,1937567,ACCT5706,ACCT7031,Dustin Stanley,743260,Business,Hospitality industry,High,11/20/2019,High,Philippines,Low,United States
+1,1934064,ACCT3960,ACCT3661,Rolando Hester,1517068,Business,Mass media,High,4/4/2019,High,Pakistan,Low,Mexico
+1,1933694,ACCT4442,ACCT6863,Ivan Pruitt,1272519,Business,Industrial robot industry,High,1/5/2019,High,Bangladesh,Low,United Kingdom
+1,1918194,ACCT3891,ACCT2634,Leon Maynard,427925,Business,Education industry,High,9/25/2019,High,Saudi Arabia,Low,Australia
+1,1904780,ACCT6669,ACCT5603,Aydin Noble,210506,Business,Chemical industry,High,2/27/2019,High,Vietnam,Low,Netherlands
+1,1899284,ACCT7045,ACCT2693,Zayden Webster,802647,Business,Entertainment industry,High,3/24/2019,High,Bangladesh,Low,Japan
+1,1899217,ACCT3400,ACCT2087,Alexzander Osborn,123025,Business,Internet,High,8/8/2019,High,Colombia,Low,United Kingdom
+1,1894201,ACCT3169,ACCT5600,Tiana Levy,1608741,Business,Steel industry,High,7/22/2019,High,Iran,Low,Canada
+1,1889699,ACCT2260,ACCT4514,Skyla Sparks,1686586,Business,Industrial robot industry,High,11/26/2019,High,Russia,Low,Germany
+1,1872316,ACCT2194,ACCT5788,Phoenix Blevins,276225,Business,Aerospace industry,High,8/13/2019,High,Philippines,Low,United States
+1,1868483,ACCT3247,ACCT5082,Mitchell Harrell,1149639,Business,Semiconductor industry,High,10/30/2019,High,Iran,Low,Italy
+1,1864406,ACCT5668,ACCT4135,Ada Elliott,338653,Business,Food industry,High,4/13/2019,High,Russia,Low,United Kingdom
+1,1858038,ACCT2269,ACCT2371,Amari Farrell,883818,Business,Aerospace industry,High,6/13/2019,High,Saudi Arabia,Low,Mexico
+1,1852694,ACCT7718,ACCT7270,Skylar French,275250,Business,Financial services industry,High,4/5/2019,High,Brazil,Low,United States
+1,1849939,ACCT3813,ACCT7960,Taniya Higgins,835459,Business,Telecommunications industry,High,11/8/2019,High,Saudi Arabia,Low,France
+1,1849530,ACCT6364,ACCT3147,Triston Moreno,1729880,Business,Electrical power industry,High,1/28/2019,High,Bangladesh,Low,Mexico
+1,1844821,ACCT4158,ACCT3210,Lilian Richard,809451,Business,Financial services industry,High,12/5/2019,High,Colombia,Low,Mexico
+1,1836768,ACCT7364,ACCT7862,Clarissa Cochran,1389498,Business,Water industry,High,7/22/2019,High,Brazil,Low,Mexico
+1,1831324,ACCT2214,ACCT7916,Marquise Henson,1208314,Business,Hospitality industry,High,1/30/2019,High,Brazil,Low,South Korea
+1,1823873,ACCT7726,ACCT7031,Dustin Stanley,743260,Business,Hospitality industry,High,9/19/2019,High,Turkey,Low,Japan
+1,1822434,ACCT2312,ACCT5788,Phoenix Blevins,276225,Business,Aerospace industry,High,5/6/2019,High,Pakistan,Low,Netherlands
+1,1819587,ACCT6604,ACCT4725,Gerardo Leonard,1195677,Business,Timber industry,High,8/6/2019,High,Iran,Low,Germany
+1,1810897,ACCT4061,ACCT7920,Ainsley Rosales,241526,Business,Pharmaceutical industry,High,7/19/2019,High,Nigeria,Low,Mexico
+1,1802535,ACCT3452,ACCT6589,Noe Benjamin,581850,Business,Arms industry,High,9/21/2019,High,Saudi Arabia,Low,United Kingdom
+1,1799057,ACCT4196,ACCT3445,Ralph Hebert,853212,Business,Timber industry,High,4/1/2019,High,Saudi Arabia,Low,United States
+1,1793980,ACCT7089,ACCT5428,Demetrius Rivers,1500027,Business,Telecommunications industry,High,2/24/2019,High,Bangladesh,Low,South Korea
+1,1788772,ACCT6107,ACCT7960,Taniya Higgins,835459,Business,Telecommunications industry,High,3/21/2019,High,Vietnam,Low,Italy
+1,1774690,ACCT4930,ACCT3380,Moshe Petty,320296,Business,Energy industry,High,7/25/2019,High,South Africa,Low,United Kingdom
+1,1774602,ACCT3533,ACCT4823,Lance Vance,129926,Business,Pulp and paper industry,High,3/11/2019,High,Colombia,Low,United Kingdom
+1,1769826,ACCT3651,ACCT7996,Francis Mcclure,688219,Business,Computer industry,High,2/13/2019,High,Russia,Low,Mexico
+1,1762655,ACCT4428,ACCT6571,Brogan Farmer,880290,Business,Mass media,High,6/15/2019,High,Colombia,Low,Canada
+1,1761478,ACCT4730,ACCT6743,Jamir Mckinney,262241,Business,Film industry,High,2/1/2019,High,Iran,Low,France
+1,1759584,ACCT7838,ACCT6178,Nathanael James,108874,Business,Hospitality industry,High,5/5/2019,High,Bangladesh,Low,Mexico
+1,1758627,ACCT5034,ACCT4823,Lance Vance,129926,Business,Pulp and paper industry,High,11/12/2019,High,Egypt,Low,United States
+1,1744275,ACCT5259,ACCT5577,Leonidas Elliott,1279084,Business,Fishing industry,High,11/19/2019,High,South Africa,Low,United Kingdom
+1,1741111,ACCT7235,ACCT2743,Frida Faulkner,813954,Business,Mass media,High,4/22/2019,High,Indonesia,Low,United States
+1,1738599,ACCT6603,ACCT7354,Martha Merritt,1473722,Business,Computer industry,High,7/19/2019,High,Brazil,Low,Netherlands
+1,1738307,ACCT2341,ACCT3833,Emilee Nixon,1316521,Business,Construction industry,High,4/28/2019,High,Argentina,Low,Japan
+1,1725825,ACCT5153,ACCT2029,Allan Parsons,1170210,Business,Telecommunications industry,High,2/8/2019,High,Turkey,Low,France
+1,1724209,ACCT4335,ACCT5643,Aliyah Odom,1582722,Business,Industrial robot industry,High,5/7/2019,High,Saudi Arabia,Low,South Korea
+1,1721986,ACCT5440,ACCT5064,Janiya Mann,933234,Business,Electronics industry,High,7/30/2019,High,Iran,Low,France
+1,1719013,ACCT6585,ACCT7834,Karli Ryan,1020063,Business,Internet,High,11/18/2019,High,Nigeria,Low,South Korea
+1,1704735,ACCT4521,ACCT7000,Zaiden Bender,1626801,Business,Mass media,High,7/1/2019,High,Argentina,Low,Japan
+1,1703409,ACCT6149,ACCT4215,Nikolas Alvarado,1141936,Business,Computer industry,High,11/5/2019,High,Nigeria,Low,Canada
+1,1692852,ACCT7155,ACCT4029,Tianna Mays,782425,Business,Hospitality industry,High,11/15/2019,High,Vietnam,Low,France
+1,1683714,ACCT6073,ACCT4891,Jaidyn Kirk,603008,Business,Tobacco industry,High,1/5/2019,High,Philippines,Low,Japan
+1,1679702,ACCT4995,ACCT2634,Leon Maynard,427925,Business,Education industry,High,6/15/2019,High,South Africa,Low,United Kingdom
+1,1675373,ACCT7562,ACCT6969,Santos Cantrell,1079773,Business,Tobacco industry,High,6/7/2019,High,Brazil,Low,Italy
+1,1660699,ACCT6769,ACCT5428,Demetrius Rivers,1500027,Business,Telecommunications industry,High,2/9/2019,High,Saudi Arabia,Low,Australia
+1,1657510,ACCT2581,ACCT6571,Brogan Farmer,880290,Business,Mass media,High,9/23/2019,High,Philippines,Low,South Korea
+1,1655106,ACCT7289,ACCT4164,Abdullah Hays,795837,Business,Shipbuilding industry,High,12/17/2019,High,Philippines,Low,United Kingdom
+1,1651032,ACCT5930,ACCT5892,Turner Gibbs,1196714,Business,Education industry,High,5/24/2019,High,Colombia,Low,Mexico
+1,1648233,ACCT4265,ACCT5993,Jerome Salas,326590,Business,Transport industry,High,3/30/2019,High,Turkey,Low,United States
+1,1640183,ACCT7352,ACCT6969,Santos Cantrell,1079773,Business,Tobacco industry,High,9/30/2019,High,Iran,Low,Netherlands
+1,1635860,ACCT2498,ACCT4135,Ada Elliott,338653,Business,Food industry,High,6/5/2019,High,Iran,Low,United States
+1,1634429,ACCT4038,ACCT5614,Reed Castillo,738493,Business,Real estate industry,High,9/27/2019,High,Philippines,Low,Netherlands
+1,1633153,ACCT4281,ACCT4135,Ada Elliott,338653,Business,Food industry,High,11/2/2019,High,Bangladesh,Low,United States
+1,1632390,ACCT2689,ACCT6114,Ally Olsen,169672,Business,Industrial robot industry,High,1/11/2019,High,Egypt,Low,Japan
+1,1625231,ACCT3022,ACCT2029,Allan Parsons,1170210,Business,Telecommunications industry,High,4/27/2019,High,Argentina,Low,Netherlands
+1,1624829,ACCT3014,ACCT6796,Harley Simpson,102749,Business,Automotive industry,High,3/3/2019,High,Russia,Low,United Kingdom
+1,1619297,ACCT4434,ACCT6796,Harley Simpson,102749,Business,Automotive industry,High,8/5/2019,High,Iran,Low,France
+1,1614952,ACCT6196,ACCT5713,Lexie Floyd,683623,Business,Electronics industry,High,7/1/2019,High,Nigeria,Low,Japan
+1,1614923,ACCT6703,ACCT3437,Glenn Simmons,1081796,Business,News media,High,4/25/2019,High,Saudi Arabia,Low,France
+1,1614136,ACCT2096,ACCT7996,Francis Mcclure,688219,Business,Computer industry,High,5/26/2019,High,South Africa,Low,Canada
+1,1608080,ACCT2256,ACCT3672,Weston Herring,521214,Business,Petroleum industry,High,3/7/2019,High,Argentina,Low,South Korea
+1,1604802,ACCT7498,ACCT7798,Graham Shah,1427972,Business,Textile industry,High,8/24/2019,High,Argentina,Low,Japan
+1,1603152,ACCT5675,ACCT7556,Shaun Escobar,1320895,Business,Film industry,High,9/22/2019,High,Iran,Low,United Kingdom
+1,1597251,ACCT5170,ACCT6131,Miracle Sharp,157719,Business,Automotive industry,High,10/21/2019,High,Egypt,Low,United States
+1,1593613,ACCT2875,ACCT6198,Anderson Pace,1096462,Business,Low to medium tech industry,High,2/23/2019,High,Egypt,Low,United Kingdom
+1,1582926,ACCT4049,ACCT6571,Brogan Farmer,880290,Business,Mass media,High,9/17/2019,High,Brazil,Low,South Korea
+1,1581331,ACCT2720,ACCT2031,Izabelle Horn,1248339,Business,News media,High,1/11/2019,High,Russia,Low,Canada
+1,1562143,ACCT3133,ACCT5983,Neil Pham,1065707,Business,Petroleum industry,High,10/11/2019,High,Vietnam,Low,Italy
+1,1559037,ACCT5418,ACCT7986,Anastasia Cochran,356324,Business,Semiconductor industry,High,10/5/2019,High,Egypt,Low,United Kingdom
+1,1558588,ACCT7150,ACCT5713,Lexie Floyd,683623,Business,Electronics industry,High,2/24/2019,High,Brazil,Low,Australia
+1,1557491,ACCT4020,ACCT7862,Clarissa Cochran,1389498,Business,Water industry,High,2/13/2019,High,Nigeria,Low,Canada
+1,1554762,ACCT6578,ACCT2008,Adeline Francis,469124,Business,Industrial robot industry,High,6/4/2019,High,Russia,Low,Mexico
+1,1550173,ACCT7912,ACCT6589,Noe Benjamin,581850,Business,Arms industry,High,5/29/2019,High,Nigeria,Low,Netherlands
+1,1542200,ACCT7207,ACCT5788,Phoenix Blevins,276225,Business,Aerospace industry,High,4/16/2019,High,Nigeria,Low,United Kingdom
+1,1533171,ACCT3103,ACCT7306,Arabella Coffey,645344,Business,Defense industry,High,6/7/2019,High,Colombia,Low,United Kingdom
+1,1520413,ACCT2960,ACCT4181,Tyrell Figueroa,1068160,Business,Pharmaceutical industry,High,3/17/2019,High,Pakistan,Low,United Kingdom
+1,1510893,ACCT7476,ACCT3066,Eric Beard,984304,Business,Water industry,High,1/2/2019,High,Turkey,Low,France
+1,1506040,ACCT6676,ACCT3879,Elliott Holt,563804,Business,Insurance industry,High,7/16/2019,High,Egypt,Low,Germany
+1,1505277,ACCT2158,ACCT4090,Dustin Kerr,1446737,Business,Health care industry,High,12/3/2019,High,Saudi Arabia,Low,Japan
+1,1501403,ACCT2248,ACCT3066,Eric Beard,984304,Business,Water industry,High,12/9/2019,High,Colombia,Low,France
+1,1497610,ACCT6352,ACCT3177,Keyon Jones,467592,Business,Mass media,High,2/21/2019,High,Nigeria,Low,Mexico
+1,1495973,ACCT2160,ACCT6174,Eduardo Bryan,828141,Business,Industrial robot industry,High,8/17/2019,High,Saudi Arabia,Low,Italy
+1,1493616,ACCT7318,ACCT5577,Leonidas Elliott,1279084,Business,Fishing industry,High,11/19/2019,High,Russia,Low,France
+1,1489650,ACCT2431,ACCT2087,Alexzander Osborn,123025,Business,Internet,High,6/16/2019,High,Turkey,Low,Japan
+1,1475531,ACCT5998,ACCT4164,Abdullah Hays,795837,Business,Shipbuilding industry,High,6/1/2019,High,Russia,Low,Germany
+1,1474785,ACCT3722,ACCT5993,Jerome Salas,326590,Business,Transport industry,High,3/23/2019,High,Argentina,Low,Canada
+1,1467714,ACCT4423,ACCT2634,Leon Maynard,427925,Business,Education industry,High,2/7/2019,High,Colombia,Low,Italy
+1,1466892,ACCT2918,ACCT7986,Anastasia Cochran,356324,Business,Semiconductor industry,High,11/28/2019,High,Iran,Low,Italy
+1,1455874,ACCT6132,ACCT7920,Ainsley Rosales,241526,Business,Pharmaceutical industry,High,3/25/2019,High,Brazil,Low,Australia
+1,1454324,ACCT4270,ACCT5168,Alessandra Fry,420572,Business,Computer industry,High,1/13/2019,High,Nigeria,Low,Australia
+1,1453153,ACCT3197,ACCT6743,Jamir Mckinney,262241,Business,Film industry,High,5/15/2019,High,Colombia,Low,Mexico
+1,1446490,ACCT6500,ACCT2701,Kiersten Cochran,975866,Business,Transport industry,High,3/7/2019,High,Egypt,Low,Netherlands
+1,1445325,ACCT3542,ACCT6174,Eduardo Bryan,828141,Business,Industrial robot industry,High,8/7/2019,High,South Africa,Low,United Kingdom
+1,1441565,ACCT2669,ACCT7215,Emelia Mendez,810450,Business,Pulp and paper industry,High,1/11/2019,High,Brazil,Low,Canada
+1,1438655,ACCT5713,ACCT4261,Londyn Barnes,217013,Business,Publishing,High,3/18/2019,High,Vietnam,Low,Germany
+1,1432924,ACCT3788,ACCT4959,Landin Torres,687069,Business,Computer industry,High,3/7/2019,High,Indonesia,Low,France
+1,1428904,ACCT7495,ACCT5614,Reed Castillo,738493,Business,Real estate industry,High,8/4/2019,High,Indonesia,Low,Netherlands
+1,1427386,ACCT3988,ACCT7459,Noah Nelson,1055387,Business,Internet,High,9/19/2019,High,Argentina,Low,Australia
+1,1419403,ACCT7984,ACCT3177,Keyon Jones,467592,Business,Mass media,High,4/7/2019,High,Bangladesh,Low,Canada
+1,1403911,ACCT3938,ACCT7960,Taniya Higgins,835459,Business,Telecommunications industry,High,1/17/2019,High,South Africa,Low,Italy
+1,1383007,ACCT2556,ACCT3066,Eric Beard,984304,Business,Water industry,High,12/30/2019,High,Colombia,Low,United States
+1,1378365,ACCT3777,ACCT7306,Arabella Coffey,645344,Business,Defense industry,High,7/30/2019,High,Egypt,Low,United States
+1,1371583,ACCT3978,ACCT2769,Zackary Ruiz,513280,Business,Information industry,High,8/5/2019,High,Nigeria,Low,Italy
+1,1365781,ACCT6752,ACCT6301,Cecilia Meyer,368008,Business,Energy industry,High,2/11/2019,High,Colombia,Low,Canada
+1,1362152,ACCT4283,ACCT3257,Karlie Ingram,141800,Business,Automotive industry,High,6/4/2019,High,South Africa,Low,Netherlands
+1,1358118,ACCT6151,ACCT6571,Brogan Farmer,880290,Business,Mass media,High,3/2/2019,High,Nigeria,Low,United Kingdom
+1,1345273,ACCT4952,ACCT4574,Sincere Carrillo,826626,Business,Computer industry,High,9/19/2019,High,Philippines,Low,Canada
+1,1338538,ACCT4492,ACCT6301,Cecilia Meyer,368008,Business,Energy industry,High,8/5/2019,High,Saudi Arabia,Low,Australia
+1,1333655,ACCT3931,ACCT7459,Noah Nelson,1055387,Business,Internet,High,7/16/2019,High,Indonesia,Low,Netherlands
+1,1330531,ACCT5688,ACCT7714,Frances Watkins,291369,Business,Fishing industry,High,10/12/2019,High,Russia,Low,Netherlands
+1,1320222,ACCT2620,ACCT5993,Jerome Salas,326590,Business,Transport industry,High,1/24/2019,High,Argentina,Low,United Kingdom
+1,1318821,ACCT5151,ACCT2315,Leonel Vargas,781387,Business,Pulp and paper industry,High,5/20/2019,High,Colombia,Low,South Korea
+1,1317793,ACCT5849,ACCT7459,Noah Nelson,1055387,Business,Internet,High,11/5/2019,High,Brazil,Low,South Korea
+1,1308687,ACCT3106,ACCT6114,Ally Olsen,169672,Business,Industrial robot industry,High,2/2/2019,High,Indonesia,Low,United States
+1,1307071,ACCT5049,ACCT6301,Cecilia Meyer,368008,Business,Energy industry,High,4/23/2019,High,Russia,Low,Italy
+1,1301000,ACCT7336,ACCT4164,Abdullah Hays,795837,Business,Shipbuilding industry,High,5/3/2019,High,Russia,Low,United States
+1,1299466,ACCT3889,ACCT7125,Skyler Key,1287205,Business,Textile industry,High,7/30/2019,High,Saudi Arabia,Low,Canada
+1,1285989,ACCT3433,ACCT2949,Lawrence Dunn,282389,Business,Sport industry,High,8/31/2019,High,Iran,Low,United States
+1,1277817,ACCT6056,ACCT7673,Viviana Sellers,811374,Business,Video game industry,High,12/18/2019,High,Saudi Arabia,Low,United States
+1,1265749,ACCT5314,ACCT2319,Thalia Wall,474659,Business,Defense industry,High,7/20/2019,High,Iran,Low,United States
+1,1254845,ACCT4765,ACCT3066,Eric Beard,984304,Business,Water industry,High,10/25/2019,High,Iran,Low,Canada
+1,1253621,ACCT7951,ACCT5338,Alessandro Murillo,794758,Business,Insurance industry,High,1/15/2019,High,Pakistan,Low,France
+1,1246141,ACCT2701,ACCT7996,Francis Mcclure,688219,Business,Computer industry,High,7/2/2019,High,Iran,Low,Netherlands
+1,1220587,ACCT2519,ACCT2484,Rodney Zavala,279780,Business,Health care industry,High,5/18/2019,High,Philippines,Low,Germany
+1,1220213,ACCT7160,ACCT7579,Ally Espinoza,1214825,Business,Telecommunications industry,High,6/1/2019,High,Bangladesh,Low,Australia
+1,1217034,ACCT3482,ACCT2634,Leon Maynard,427925,Business,Education industry,High,3/5/2019,High,Saudi Arabia,Low,Italy
+1,1210082,ACCT6684,ACCT2701,Kiersten Cochran,975866,Business,Transport industry,High,8/1/2019,High,Brazil,Low,Germany
+1,1208436,ACCT3732,ACCT6501,Ella Brock,282437,Business,Education industry,High,3/25/2019,High,Iran,Low,Mexico
+1,1201238,ACCT4133,ACCT5064,Janiya Mann,933234,Business,Electronics industry,High,4/19/2019,High,Iran,Low,United Kingdom
+1,1194946,ACCT5450,ACCT4664,Kole Pruitt,900219,Business,Industrial robot industry,High,8/22/2019,High,Nigeria,Low,Japan
+1,1182760,ACCT4412,ACCT6131,Miracle Sharp,157719,Business,Automotive industry,High,12/21/2019,High,Saudi Arabia,Low,United States
+1,1164539,ACCT7457,ACCT6501,Ella Brock,282437,Business,Education industry,High,11/9/2019,High,Argentina,Low,United States
+1,1164449,ACCT7107,ACCT4181,Tyrell Figueroa,1068160,Business,Pharmaceutical industry,High,9/12/2019,High,Iran,Low,Netherlands
+1,1136240,ACCT5997,ACCT5168,Alessandra Fry,420572,Business,Computer industry,High,9/6/2019,High,Bangladesh,Low,Mexico
+1,1134523,ACCT3439,ACCT5168,Alessandra Fry,420572,Business,Computer industry,High,6/11/2019,High,Saudi Arabia,Low,United States
+1,1111366,ACCT4500,ACCT3671,Terrell Ware,671208,Business,Energy industry,High,12/13/2019,High,Argentina,Low,Japan
+1,1111074,ACCT2157,ACCT3671,Terrell Ware,671208,Business,Energy industry,High,10/7/2019,High,Pakistan,Low,Germany
+1,1098180,ACCT5998,ACCT6531,Katrina Hughes,772430,Business,Low to medium tech industry,High,8/25/2019,High,Iran,Low,South Korea
+1,1097268,ACCT4827,ACCT2450,Alyvia Rogers,1080569,Business,Real estate industry,High,1/30/2019,High,Pakistan,Low,Australia
+1,1090936,ACCT3396,ACCT3671,Terrell Ware,671208,Business,Energy industry,High,4/4/2019,High,Colombia,Low,South Korea
+1,1090554,ACCT4049,ACCT2746,Irene Kane,910017,Business,Real estate industry,High,6/3/2019,High,Pakistan,Low,Australia
+1,1088216,ACCT7780,ACCT5168,Alessandra Fry,420572,Business,Computer industry,High,12/11/2019,High,Iran,Low,Italy
+1,1071247,ACCT6568,ACCT7960,Taniya Higgins,835459,Business,Telecommunications industry,High,9/20/2019,High,Argentina,Low,Japan
+1,1056398,ACCT4907,ACCT4132,Emma Escobar,361689,Business,Pharmaceutical industry,High,11/30/2019,High,Philippines,Low,Germany
+1,1045644,ACCT4580,ACCT6796,Harley Simpson,102749,Business,Automotive industry,High,8/11/2019,High,Vietnam,Low,Germany
+1,1042781,ACCT7680,ACCT6119,Ally Hancock,812411,Business,Telecommunications industry,High,5/2/2019,High,Pakistan,Low,Japan
+1,1040809,ACCT7210,ACCT4132,Emma Escobar,361689,Business,Pharmaceutical industry,High,10/26/2019,High,Russia,Low,United States
+1,1035397,ACCT7991,ACCT7350,Peter Gibbs,737939,Business,Video game industry,High,2/19/2019,High,Argentina,Low,Japan
+1,1014799,ACCT5072,ACCT6571,Brogan Farmer,880290,Business,Mass media,High,6/14/2019,High,Pakistan,Low,Germany
+1,988306,ACCT3322,ACCT3154,Desmond Page,851358,Business,Textile industry,High,6/5/2019,High,Iran,Low,Mexico
+1,988162,ACCT5494,ACCT6174,Eduardo Bryan,828141,Business,Industrial robot industry,High,2/28/2019,High,Philippines,Low,South Korea
+1,986884,ACCT6157,ACCT3210,Lilian Richard,809451,Business,Financial services industry,High,2/7/2019,High,Brazil,Low,Germany
+1,978744,ACCT7994,ACCT5614,Reed Castillo,738493,Business,Real estate industry,High,7/27/2019,High,South Africa,Low,France
+1,954466,ACCT2820,ACCT3014,Regina Roberts,122477,Business,Industrial robot industry,High,1/3/2019,High,Pakistan,Low,United Kingdom
+1,927410,ACCT6396,ACCT3052,Pranav Salas,692233,Business,Defense industry,High,7/6/2019,High,Saudi Arabia,Low,Mexico
+1,925843,ACCT5868,ACCT2835,Elise Watson,824484,Business,Education industry,High,8/20/2019,High,Pakistan,Low,Australia
+1,923406,ACCT4026,ACCT6796,Harley Simpson,102749,Business,Automotive industry,High,11/9/2019,High,Turkey,Low,Netherlands
+1,916012,ACCT7924,ACCT2008,Adeline Francis,469124,Business,Industrial robot industry,High,7/18/2019,High,Turkey,Low,Japan
+1,913746,ACCT4809,ACCT7440,Jaliyah Mccall,207755,Business,Fishing industry,High,3/11/2019,High,Egypt,Low,Australia
+1,909328,ACCT4778,ACCT3445,Ralph Hebert,853212,Business,Timber industry,High,6/21/2019,High,Colombia,Low,South Korea
+1,900271,ACCT7075,ACCT7286,Rebekah Vaughn,273083,Business,Telecommunications industry,High,7/15/2019,High,Brazil,Low,Japan
+1,896734,ACCT7597,ACCT2186,Ricardo Solis,470748,Business,Computer industry,High,2/10/2019,High,Iran,Low,France
+1,894594,ACCT2232,ACCT4148,Anton Villa,510977,Business,Music industry,High,6/10/2019,High,Indonesia,Low,Australia
+1,885853,ACCT6211,ACCT3177,Keyon Jones,467592,Business,Mass media,High,10/31/2019,High,Philippines,Low,South Korea
+1,880443,ACCT5786,ACCT7673,Viviana Sellers,811374,Business,Video game industry,High,6/18/2019,High,Nigeria,Low,United Kingdom
+1,859899,ACCT5065,ACCT2949,Lawrence Dunn,282389,Business,Sport industry,High,11/20/2019,High,Saudi Arabia,Low,Canada
+1,855060,ACCT6908,ACCT4823,Lance Vance,129926,Business,Pulp and paper industry,High,4/7/2019,High,Russia,Low,France
+1,848330,ACCT3136,ACCT6301,Cecilia Meyer,368008,Business,Energy industry,High,10/26/2019,High,Brazil,Low,United Kingdom
+1,839443,ACCT2681,ACCT6119,Ally Hancock,812411,Business,Telecommunications industry,High,7/23/2019,High,South Africa,Low,Germany
+1,832824,ACCT5756,ACCT7673,Viviana Sellers,811374,Business,Video game industry,High,1/3/2019,High,Colombia,Low,Mexico
+1,832710,ACCT2233,ACCT7986,Anastasia Cochran,356324,Business,Semiconductor industry,High,3/1/2019,High,Indonesia,Low,Germany
+1,805075,ACCT5232,ACCT5614,Reed Castillo,738493,Business,Real estate industry,High,12/26/2019,High,Argentina,Low,Germany
+1,787454,ACCT6508,ACCT6743,Jamir Mckinney,262241,Business,Film industry,High,4/9/2019,High,Philippines,Low,United States
+1,778375,ACCT7104,ACCT4121,Macy Abbott,283204,Business,Film industry,High,9/22/2019,High,Saudi Arabia,Low,United States
+1,774584,ACCT5681,ACCT2769,Zackary Ruiz,513280,Business,Information industry,High,5/28/2019,High,Indonesia,Low,Australia
+1,755568,ACCT5982,ACCT6743,Jamir Mckinney,262241,Business,Film industry,High,5/30/2019,High,Egypt,Low,Germany
+1,741312,ACCT5479,ACCT2769,Zackary Ruiz,513280,Business,Information industry,High,8/26/2019,High,Nigeria,Low,Italy
+1,732551,ACCT7552,ACCT4959,Landin Torres,687069,Business,Computer industry,High,3/2/2019,High,Saudi Arabia,Low,Australia
+1,708885,ACCT5247,ACCT3052,Pranav Salas,692233,Business,Defense industry,High,10/10/2019,High,Saudi Arabia,Low,France
+1,675443,ACCT7522,ACCT7270,Skylar French,275250,Business,Financial services industry,High,5/27/2019,High,Brazil,Low,South Korea
+1,671442,ACCT7720,ACCT6114,Ally Olsen,169672,Business,Industrial robot industry,High,1/24/2019,High,Bangladesh,Low,Germany
+1,663057,ACCT6762,ACCT7599,Anabelle Wolfe,243191,Business,Petroleum industry,High,2/8/2019,High,Russia,Low,South Korea
+1,647466,ACCT4280,ACCT3014,Regina Roberts,122477,Business,Industrial robot industry,High,8/19/2019,High,Russia,Low,Japan
+1,621823,ACCT7941,ACCT7286,Rebekah Vaughn,273083,Business,Telecommunications industry,High,6/24/2019,High,Indonesia,Low,South Korea
+1,616581,ACCT3699,ACCT7986,Anastasia Cochran,356324,Business,Semiconductor industry,High,3/31/2019,High,Russia,Low,Germany
+1,611554,ACCT6754,ACCT4148,Anton Villa,510977,Business,Music industry,High,6/6/2019,High,Egypt,Low,Australia
+1,588429,ACCT3553,ACCT6673,Renee Scott,523644,Business,Real estate industry,High,10/20/2019,High,South Africa,Low,Netherlands
+1,585165,ACCT3460,ACCT4135,Ada Elliott,338653,Business,Food industry,High,10/31/2019,High,Indonesia,Low,Netherlands
+1,579181,ACCT6306,ACCT5603,Aydin Noble,210506,Business,Chemical industry,High,4/26/2019,High,Argentina,Low,Mexico
+1,555551,ACCT6943,ACCT2645,Carly Page,544724,Business,Software industry,High,6/7/2019,High,Iran,Low,Japan
+1,525985,ACCT7470,ACCT2810,Moises Weber,483485,Business,Semiconductor industry,High,6/25/2019,High,Indonesia,Low,United Kingdom
+1,524758,ACCT3984,ACCT3672,Weston Herring,521214,Business,Petroleum industry,High,11/24/2019,High,Pakistan,Low,Mexico
+1,461115,ACCT4448,ACCT6743,Jamir Mckinney,262241,Business,Film industry,High,3/28/2019,High,Argentina,Low,Canada
+1,451164,ACCT3596,ACCT7986,Anastasia Cochran,356324,Business,Semiconductor industry,High,7/27/2019,High,Turkey,Low,Netherlands
+1,432871,ACCT5954,ACCT3380,Moshe Petty,320296,Business,Energy industry,High,5/23/2019,High,Russia,Low,France
+1,430771,ACCT4677,ACCT7920,Ainsley Rosales,241526,Business,Pharmaceutical industry,High,10/4/2019,High,Indonesia,Low,Netherlands
+1,424139,ACCT5882,ACCT5993,Jerome Salas,326590,Business,Transport industry,High,11/7/2019,High,Philippines,Low,Italy
+1,416284,ACCT6355,ACCT5788,Phoenix Blevins,276225,Business,Aerospace industry,High,11/30/2019,High,Argentina,Low,United States
+1,408609,ACCT7256,ACCT5993,Jerome Salas,326590,Business,Transport industry,High,8/1/2019,High,Nigeria,Low,France
+1,387521,ACCT5562,ACCT5993,Jerome Salas,326590,Business,Transport industry,High,5/4/2019,High,Vietnam,Low,Germany
+1,370059,ACCT5015,ACCT2484,Rodney Zavala,279780,Business,Health care industry,High,9/17/2019,High,Colombia,Low,Netherlands
+1,315563,ACCT3179,ACCT4121,Macy Abbott,283204,Business,Film industry,High,11/21/2019,High,Iran,Low,United Kingdom
+1,294301,ACCT3230,ACCT7599,Anabelle Wolfe,243191,Business,Petroleum industry,High,5/22/2019,High,Vietnam,Low,United States
+1,170225,ACCT2628,ACCT6114,Ally Olsen,169672,Business,Industrial robot industry,High,10/4/2019,High,South Africa,Low,Japan
+1,145347,ACCT6056,ACCT2087,Alexzander Osborn,123025,Business,Internet,High,7/20/2019,High,South Africa,Low,Mexico
